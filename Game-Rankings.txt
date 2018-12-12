@@ -74,7 +74,6 @@ To Play:
 * Fallout
 * Tomb Raider II
 * Quake II
-* 
 * Star Wars Jedi Knight: Dark Forces II
 * Blade Runner
 
@@ -393,7 +392,6 @@ To Play:
 * Crackdown 2
 * Spider-Man: Shattered Dimensions
 * Amnesia: The Dark Descent
-* Darksiders
 * Castlevania: Lords of Shadow
 -------------------------------------------------------------------------
 
@@ -502,6 +500,7 @@ To Play:
 2014
 * The Talos Principle
 * Scrolls
+* Jazzpunk
 * Metal Gear Solid V: Ground Zeroes
 * Transistor 
 * Goat Simulator
@@ -512,7 +511,6 @@ To Play:
 * Infamous: Second Son
 
 To Play:
-* Jazzpunk
 * Titanfall
 * Child of Light
 * Shovel Knight
@@ -555,12 +553,13 @@ To Play:
 -------------------------------------------------------------------------
 2016
 * Dark Souls III
-* Inside
+* INSIDE
 * Hitman
 * DOOM
 * Overwatch
 * Uncharted 4: A Thief's End
 * The Witness
+* Devil Daggers
 * Superhot
 * Rocket League
 * SpeedRunners
@@ -579,6 +578,8 @@ To Play:
 * Yakuza 6: The Song of Life
 * Owlboy
 * XCOM 2
+* Furi
+* Titanfall 2
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -586,6 +587,7 @@ To Play:
 * Nier: Automata
 * Cuphead
 * Yakuza 0
+* Getting Over It with Bennett Foddy
 * What Remains of Edith Finch
 * Hellblade: Senua's Sacrifice
 * Kingdom Hearts 0.2: Birth by Sleep – A Fragmentary Passage
