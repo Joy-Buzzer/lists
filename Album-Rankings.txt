@@ -1,7 +1,6 @@
  Albums :
 -------------------------------------------------------------------------
 
-
 -------------------------------------------------------------------------
 In Limbo
 * The SMiLE Sessions - The Beach Boys
@@ -172,9 +171,9 @@ In Limbo
 2000's
 * Yankee Hotel Foxtrot - Wilco
 * Kid A - Radiohead
-* The Glow, Pt. 2 - The Microphones
-* Is This It - The Strokes
 * Merriweather Post Pavilion - Animal Collective
+* Is This It - The Strokes
+* The Glow, Pt. 2 - The Microphones
 * Ágætis Byrjun - Sigur Rós
 * Funeral - Arcade Fire
 * Silent Shout - The Knife
