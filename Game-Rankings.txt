@@ -158,8 +158,8 @@ To Play:
 
 -------------------------------------------------------------------------
 2002
-* Ratchet & Clank
 * Kingdom Hearts
+* Ratchet & Clank
 * Grand Theft Auto: Vice City
 * TimeSplitters 2
 * Tony Hawk's Pro Skater 4
@@ -325,8 +325,8 @@ To Play:
 
 -------------------------------------------------------------------------
 2009
-* Uncharted 2: Among Thieves
 * Batman: Arkham Asylum
+* Uncharted 2: Among Thieves
 * Assassin's Creed II
 * Ratchet & Clank Future: A Crack in Time
 * Call of Duty: Modern Warfare 2
@@ -334,11 +334,11 @@ To Play:
 * inFamous
 * Flower
 * Skate 2
-* League of Legends
 * X-Men Origins: Wolverine
 * The Lord of the Rings: Conquest
 * Ghostbusters: The Video Game
 * Kingdom Hearts 358/2 Days
+* League of Legends
 * Prototype
 * Rag Doll Kung Fu: Fists of Plastic
 
@@ -363,11 +363,11 @@ To Play:
 2010
 * Red Dead Redemption
 * Super Mario Galaxy 2
-* Civilization V
 * Super Meat Boy
 * God of War III
 * Call of Duty: Black Ops
 * Mass Effect 2
+* Civilization V
 * Fallout: New Vegas
 * Assassin's Creed: Brotherhood
 * Heavy Rain
