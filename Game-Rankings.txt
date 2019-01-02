@@ -1,4 +1,4 @@
- Albums :
+ Games :
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1990
@@ -514,6 +514,7 @@ To Play:
 * Jazzpunk
 * Metal Gear Solid V: Ground Zeroes
 * Transistor 
+* Styx: Master of Shadows
 * Goat Simulator
 * This War of Mine
 * Hearthstone: Heroes of Warcraft
@@ -522,13 +523,14 @@ To Play:
 * Infamous: Second Son
 
 To Play:
+* A Bird Story
+* Middle-earth: Shadow of Mordor
 * Titanfall
 * Child of Light
 * Shovel Knight
 * The Swapper
 * The Vanishing of Ethan Carter
 * Alien: Isolation
-* Styx: Master of Shadows
 * The Evil Within
 * Bayonetta 2
 * Dragon Age: Inquisition
@@ -607,6 +609,7 @@ To Play:
 * Kingdom Hearts 0.2: Birth by Sleep – A Fragmentary Passage
 
 To Play:
+* Finding Paradise
 * Super Mario Odyssey
 * Hellblade: Senua's Sacrifice
 * The Legend of Zelda: Breath of the Wild
@@ -628,6 +631,8 @@ To Play:
 * A Way Out 
 
 To Play:
+* Dead Cells
+* Tetris Effect
 * Red Dead Redemption 2
 * Detroit: Become Human
 * Return of the Obra Dinn
