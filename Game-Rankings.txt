@@ -667,4 +667,5 @@ Upcoming:
 * Cyberpunk 2077
 * Ghost of Tsushima
 * Beyond Good and Evil 2
+* Project Borealis
 -------------------------------------------------------------------------
