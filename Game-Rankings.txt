@@ -44,10 +44,10 @@ To Play:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1995
+* Chrono Trigger
 * Rayman
 
 To Play:
-* Chrono Trigger
 * Hexen: Beyond Heretic
 * Tekken 2
 -------------------------------------------------------------------------
@@ -206,9 +206,9 @@ To Play:
 -------------------------------------------------------------------------
 2004 					4	 9
 * Grand Theft Auto: San Andreas
+* Half-Life 2
 * Metal Gear Solid 3: Snake Eater
 * Jak 3
-* Half-Life 2
 * Sly 2: Band of Thieves
 * Ratchet & Clank: Up Your Arsenal
 * Spider-Man 2
@@ -631,6 +631,7 @@ To Play:
 * A Way Out 
 
 To Play:
+* Subnautica
 * Dead Cells
 * Tetris Effect
 * Red Dead Redemption 2
