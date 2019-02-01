@@ -1,29 +1,115 @@
  Games :
--------------------------------------------------------------------------
--------------------------------------------------------------------------
+----------------------------------------------------------------
+----------------------------------------------------------------
+
+90's
+* Half-Life
+* Metal Gear Solid
+* Final Fantasy VII
+* Thief: The Dark Project
+* DOOM 
+* Super Mario 64
+* Chrono Trigger
+* Metal Gear 2: Solid Snake
+* Crash Bandicoot
+* Street Fighter II
+
+----------------------------------------------------------------
+
+00's
+* Devil May Cry 3: Dante's Awakening
+* Thief II: The Metal Age
+* Kingdom Hearts II
+* Grand Theft Auto: San Andreas
+* Half-Life 2
+* Portal
+* Metal Gear Solid 3: Snake Eater
+* Psychonauts
+* Super Mario Galaxy
+* Uncharted 2: Among Thieves
+
+* Jak and Daxter: The Precursor Legacy
+* Hitman: Blood Money
+* Shadow of the Colossus
+* Halo 3
+* The Elder Scrolls IV: Oblivion
+* Kingdom Hearts
+* Ratchet & Clank
+* Grand Theft Auto IV
+* Call of Duty: Modern Warfare 2
+* Assassin's Creed II
+
+* Batman: Arkham Asylum
+* TimeSplitters: Future Perfect
+* Serious Sam: The First Encounter
+* Jak 3
+* Metal Gear Solid 4: Guns of the Patriots
+* Devil May Cry
+* Star Wars Battlefront II
+* Grand Theft Auto: Vice City
+* God of War
+* Yakuza 
+
+----------------------------------------------------------------
+
+10's
+* Dark Souls
+* Dota 2
+* The Last of Us
+* Minecraft
+* Batman: Arkham City
+* God of War
+* Dark Souls III
+* The Talos Principle
+* Hitman 2
+* Hitman
+
+* The Beginner's Guide
+* Grand Theft Auto V
+* Super Mario Galaxy 2
+* Super Meat Boy
+* God of War III
+* Brothers: A Tale of Two Sons
+* The Stanley Parable
+* To the Moon
+* Portal 2
+* Nier: Automata
+
+* Cuphead
+* Yakuza 0
+* Red Dead Redemption
+* Call of Duty: Black Ops
+* The Elder Scrolls V: Skyrim
+* Bloodborne
+* Undertale
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+----------------------------------------------------------------
+
 1990
 * Metal Gear 2: Solid Snake
 
 To Play:
 * Super Mario World
-The Secret of Monkey Island
--------------------------------------------------------------------------
--------------------------------------------------------------------------
+* The Secret of Monkey Island
+----------------------------------------------------------------
+----------------------------------------------------------------
 1991
 * Street Fighter II
 
 To Play:
 * The Legend of Zelda: A Link to the Past
--------------------------------------------------------------------------
--------------------------------------------------------------------------
+----------------------------------------------------------------
+----------------------------------------------------------------
 1992
 * ?
 
 To Play:
 * Wolfenstein 3D
 * Mortal Kombat 
--------------------------------------------------------------------------
--------------------------------------------------------------------------
+----------------------------------------------------------------
+----------------------------------------------------------------
 1993
 * DOOM 
 
@@ -31,8 +117,8 @@ To Play:
 * Myst
 * The Legend of Zelda: Link's Awakening
 * Betrayal at Krondor
--------------------------------------------------------------------------
--------------------------------------------------------------------------
+----------------------------------------------------------------
+----------------------------------------------------------------
 1994
 * Doom II
 
@@ -41,8 +127,8 @@ To Play:
 * The Elder Scrolls: Arena
 * Heretic
 * Tekken
--------------------------------------------------------------------------
--------------------------------------------------------------------------
+----------------------------------------------------------------
+----------------------------------------------------------------
 1995
 * Chrono Trigger
 * Rayman
@@ -50,9 +136,9 @@ To Play:
 To Play:
 * Hexen: Beyond Heretic
 * Tekken 2
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
+----------------------------------------------------------------
 1996
 * Super Mario 64
 * Crash Bandicoot
@@ -63,9 +149,9 @@ To Play:
 * Resident Evil
 * Quake
 * The Elder Scrolls II: Daggerfall
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
+----------------------------------------------------------------
 1997
 * Final Fantasy VII
 * Crash Bandicoot 2: Cortex Strikes Back
@@ -81,9 +167,9 @@ To Play:
 * Star Wars Jedi Knight: Dark Forces II
 * Blade Runner
 
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
+----------------------------------------------------------------
 1998
 * Half-Life
 * Metal Gear Solid
@@ -105,9 +191,9 @@ To Play:
 * Tomb Raider III
 * The Legend of Zelda: Ocarina of Time
 * Baldur's Gate
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
+----------------------------------------------------------------
 1999
 * Half-Life: Opposing Force
 * Toy Story 2: Buzz Lightyear to the Rescue
@@ -123,10 +209,10 @@ To Play:
 * Legacy of Kain: Soul Reaver
 * Crash Team Racing
 * Quake III Arena
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2000 					2	 6
+----------------------------------------------------------------
+2000 					
 * Thief II: The Metal Age
 * TimeSplitters
 * Hitman: Codename 47
@@ -140,10 +226,10 @@ To Play:
 * Diablo II
 * Rayman 2: The Great Escape
 * Spyro: Year of the Dragon
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2001 					4	 7
+----------------------------------------------------------------
+2001 					
 * Jak and Daxter: The Precursor Legacy
 * Devil May Cry
 * Metal Gear Solid 2: Sons of Liberty
@@ -160,10 +246,10 @@ To Play:
 * Crash Bandicoot: The Wrath of Cortex
 * Max Payne
 * Rez
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2002 					4	 8
+----------------------------------------------------------------
+2002 					
 * Kingdom Hearts
 * Ratchet & Clank
 * Grand Theft Auto: Vice City
@@ -182,13 +268,13 @@ To Play:
 * Super Smash Bros. Melee
 * The Thing
 * Super Mario Sunshine
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2003 					3	 6
-* Ratchet & Clank: Going Commando
+----------------------------------------------------------------
+2003 					
 * The Simpsons: Hit & Run
 * Prince of Persia: The Sands of Time
+* Ratchet & Clank: Going Commando
 * Star Wars: Knights of the Old Republic
 * The Lord of the Rings: The Return of the King
 * Jak II
@@ -201,10 +287,10 @@ To Play:
 * Silent Hill 3
 * Buffy the Vampire Slayer: Chaos Bleeds
 * Max Payne 2: The Fall of Max Payne
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2004 					4	 9
+----------------------------------------------------------------
+2004 					
 * Grand Theft Auto: San Andreas
 * Half-Life 2
 * Metal Gear Solid 3: Snake Eater
@@ -225,14 +311,14 @@ To Play:
 * Tony Hawk's Underground 2
 * Halo 2
 * KotOR II
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2005 					8	 10
+----------------------------------------------------------------
+2005 					
 * Devil May Cry 3: Dante's Awakening
 * Kingdom Hearts II
-* Shadow of the Colossus
 * Psychonauts
+* Shadow of the Colossus
 * Yakuza 
 * God of War
 * TimeSplitters: Future Perfect
@@ -250,10 +336,10 @@ To Play:
 * Soul Calibur III
 * Civilization IV
 * Prince of Persia: The Two Thrones
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2006 					4	 7
+----------------------------------------------------------------
+2006 					
 * The Elder Scrolls IV: Oblivion
 * Hitman: Blood Money
 * Okami
@@ -270,10 +356,10 @@ To Play:
 * Bully
 * Reservoir Dogs
 * Tom Clancy's Splinter Cell: Double Agent
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2007 					5	 9
+----------------------------------------------------------------
+2007 					
 * Super Mario Galaxy
 * Portal
 * Halo 3
@@ -299,10 +385,10 @@ To Play:
 * Mass Effect
 * Rock Band
 * Crackdown
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2008 					7	 9
+----------------------------------------------------------------
+2008 					
 * Grand Theft Auto IV
 * Metal Gear Solid 4: Guns of the Patriots
 * Devil May Cry 4
@@ -330,10 +416,10 @@ To Play:
 * Fable II
 * Resistance 2
 * Gears of War 2
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2009 					6	 9
+----------------------------------------------------------------
+2009 					
 * Uncharted 2: Among Thieves
 * Call of Duty: Modern Warfare 2
 * Assassin's Creed II
@@ -364,16 +450,16 @@ To Play:
 * Dragon Age: Origins
 * Jak and Daxter: The Lost Frontier
 * Eufloria
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
 
 
 
--------------------------------------------------------------------------
-2010 					8	 10
-* Red Dead Redemption
+----------------------------------------------------------------
+2010 					
 * Super Mario Galaxy 2
 * Super Meat Boy
+* Red Dead Redemption
 * God of War III
 * Call of Duty: Black Ops
 * Mass Effect 2
@@ -403,10 +489,10 @@ To Play:
 * Spider-Man: Shattered Dimensions
 * Amnesia: The Dark Descent
 * Castlevania: Lords of Shadow
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2011 					7	 10
+----------------------------------------------------------------
+2011 					
 * Dark Souls
 * Minecraft
 * Batman: Arkham City
@@ -433,10 +519,10 @@ To Play:
 * Rayman Origins
 * Gears of War 3
 * Saints Row: The Third
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2012 					1	 6
+----------------------------------------------------------------
+2012 					
 * Mark of the Ninja
 * Journey
 * Dust: An Elysian Tail
@@ -472,10 +558,10 @@ To Play:
 * The Unfinished Swan
 * Trials Evolution
 * Papo & Yo
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2013 					5	 9
+----------------------------------------------------------------
+2013 					
 * Dota 2
 * The Last of Us
 * Grand Theft Auto V
@@ -505,12 +591,13 @@ To Play:
 * The Legend of Zelda: A Link Between Worlds
 * Metal Gear Rising: Revengeance
 * Total War: Rome II
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2014					 1	 6
+----------------------------------------------------------------
+2014					
 * The Talos Principle
 * Scrolls
+* A Bird Story
 * Jazzpunk
 * Metal Gear Solid V: Ground Zeroes
 * Transistor 
@@ -523,7 +610,6 @@ To Play:
 * Infamous: Second Son
 
 To Play:
-* A Bird Story
 * Middle-earth: Shadow of Mordor
 * Titanfall
 * Child of Light
@@ -535,10 +621,10 @@ To Play:
 * Bayonetta 2
 * Dragon Age: Inquisition
 * LittleBigPlanet 3
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2015 					4	 8
+----------------------------------------------------------------
+2015 					
 * The Beginner's Guide
 * Bloodborne
 * Undertale
@@ -554,6 +640,7 @@ To Play:
 
 To Play:
 * The Witcher 3: Wild Hunt
+* Axiom Verge
 * Tekken 7
 * Ori and the Blind Forest
 * Fallout 4
@@ -562,10 +649,10 @@ To Play:
 * Yakuza 5
 * Pillars of Eternity
 * Cities: Skylines
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2016 					6	 9
+----------------------------------------------------------------
+2016 					
 * Dark Souls III
 * INSIDE
 * Hitman
@@ -588,7 +675,6 @@ To Play:
 * Oxenfree
 * Hyper Light Drifter
 * Stardew Valley
-* Axiom Verge
 * Song of the Deep
 * Dishonored 2
 * Yakuza 6: The Song of Life
@@ -596,14 +682,15 @@ To Play:
 * XCOM 2
 * Furi
 * Titanfall 2
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2017 					6	 7
+----------------------------------------------------------------
+2017 					
 * Nier: Automata
 * Cuphead
-* A Hat in Time
 * Yakuza 0
+* Nioh
+* A Hat in Time
 * Getting Over It with Bennett Foddy
 * What Remains of Edith Finch
 * Yooka-Laylee
@@ -611,31 +698,31 @@ To Play:
 
 To Play:
 * Finding Paradise
+* Pyre
 * Super Mario Odyssey
 * Hellblade: Senua's Sacrifice
 * The Legend of Zelda: Breath of the Wild
-* Nioh
 * PlayerUnknown's Battlegrounds
 * I Am Setsuna
 * Divinity: Original Sin II
 * Wolfenstein II: The New Colossus
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
-2018 					6	 8
+----------------------------------------------------------------
+2018 					
 * God of War
 * Hitman 2
 * Dragon Ball FighterZ
+* Red Dead Redemption 2
 * Call of Duty: Black Ops 4
+* Subnautica
 * Spider-Man
 * Celeste
 * A Way Out 
 
 To Play:
-* Subnautica
 * Dead Cells
 * Tetris Effect
-* Red Dead Redemption 2
 * Detroit: Become Human
 * Return of the Obra Dinn
 * Ni no Kuni II: Revenant Kingdom
@@ -643,25 +730,25 @@ To Play:
 * Guacamelee! 2
 * Darksiders III
 * Artifact
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
--------------------------------------------------------------------------
+----------------------------------------------------------------
 2019
-* Devil May Cry 5
 * Kingdom Hearts III
-* Sekiro: Shadows Die Twice
 
 To Play:
+* Devil May Cry 5
+* Sekiro: Shadows Die Twice
+* Psychonauts 2
+* The Last of Us Part II
 * One Piece: World Seeker
--------------------------------------------------------------------------
+----------------------------------------------------------------
 
 
--------------------------------------------------------------------------
+----------------------------------------------------------------
 Upcoming:
 * The Elder Scrolls VI
 * Death Stranding
-* Psychonauts 2
-* The Last of Us Part II
 * The Talos Principle 2
 * Starfield
 * Doom Eternal
@@ -669,4 +756,4 @@ Upcoming:
 * Ghost of Tsushima
 * Beyond Good and Evil 2
 * Project Borealis
--------------------------------------------------------------------------
+----------------------------------------------------------------
