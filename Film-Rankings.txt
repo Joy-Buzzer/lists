@@ -1,6 +1,19 @@
  Films :
 -------------------------------------------------------------------------
+-------------------------------------------------------------------------
+Directors:
+* Paul Thomas Anderson
+* Stanly Kubrik
+* Coen 
+*
 
+Actors:
+* Daniel Day-Lewis
+* Joaquin Phoenix
+* Viggo Mortenson
+* Ryan Gosling
+* Liam Cunningham
+-------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1957
 * 12 Angry Men
@@ -27,8 +40,8 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1972
-* The Way of the Dragon
 * The Godfather
+* The Way of the Dragon
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1973
@@ -92,6 +105,10 @@
 * Pee-Wee's Big Adventure
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
+1986
+* Top Gun
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 1987
 * Prince of Darkness 
 * Withnail and I
@@ -133,6 +150,8 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1994
+* War of the Buttons
+* Interview with the Vampire
 * The Shawshank Redemption
 * Pulp Fiction
 * The Legend of Drunken Master
@@ -144,6 +163,7 @@
 1995
 * Toy Story
 * Braveheart
+* Bushwhacked
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -155,6 +175,7 @@
 
 -------------------------------------------------------------------------
 1997
+* Boogie Nights
 * Princess Mononoke
 * Con Air
 * Hercules
@@ -165,6 +186,7 @@
 
 -------------------------------------------------------------------------
 1998
+* Lock, Stock and Two Smoking Barrels
 * Mulan
 * A Bug's Life
 * The Big Lebowski
@@ -173,6 +195,7 @@
 
 -------------------------------------------------------------------------
 1999
+* Magnolia
 * The Matrix
 * Toy Story 2
 * Tarzan
@@ -186,11 +209,13 @@
 * Joint Security Area		
 * Dancer in the Dark
 * American Psycho
+* Pitch Black
 * Unbreakable
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
 2001 		
+* Ocean's Eleven
 * Monsters, Inc.		
 * Spirited Away
 * The Lord of the Rings: The Fellowship of the Ring
@@ -209,16 +234,20 @@
 
 -------------------------------------------------------------------------
 2003 	
-* Oldboy	
+* Pirates of the Caribbean Curse of the Black Pearl
 * The Lord of the Rings: The Return of the King		
-* Finding Nemo
+* Oldboy	
 * Lost in Translation
+* Finding Nemo
+* Intolerable Cruelty
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
 2004 		
 * Eternal Sunshine of the Spotless Mind
+* Downfall
 * Anchorman: The Legend of Ron Burgundy
+* Ocean's Twelve
 * The Incredibles		
 * Kung Fu Hustle
 * Mean Girls
@@ -236,6 +265,7 @@
 -------------------------------------------------------------------------
 2006 					
 * Crank
+* Pirates of the Caribbean Dead Man's Chest
 * Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
 * I'm a Cyborg, But That's OK
 * The Departed
@@ -247,7 +277,10 @@
 * There Will Be Blood		
 * No Country for Old Men
 * Hot Fuzz
+* Pirates of the Caribbean At Worlds End
+* I'm Not There
 * The Bourne Ultimatum
+* Ocean's Thirteen
 * Blades of Glory
 * Eastern Promises
 * Sunshine
@@ -288,13 +321,17 @@
 
 -------------------------------------------------------------------------
 2011 				
+* Tinker Tailor Soldier Spy
 * The Raid
+* Haywire
 * The Artist
+* Rango
 * Winnie the Pooh
 * Moneyball
 * Captain America: The First Avenger
 -------------------------------------------------------------------------
-2012 		
+2012 	
+* Killing Them Softly	
 * Dredd
 * The Avengers		
 * Wreck-it Ralph
@@ -306,6 +343,7 @@
 2013 	
 * Her			
 * Inside Llewyn Davis
+* Kill Your Darlings
 * Snowpiercer
 * The Wind Rises
 * The Wolf of Wall Street
@@ -340,6 +378,7 @@
 2016 	
 * Manchester by the Sea
 * Arrival
+* Captain Fantastic
 * The Handmaiden
 * Moonlight	
 * La La Land
@@ -358,9 +397,11 @@
 * Three Billboards Outside Ebbing, Missouri	
 * Lady Bird	
 * Phantom Thread
+* Loving Vincent
 * Dunkirk
 * Thor Ragnarok
 * The Shape of Water
+* I Don't Feel at Home in This World Anymore
 * Spider-Man Homecoming
 -------------------------------------------------------------------------
 
@@ -369,10 +410,16 @@
 * Shoplifters
 * Dogman
 * Beautiful Boy 
+* Green Book
+* Sorry to Bother You
+* Boy Erased
 * The Favourite
 * Avengers Infinity War			
+* Vice
 * Mary: Queen of Scots
+
 * Black Panther
+* Ocean's Eight
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------

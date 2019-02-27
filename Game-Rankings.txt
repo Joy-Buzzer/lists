@@ -22,27 +22,27 @@
 * Kingdom Hearts II
 * Grand Theft Auto: San Andreas
 * Half-Life 2
-* Portal
 * Metal Gear Solid 3: Snake Eater
 * Psychonauts
 * Super Mario Galaxy
 * Uncharted 2: Among Thieves
-
 * Jak and Daxter: The Precursor Legacy
+
 * Hitman: Blood Money
 * Shadow of the Colossus
 * Halo 3
 * The Elder Scrolls IV: Oblivion
 * Kingdom Hearts
 * Ratchet & Clank
+* Jak 3
 * Grand Theft Auto IV
 * Call of Duty: Modern Warfare 2
 * Assassin's Creed II
 
 * Batman: Arkham Asylum
+* Portal
 * TimeSplitters: Future Perfect
 * Serious Sam: The First Encounter
-* Jak 3
 * Metal Gear Solid 4: Guns of the Patriots
 * Devil May Cry
 * Star Wars Battlefront II
@@ -53,8 +53,8 @@
 ----------------------------------------------------------------
 
 10's
-* Dark Souls
 * Dota 2
+* Dark Souls
 * The Last of Us
 * Minecraft
 * Batman: Arkham City
@@ -235,6 +235,7 @@ To Play:
 * Metal Gear Solid 2: Sons of Liberty
 * Serious Sam: The First Encounter
 * Grand Theft Auto III
+* Return to Castle Wolfenstein
 * Ico
 
 To Play:
@@ -361,10 +362,10 @@ To Play:
 ----------------------------------------------------------------
 2007 					
 * Super Mario Galaxy
-* Portal
 * Halo 3
 * BioShock
 * Call of Duty 4: Modern Warfare
+* Portal
 * God of War II
 * Kingdom Hearts Re:Chain of Memories
 * Ratchet & Clank Future: Tools of Destruction
@@ -439,6 +440,7 @@ To Play:
 * Rag Doll Kung Fu: Fists of Plastic
 
 To Play:
+* Wolfenstein
 * Street Fighter IV
 * BlazBlue: Continuum Shift
 * Saints Row 2
@@ -610,6 +612,7 @@ To Play:
 * Infamous: Second Son
 
 To Play:
+* Wolfenstein: The New Order
 * Middle-earth: Shadow of Mordor
 * Titanfall
 * Child of Light
@@ -630,6 +633,7 @@ To Play:
 * Undertale
 * Metal Gear Solid V: The Phantom Pain
 * Grow Home
+* Axiom Verge
 * Batman: Arkham Knight
 * Call of Duty: Black Ops III
 * Evolve
@@ -639,8 +643,8 @@ To Play:
 * Her Story
 
 To Play:
+* Wolfenstein: The Old Blood
 * The Witcher 3: Wild Hunt
-* Axiom Verge
 * Tekken 7
 * Ori and the Blind Forest
 * Fallout 4
@@ -697,11 +701,11 @@ To Play:
 * Kingdom Hearts 0.2: Birth by Sleep – A Fragmentary Passage
 
 To Play:
+* The Legend of Zelda: Breath of the Wild
 * Finding Paradise
 * Pyre
 * Super Mario Odyssey
 * Hellblade: Senua's Sacrifice
-* The Legend of Zelda: Breath of the Wild
 * PlayerUnknown's Battlegrounds
 * I Am Setsuna
 * Divinity: Original Sin II
@@ -734,6 +738,7 @@ To Play:
 
 ----------------------------------------------------------------
 2019
+* Apex Legends
 * Kingdom Hearts III
 
 To Play:
