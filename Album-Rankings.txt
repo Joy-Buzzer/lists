@@ -1,18 +1,44 @@
  Albums :
 -------------------------------------------------------------------------
-
 -------------------------------------------------------------------------
-In Limbo
+
+ Artists:
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+* Noah Lennox
+* Bob Dyan
+* Lou Reed
+* John Lennon
+* Kendrick Lamar
+* David Bowie
+* Brian Wilson
+* Paul McCartney
+* Stephen Malkmus
+* John Cale
+* Kevin Shields
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+
+ In Limbo:
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 * The SMiLE Sessions - The Beach Boys
 -------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
+
+ Decades:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1960's
+-------------------------------------------------------------------------
+* SMiLE - The Beach Boys
+-------------------------------------------------------------------------
+* Rubber Soul - The Beatles
 * Revolver - The Beatles
 * Pet Sounds - The Beach Boys
 * The Velvet Underground & Nico - The Velvet Underground & Nico
-* Rubber Soul - The Beatles
+
 * Led Zeppelin II - Led Zeppelin
 * Blonde on Blonde - Bob Dylan
 * Highway 61 Revisited - Bob Dylan
@@ -86,10 +112,10 @@ In Limbo
 * Either/Or - Elliott Smith
 * Ágætis Byrjun - Sigur Rós
 * Souvlaki - Slowdive
+* Loveless - My Bloody Valentine
 * Emergency & I - the Dismemberment Plan
 * Siamese Dream - Smashing Pumpkins
 * Heaven Or Las Vegas - Cocteau Twins
-* Loveless - My Bloody Valentine
 * In the Aeroplane Over the Sea - Neutral Milk Hotel
 
 * Crooked Rain, Crooked Rain - Pavement
@@ -114,18 +140,38 @@ In Limbo
 * Silent Shout - The Knife
 * Discovery - Daft Punk
 * The Glow, Pt. 2 - The Microphones 
+* Hissing Fauna, Are You the Destroyer? - Of Montreal
 * Dear Science - TV on the Radio
 * Hospice - The Antlers
-* Bitte Orca - Dirty Projectors
 
+* Bitte Orca - Dirty Projectors
+* Elephant - The White Stripes
 * Transatlanticism - Death Cab for Cutie
 * Veckatimest - Grizzly Bear
 * Alas, I Cannot Swim - Laura Marling
-* Funeral - Arcade Fire
 * Sound of Silver - LCD Soundsystem
+* Funeral - Arcade Fire
 * In Rainbows - Radiohead
 * Illinois - Sufjan Stevens
-* Twenty One - Mystery Jets
+
+* Since I Left You - The Avalanches
+
+* The Moon & Antarctica - Modest Mouse
+* White Blood Cells - The White Stripes
+* The Blueprint - Jay-Z
+* Yoshimi Battles The Pink Robots - The Flaming Lips
+* Kill the Moonlight - Spoon
+* Turn on the Bright Lights - Interpol
+* Sung Tongs - Animal Collective
+* 69 Love Songs - The Magnetic Fields
+* The College Dropout - Kanye West
+* A Grand Don't Come for Free - The Streets
+* Bang Bang Rock & Roll - Art Brut
+* I'm Wide Awake, It's Morning - Bright Eyes
+* Donuts - J Dilla
+* Person Pitch - Panda Bear
+* Strawberry Jam - Animal Collective
+* † - Justice
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2010's
@@ -141,6 +187,12 @@ In Limbo
 * A Seat at the Table - Solange
 -------------------------------------------------------------------------
 
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+
+
+
+ Years:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
@@ -192,6 +244,9 @@ In Limbo
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1968
+-------------------------------------------------------------------------
+* SMiLE - The Beach Boys
+-------------------------------------------------------------------------
 * The Beatles (The White Album) - The Beatles
 * Odessey and Oracle - The Zombies
 * White Light/White Heat - The Velvet Underground 
@@ -345,6 +400,10 @@ In Limbo
 * Violator - Depeche Mode
 * Nowhere - Ride
 * Goo - Sonic Youth
+
+To Listen: 
+* Songs for Drella - Lou Reed & John Cale
+* Wrong Way Up - Brian Eno & John Cale
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1991
@@ -368,6 +427,7 @@ In Limbo
 * Ready to Die - The Notorious B.I.G.
 * Illmatic - Nas
 * Parklife - Blur
+* Grace - Jeff Buckley
 * Selected Ambient Works Volume II - Aphex Twin
 * Weezer - Weezer
 * Dummy - Portishead
@@ -383,6 +443,7 @@ In Limbo
 * If You're Feeling Sinister - Belle & Sebastian
 * Fantastic Planet - Failure
 * Odelay - Beck
+* Being There - Wilco
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1997
@@ -409,9 +470,10 @@ In Limbo
 -------------------------------------------------------------------------
 2000
 * Kid A - Radiohead
-* The Moon & Antarctica - Modest Mouse
-* Spirit They're Gone, Spirit They've Vanished - Animal Collective
 * Since I Left You - The Avalanches
+* The Moon & Antarctica - Modest Mouse
+* Voodoo - D'Angelo
+* Spirit They're Gone, Spirit They've Vanished - Animal Collective
 * The Sickness - Disturbed
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -419,26 +481,31 @@ In Limbo
 * Is This It - The Strokes
 * The Glow, Pt. 2 - The Microphones
 * Discovery - Daft Punk
+* White Blood Cells - The White Stripes
 * The Blueprint - Jay-Z
 * Enjoy Your Rabbit - Sufjan Stevens
 * Amnesiac - Radiohead
 * Point - Cornelius
+
+To Listen: 
+* Sun Blindness Music - John Cale
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2002
 * Yankee Hotel Foxtrot - Wilco
 * Yoshimi Battles The Pink Robots - The Flaming Lips
 * Kill the Moonlight - Spoon
+* Turn on the Bright Lights - Interpol
 * You Forgot It in People  Broken Social Scene
 * Source Tags & Codes - ...And You Will Know Us by the Trail of Dead
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2003
-* Hail to the Thief - Radiohead
-* Transatlanticism - Death Cab For Cutie
-* Who Will Cut Our Hair When We're Gone? - The Unicorns
 * Elephant - The White Stripes
+* Transatlanticism - Death Cab For Cutie
+* Hail to the Thief - Radiohead
+* Who Will Cut Our Hair When We're Gone? - The Unicorns
 * Room On Fire - The Strokes
 * Give Up - The Postal Service
 -------------------------------------------------------------------------
@@ -457,6 +524,7 @@ In Limbo
 * Late Registration - Kanye West
 * Bang Bang Rock & Roll - Art Brut
 * I'm Wide Awake, It's Morning - Bright Eyes
+* Demon Days - Gorillaz
 * Feels - Animal Collective
 * God's Money - Gang Gang Dance
 
@@ -547,6 +615,7 @@ In Limbo
 * Mature Themes - Ariel Pink's Haunted Graffiti
 * Gossamer - Passion Pit
 * That's Why God Made the Radio - The Beach Boys
+* Centipede Hz - Animal Collective
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2013
@@ -622,14 +691,17 @@ In Limbo
 * Wide Awake! - Parquet Courts
 * White Is Relic/Irrealis Mood - of Montreal
 * Whack World - Tierra Whack
-* Be the Cowboy - Mitski
+* You Won't Get What You Want - Daughters
 * Safe In The Hands of Love - Yves Tumor
 * Daytona - Pusha T
+* Be the Cowboy - Mitski
 * 7 - Beach House
 * KIDS SEE GHOSTS - KIDS SEE GHOSTS
 * Negro Swan - Blood Orange
+
+* Tangerine Reef - Animal Collective
 * Veteren - JPEGMAFIA
-* You Won't Get What You Want - Daughters
 * Beyondless - Iceage
+
 -------------------------------------------------------------------------
 
