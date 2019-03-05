@@ -5,16 +5,18 @@
  Artists:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
+* Brian Wilson
 * Noah Lennox
 * Bob Dyan
 * Lou Reed
 * John Lennon
 * Kendrick Lamar
+* Ian Curtis
 * David Bowie
-* Brian Wilson
 * Paul McCartney
 * Stephen Malkmus
 * John Cale
+* Kevin Parker
 * Kevin Shields
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -34,9 +36,9 @@
 -------------------------------------------------------------------------
 * SMiLE - The Beach Boys
 -------------------------------------------------------------------------
-* Rubber Soul - The Beatles
 * Revolver - The Beatles
 * Pet Sounds - The Beach Boys
+* Rubber Soul - The Beatles
 * The Velvet Underground & Nico - The Velvet Underground & Nico
 
 * Led Zeppelin II - Led Zeppelin
@@ -175,8 +177,8 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2010's
-* good kid, m.A.A.d city - Kendrick Lamar
 * Currents - Tame Impala
+* good kid, m.A.A.d city - Kendrick Lamar
 * My Beautiful Dark Twisted Fantasy - Kanye West
 * To Pimp a Butterfly - Kendrick Lamar
 * New Amerykah Part Two: Return Of The Ankh - Erykah Badu
@@ -196,6 +198,10 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
+-------------------------------------------------------------------------
+1959
+* Time Out - The Dave Brubeck Quartet
+-------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1960
 
@@ -427,6 +433,7 @@ To Listen:
 * Ready to Die - The Notorious B.I.G.
 * Illmatic - Nas
 * Parklife - Blur
+* Loved - Cranes
 * Grace - Jeff Buckley
 * Selected Ambient Works Volume II - Aphex Twin
 * Weezer - Weezer
@@ -525,8 +532,8 @@ To Listen:
 * Late Registration - Kanye West
 * Bang Bang Rock & Roll - Art Brut
 * I'm Wide Awake, It's Morning - Bright Eyes
-* Demon Days - Gorillaz
 * Feels - Animal Collective
+* Demon Days - Gorillaz
 * God's Money - Gang Gang Dance
 
 -------------------------------------------------------------------------
@@ -640,8 +647,9 @@ To Listen:
 
 -------------------------------------------------------------------------
 2015
-* Currents - Tame Impala
 * To Pimp a Butterfly - Kendrick Lamar
+* Currents - Tame Impala
+* No Pier Pressure - Brian Wilson
 * Carrie & Lowell - Sufjan Stevens
 * Yours, Dreamily - The Arcs
 * In Colour - Jamie xx
@@ -707,3 +715,9 @@ To Listen:
 
 -------------------------------------------------------------------------
 
+
+-------------------------------------------------------------------------
+2019
+* ? - Tame Impala
+
+-------------------------------------------------------------------------
