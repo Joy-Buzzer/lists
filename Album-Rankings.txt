@@ -36,8 +36,8 @@
 -------------------------------------------------------------------------
 * SMiLE - The Beach Boys
 -------------------------------------------------------------------------
-* Revolver - The Beatles
 * Pet Sounds - The Beach Boys
+* Revolver - The Beatles
 * Rubber Soul - The Beatles
 * The Velvet Underground & Nico - The Velvet Underground & Nico
 
@@ -136,9 +136,9 @@
 -------------------------------------------------------------------------
 2000's
 * Merriweather Post Pavilion - Animal Collective
+* Is This It - The Strokes
 * Yankee Hotel Foxtrot - Wilco
 * Kid A - Radiohead
-* Is This It - The Strokes
 * Silent Shout - The Knife
 * Discovery - Daft Punk
 * The Glow, Pt. 2 - The Microphones 
@@ -184,9 +184,11 @@
 * New Amerykah Part Two: Return Of The Ankh - Erykah Badu
 * A Moon-Shaped Pool - Radiohead
 * Blackstar - David Bowie
+* Wide Awake! - Parquet Courts
 * Settle - Disclosure
 * Yeezus - Kanye West
 * A Seat at the Table - Solange
+
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -464,8 +466,8 @@ To Listen:
 -------------------------------------------------------------------------
 1998
 * In the Aeroplane Over the Sea - Neutral Milk Hotel
-* I See a Darkness - Bonnie "Prince" Billy
 * Mezzanine - Massive Attack
+* I See a Darkness - Bonnie "Prince" Billy
 * Music Has the Right to Children - Boards of Canada
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -473,6 +475,7 @@ To Listen:
 * Ágætis Byrjun - Sigur Rós
 * Emergency & I - the Dismemberment Plan
 * The Soft Bulletin - The Flaming Lips
+* American Football - American Football
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -481,6 +484,7 @@ To Listen:
 * Since I Left You - The Avalanches
 * The Moon & Antarctica - Modest Mouse
 * Voodoo - D'Angelo
+* Supreme Clientelle - Ghostface Killah
 * Spirit They're Gone, Spirit They've Vanished - Animal Collective
 * The Sickness - Disturbed
 -------------------------------------------------------------------------
@@ -612,9 +616,9 @@ To Listen:
 -------------------------------------------------------------------------
 2012
 * good kid, m.A.A.d city - Kendrick Lamar
+* Lonerism - Tame Impala
 * Channel Orange - Frank Ocean
 * The Seer - Swans
-* Lonerism - Tame Impala
 * Bloom - Beach House
 * The Money Store - Death Grips
 * The Idler Wheel... - Fiona Apple
@@ -692,7 +696,7 @@ To Listen:
 * Crack-Up - Fleet Foxes
 * Painted Ruins - Grizzly Bear
 * Forced Witness - Alex Cameron
-* 
+* Utopia - Bjork
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -719,5 +723,6 @@ To Listen:
 -------------------------------------------------------------------------
 2019
 * ? - Tame Impala
+* I ALso Want to Die in New Orleans - Sun Kil Moon
 
 -------------------------------------------------------------------------
