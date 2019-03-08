@@ -27,6 +27,7 @@ Tier 2:
 * Ace
 * Nisha
 * Arteezy
+* EternalEnvy
 
 2:
 * MidOne
@@ -37,8 +38,8 @@ Tier 2:
 * MATUMBAMAN
 
 3:
-* zai
 * 7ckngMad
+* zai
 * 9pasha
 * s4
 * MinD_ContRoL

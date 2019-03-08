@@ -5,14 +5,25 @@
  Essentials :
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-
-	* Merriweather Post Pavillion
-	* Pet Sounds
-	* OK Computer
-	* Kid A
+-------------------------------------------------------------------------
+	* SMiLE
+-------------------------------------------------------------------------
+	* Pet Sounds	
+	* Skylarking	
+	* The SMiLE Sessions
 	* Yankee Hotel Foxtrot
-	* Is this It
-	*
+	* OK Computer	
+	* Merriweather Post Pavillion
+	* Silent Shout
+	* Slanted And Enchanted	
+	* Kid A		
+	* Marquee Moon
+	* Is this It	
+	* Rubber Soul	
+	* Closer
+	* Currents
+	* good kid, m.A.A.d city - Kendrick Lamar
+	* Discovery
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -23,13 +34,18 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 * Brian Wilson
-* Noah Lennox
-* Bob Dyan
-* Lou Reed
-* John Lennon
+* Ludwig Van Beethoven
+* Pyotr Ilyich Tchaikovsky
+* Johann Sebastion Bach
+* Wolfgang Amadeus Mozart
+* Yoko Shimomura
 * Kendrick Lamar
-* Ian Curtis
+* Noah Lennox
+* Lou Reed
+* Bob Dyan
 * David Bowie
+* John Lennon
+* Ian Curtis
 * Paul McCartney
 * Stephen Malkmus
 * John Cale
@@ -37,11 +53,19 @@
 * Kevin Shields
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
+ Bands:
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+* Radiohead
+* The Beatles
+* Animal Collective
+* The Velvet Undergound
+* Led Zeppelin
+* Television
+* The Strokes
+* Gang of Four
+* Daft Punk
 
- In Limbo:
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-* The SMiLE Sessions - The Beach Boys
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
@@ -49,20 +73,24 @@
  Decades:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
+--------------THESE ARE PYRAMIDS!!!!!!!!!!-------------------------------
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 1960's
 -------------------------------------------------------------------------
 * SMiLE - The Beach Boys
 -------------------------------------------------------------------------
 * Pet Sounds - The Beach Boys
-* Revolver - The Beatles
 * Rubber Soul - The Beatles
-* The Velvet Underground & Nico - The Velvet Underground & Nico
+
+* Revolver - The Beatles
 
 * Led Zeppelin II - Led Zeppelin
 * Blonde on Blonde - Bob Dylan
 * Highway 61 Revisited - Bob Dylan
 * The Velvet Underground - The Velvet Underground 
 * Abbey Road - The Beatles
+* The Velvet Underground & Nico - The Velvet Underground & Nico
 * The Beatles (The White Album) - The Beatles
 
 * In the Court of the Crimson King - King Crimson
@@ -79,10 +107,12 @@
 -------------------------------------------------------------------------
 1970's
 * Marquee Moon - Television
+
+* Entertainment! - Gang of Four
 * IV - Led Zeppelin
+
 * Chairs Missing - Wire
 * Unknown Pleasures - Joy Division
-* Entertainment! - Gang of Four
 * There's A Riot Goin' On - Sly & The Family Stone
 * London Calling - The Clash
 * Trans-Europe Express - Kraftwerk
@@ -102,10 +132,12 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1980's
-* Closer - Joy Division
-* The Stone Roses - The Stone Roses
 * Skylarking - XTC
+* Closer - Joy Division
+
+* The Stone Roses - The Stone Roses
 * Daydream Nation - Sonic Youth
+
 * Disintegration - The Cure
 * Isn't Anything - My Bloody Valentine
 * The Queen is Dead - The Smiths
@@ -128,6 +160,7 @@
 1990's
 * OK Computer - Radiohead
 * Slanted & Enchanted - Pavement
+
 * Either/Or - Elliott Smith
 * Ágætis Byrjun - Sigur Rós
 * Souvlaki - Slowdive
@@ -152,19 +185,22 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2000's
+* The SMiLE Sessions
 * Merriweather Post Pavilion - Animal Collective
 * Is This It - The Strokes
 * Yankee Hotel Foxtrot - Wilco
-* Kid A - Radiohead
 * Silent Shout - The Knife
+* Kid A - Radiohead
 * Discovery - Daft Punk
+
 * The Glow, Pt. 2 - The Microphones 
 * Hissing Fauna, Are You the Destroyer? - Of Montreal
-* Dear Science - TV on the Radio
-* Hospice - The Antlers
 
-* Bitte Orca - Dirty Projectors
 * Elephant - The White Stripes
+* Dear Science - TV on the Radio
+
+* Hospice - The Antlers
+* Bitte Orca - Dirty Projectors
 * Transatlanticism - Death Cab for Cutie
 * Veckatimest - Grizzly Bear
 * Alas, I Cannot Swim - Laura Marling
@@ -172,9 +208,7 @@
 * Funeral - Arcade Fire
 * In Rainbows - Radiohead
 * Illinois - Sufjan Stevens
-
 * Since I Left You - The Avalanches
-
 * The Moon & Antarctica - Modest Mouse
 * White Blood Cells - The White Stripes
 * The Blueprint - Jay-Z
@@ -196,8 +230,10 @@
 2010's
 * Currents - Tame Impala
 * good kid, m.A.A.d city - Kendrick Lamar
+
 * My Beautiful Dark Twisted Fantasy - Kanye West
 * To Pimp a Butterfly - Kendrick Lamar
+
 * New Amerykah Part Two: Return Of The Ankh - Erykah Badu
 * A Moon-Shaped Pool - Radiohead
 * Blackstar - David Bowie
@@ -639,6 +675,7 @@ To Listen:
 -------------------------------------------------------------------------
 2012
 * good kid, m.A.A.d city - Kendrick Lamar
+
 * Lonerism - Tame Impala
 * Channel Orange - Frank Ocean
 * The Seer - Swans
@@ -674,8 +711,8 @@ To Listen:
 
 -------------------------------------------------------------------------
 2015
-* To Pimp a Butterfly - Kendrick Lamar
 * Currents - Tame Impala
+* To Pimp a Butterfly - Kendrick Lamar
 * No Pier Pressure - Brian Wilson
 * Carrie & Lowell - Sufjan Stevens
 * Yours, Dreamily - The Arcs
@@ -727,6 +764,7 @@ To Listen:
 * Wide Awake! - Parquet Courts
 * White Is Relic/Irrealis Mood - of Montreal
 * Whack World - Tierra Whack
+* The Time-Keepers - The Time-Keepers
 * You Won't Get What You Want - Daughters
 * Tranquility Base Hotel & Casino - Arctic Monkeys
 * Safe In The Hands of Love - Yves Tumor
