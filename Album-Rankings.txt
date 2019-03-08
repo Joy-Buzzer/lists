@@ -5,19 +5,24 @@
  Essentials :
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
+
 -------------------------------------------------------------------------
 	* SMiLE
 -------------------------------------------------------------------------
+	
 	* Pet Sounds	
 	* Skylarking	
 	* The SMiLE Sessions
+	
 	* Yankee Hotel Foxtrot
 	* OK Computer	
 	* Merriweather Post Pavillion
+	* Marquee Moon
+	
 	* Silent Shout
 	* Slanted And Enchanted	
 	* Kid A		
-	* Marquee Moon
+	
 	* Is this It	
 	* Rubber Soul	
 	* Closer
@@ -26,23 +31,56 @@
 	* Discovery
 
 -------------------------------------------------------------------------
+
+	* Revolver - The Beatles
+	* Led Zeppelin II - Led Zeppelin
+	* Blonde on Blonde - Bob Dylan
+	* Highway 61 Revisited - Bob Dylan
+
+	* Entertainment! - Gang of Four
+	* IV - Led Zeppelin
+	* Chairs Missing - Wire
+
+	* The Stone Roses - The Stone Roses
+	* Daydream Nation - Sonic Youth	
+
+	* Either/Or - Elliott Smith
+	* Ágætis Byrjun - Sigur Rós
+	* Souvlaki - Slowdive
+	* Loveless - My Bloody Valentine
+	* Emergency & I - the Dismemberment Plan
+	* Siamese Dream - Smashing Pumpkins
+	* In the Aeroplane Over the Sea - Neutral Milk Hotel
+
+	* The Glow, Pt. 2 - The Microphones 
+	* Hissing Fauna, Are You the Destroyer? - Of Montreal
+
+	* My Beautiful Dark Twisted Fantasy - Kanye West
+	* To Pimp a Butterfly - Kendrick Lamar
+
+-------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
-
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+	
 
  Artists:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 * Brian Wilson
 * Ludwig Van Beethoven
+
 * Pyotr Ilyich Tchaikovsky
 * Johann Sebastion Bach
 * Wolfgang Amadeus Mozart
 * Yoko Shimomura
+
 * Kendrick Lamar
 * Noah Lennox
 * Lou Reed
 * Bob Dyan
+
 * David Bowie
 * John Lennon
 * Ian Curtis
@@ -51,6 +89,7 @@
 * John Cale
 * Kevin Parker
 * Kevin Shields
+* Andy Partridge
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
  Bands:
@@ -84,10 +123,10 @@
 * Rubber Soul - The Beatles
 
 * Revolver - The Beatles
-
 * Led Zeppelin II - Led Zeppelin
 * Blonde on Blonde - Bob Dylan
 * Highway 61 Revisited - Bob Dylan
+
 * The Velvet Underground - The Velvet Underground 
 * Abbey Road - The Beatles
 * The Velvet Underground & Nico - The Velvet Underground & Nico
@@ -110,8 +149,8 @@
 
 * Entertainment! - Gang of Four
 * IV - Led Zeppelin
-
 * Chairs Missing - Wire
+
 * Unknown Pleasures - Joy Division
 * There's A Riot Goin' On - Sly & The Family Stone
 * London Calling - The Clash
@@ -145,6 +184,7 @@
 * Remain in Light - Talking Heads
 * Double Nickels on the Dime - Minutemen
 
+* Only a Lad - Oingo Boingo
 * Thriller - Micheal Jackson
 * Rain Dogs - Tom Waits
 * Murmur - R.E.M.
@@ -167,9 +207,9 @@
 * Loveless - My Bloody Valentine
 * Emergency & I - the Dismemberment Plan
 * Siamese Dream - Smashing Pumpkins
-* Heaven Or Las Vegas - Cocteau Twins
 * In the Aeroplane Over the Sea - Neutral Milk Hotel
 
+* Heaven Or Las Vegas - Cocteau Twins
 * Crooked Rain, Crooked Rain - Pavement
 * The Soft Bulletin - The Flaming Lips
 * Ladies and Gentlemen, We Are Floating in Space - Spiritualized
@@ -196,19 +236,19 @@
 * The Glow, Pt. 2 - The Microphones 
 * Hissing Fauna, Are You the Destroyer? - Of Montreal
 
+* Sound of Silver - LCD Soundsystem
+* Funeral - Arcade Fire
 * Elephant - The White Stripes
 * Dear Science - TV on the Radio
-
 * Hospice - The Antlers
 * Bitte Orca - Dirty Projectors
 * Transatlanticism - Death Cab for Cutie
-* Veckatimest - Grizzly Bear
-* Alas, I Cannot Swim - Laura Marling
-* Sound of Silver - LCD Soundsystem
-* Funeral - Arcade Fire
 * In Rainbows - Radiohead
 * Illinois - Sufjan Stevens
 * Since I Left You - The Avalanches
+
+* Veckatimest - Grizzly Bear
+* Alas, I Cannot Swim - Laura Marling
 * The Moon & Antarctica - Modest Mouse
 * White Blood Cells - The White Stripes
 * The Blueprint - Jay-Z
@@ -399,6 +439,9 @@ To Listen:
 * Metal Box - Public Image Ltd.
 * The Wall - Pink Floyd
 * Fear of Music - Talking Heads
+
+To Listen: 
+* Drums And Wires - XTC
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -416,6 +459,9 @@ To Listen:
 * Nothing to Fear - Oingo Boingo
 * Thriller - Micheal Jackson
 * Hex Enducation Hour - The Fall
+
+To Listen: 
+* English Settlement - XTC
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1983
