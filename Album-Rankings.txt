@@ -8,62 +8,125 @@
 
 -------------------------------------------------------------------------
 	* SMiLE
--------------------------------------------------------------------------
-	
+-------------------------------------------------------------------------	
 	* Pet Sounds	
+	* Kid A	
 	* Skylarking	
-	* The SMiLE Sessions
-	
+	* The SMiLE Sessions		
+	* My Beautiful Dark Twisted Fantasy	
 	* Yankee Hotel Foxtrot
 	* OK Computer	
+	* Slanted And Enchanted
 	* Merriweather Post Pavillion
-	* Marquee Moon
-	
-	* Silent Shout
-	* Slanted And Enchanted	
-	* Kid A		
-	
+	* Marquee Moon					
+
+	* Remain in Light
+	* The Velvet Underground & Nico
+	* Revolver
+	* Loveless
+	* Rubber Soul			
+	* Hissing Fauna, Are You the Destroyer? 	
+	* Highway 61 Revisited
+	* The Black Saint and the Sinner Lady	
+	* To Pimp a Butterfly	
+	* Daydream Nation				
+
 	* Is this It	
-	* Rubber Soul	
-	* Closer
-	* Currents
-	* good kid, m.A.A.d city - Kendrick Lamar
+	* Entertainment!
+	* IV
 	* Discovery
-
+	* Closer
+	* Doolittle 	
+	* The Queen is Dead
+	* In the Aeroplane Over the Sea				
+	* Blonde on Blonde
+	* Siamese Dream	
+	
+	* Currents	
+	* Either/Or 
+	* Emergency & I	
+	* Settle	
+	* Ágætis Byrjun	
+	* Low
+	* There's A Riot Goin' On
+	* Disintegration	
+	* Sound of Silver	
+	* Trans-Europe Express	
+	
+	* Sgt. Pepper's Lonely Hearts Club Band	
+	* Silent Shout		
+	* Chairs Missing 
+	* The Glow, Pt. 2 
+	* good kid, m.A.A.d city		
+	* London Calling	
+	* Ege Bamyasi	
+	* The Bends		
+	* Souvlaki 
+	* Ladies and Gentlemen, We Are Floating in Space
+	
 -------------------------------------------------------------------------
 
-	* Revolver - The Beatles
 	* Led Zeppelin II - Led Zeppelin
-	* Blonde on Blonde - Bob Dylan
-	* Highway 61 Revisited - Bob Dylan
 
-	* Entertainment! - Gang of Four
-	* IV - Led Zeppelin
-	* Chairs Missing - Wire
-
+	* Unknown Pleasures - Joy Division
+	
 	* The Stone Roses - The Stone Roses
-	* Daydream Nation - Sonic Youth	
+	* Isn't Anything - My Bloody Valentine
+	* Remain in Light 
+	* Double Nickels on the Dime - Minutemen	
+	
+	* Heaven Or Las Vegas - Cocteau Twins
+	* Crooked Rain, Crooked Rain - Pavement
+	* The Soft Bulletin - The Flaming Lips
+	* Post - Björk
+	* Nevermind - Nirvana
+	* Ready to Die - The Notorious B.I.G.
+	* Nowhere - Ride
+	* Illmatic - Nas
 
-	* Either/Or - Elliott Smith
-	* Ágætis Byrjun - Sigur Rós
-	* Souvlaki - Slowdive
-	* Loveless - My Bloody Valentine
-	* Emergency & I - the Dismemberment Plan
-	* Siamese Dream - Smashing Pumpkins
-	* In the Aeroplane Over the Sea - Neutral Milk Hotel
+	* Funeral - Arcade Fire
+	* Elephant - The White Stripes
+	* Dear Science - TV on the Radio
+	* Hospice - The Antlers
+	* Bitte Orca - Dirty Projectors
+	* Transatlanticism - Death Cab for Cutie
+	* In Rainbows - Radiohead
+	* Illinois - Sufjan Stevens
+	* Since I Left You - The Avalanches
+	* Person Pitch - Panda Bear
+	* Strawberry Jam - Animal Collective
+	* † - Justice
+	* Graduation - Kanye West
+	* For Emma, Forever Ago - Bon Iver
+	* Donuts - J Dilla
 
-	* The Glow, Pt. 2 - The Microphones 
-	* Hissing Fauna, Are You the Destroyer? - Of Montreal
-
-	* My Beautiful Dark Twisted Fantasy - Kanye West
-	* To Pimp a Butterfly - Kendrick Lamar
-
--------------------------------------------------------------------------
--------------------------------------------------------------------------
+	* New Amerykah Part Two: Return Of The Ankh - Erykah Badu
+	* A Moon-Shaped Pool - Radiohead
+	* Blackstar - David Bowie
+	* Kaputt - Destroyer
+	* Wide Awake! - Parquet Courts
+	* Yeezus - Kanye West
+	* A Seat at the Table - Solange	
+	* Blonde - Frank Ocean
+	* Melodrama - Lorde
+	* Slowdive - Slowdive
+	* Petite Afrique - Somi
+	* Pure Comedy - Father John Misty
+	* DAMN. - Kendrick Lamar
+	* Lonerism - Tame Impala
+	* Channel Orange - Frank Ocean
+	* The Seer - Swans
+	* cults - cults
+	* Bon Iver, Bon Iver - Bon Iver
+	* This is Happening - LCD Soundsystem
+	* Halcyon Digest - Deerhunter
+	* Before Today - Ariel Pink's Haunted Graffiti
+	* The Suburbs - Arcade Fire
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 	
+
 
  Artists:
 -------------------------------------------------------------------------
@@ -75,12 +138,10 @@
 * Johann Sebastion Bach
 * Wolfgang Amadeus Mozart
 * Yoko Shimomura
-
+* Bob Dyan
 * Kendrick Lamar
 * Noah Lennox
 * Lou Reed
-* Bob Dyan
-
 * David Bowie
 * John Lennon
 * Ian Curtis
@@ -92,6 +153,8 @@
 * Andy Partridge
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
+
+
  Bands:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -121,11 +184,14 @@
 -------------------------------------------------------------------------
 * Pet Sounds - The Beach Boys
 * Rubber Soul - The Beatles
-
+* The Black Saint and the Sinner Lady - Charles Mingus
 * Revolver - The Beatles
-* Led Zeppelin II - Led Zeppelin
 * Blonde on Blonde - Bob Dylan
-* Highway 61 Revisited - Bob Dylan
+* Sgt. Pepper's Lonely Hearts Club Band - the Beatles
+
+* Led Zeppelin II - Led Zeppelin
+
+
 
 * The Velvet Underground - The Velvet Underground 
 * Abbey Road - The Beatles
@@ -134,10 +200,8 @@
 
 * In the Court of the Crimson King - King Crimson
 * A Love Supreme - John Coltrane
-* Sgt. Pepper's Lonely Hearts Club Band - the Beatles
 * Forever Changes - Love
 * Odessey and Oracle - The Zombies
-* The Black Saint and the Sinner Lady - Charles Mingus
 * Magical Mystery Tour - The Beatles 
 * Led Zeppelin - Led Zeppelin
 * White Light/White Heat - The Velvet Underground 
@@ -146,17 +210,16 @@
 -------------------------------------------------------------------------
 1970's
 * Marquee Moon - Television
-
-* Entertainment! - Gang of Four
 * IV - Led Zeppelin
+* Entertainment! - Gang of Four
+* There's A Riot Goin' On - Sly & The Family Stone
+* Ege Bamyasi - Can
 * Chairs Missing - Wire
 
 * Unknown Pleasures - Joy Division
-* There's A Riot Goin' On - Sly & The Family Stone
 * London Calling - The Clash
 * Trans-Europe Express - Kraftwerk
 * Low - David Bowie
-* Ege Bamyasi - Can
 
 * Blood on the Tracks - Bob Dylan
 * Exile on Main Street - The Rolling Stones
@@ -172,11 +235,10 @@
 -------------------------------------------------------------------------
 1980's
 * Skylarking - XTC
+* Daydream Nation - Sonic Youth
 * Closer - Joy Division
 
 * The Stone Roses - The Stone Roses
-* Daydream Nation - Sonic Youth
-
 * Disintegration - The Cure
 * Isn't Anything - My Bloody Valentine
 * The Queen is Dead - The Smiths
@@ -200,10 +262,10 @@
 1990's
 * OK Computer - Radiohead
 * Slanted & Enchanted - Pavement
-
 * Either/Or - Elliott Smith
-* Ágætis Byrjun - Sigur Rós
 * Souvlaki - Slowdive
+
+* Ágætis Byrjun - Sigur Rós
 * Loveless - My Bloody Valentine
 * Emergency & I - the Dismemberment Plan
 * Siamese Dream - Smashing Pumpkins
@@ -225,18 +287,16 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2000's
-* The SMiLE Sessions
-* Merriweather Post Pavilion - Animal Collective
-* Is This It - The Strokes
 * Yankee Hotel Foxtrot - Wilco
+* Merriweather Post Pavilion - Animal Collective
 * Silent Shout - The Knife
 * Kid A - Radiohead
-* Discovery - Daft Punk
-
-* The Glow, Pt. 2 - The Microphones 
 * Hissing Fauna, Are You the Destroyer? - Of Montreal
-
+* Is This It - The Strokes
+* Discovery - Daft Punk
+* The Glow, Pt. 2 - The Microphones
 * Sound of Silver - LCD Soundsystem
+
 * Funeral - Arcade Fire
 * Elephant - The White Stripes
 * Dear Science - TV on the Radio
@@ -268,10 +328,11 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2010's
+* The SMiLE Sessions
+* My Beautiful Dark Twisted Fantasy - Kanye West
 * Currents - Tame Impala
 * good kid, m.A.A.d city - Kendrick Lamar
 
-* My Beautiful Dark Twisted Fantasy - Kanye West
 * To Pimp a Butterfly - Kendrick Lamar
 
 * New Amerykah Part Two: Return Of The Ankh - Erykah Badu
@@ -332,14 +393,14 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1966
-* Revolver - The Beatles
 * Pet Sounds - The Beach Boys
+* Revolver - The Beatles
 * Blonde on Blonde - Bob Dylan
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1967
-* The Velvet Underground & Nico - The Velvet Underground & Nico
 * Sgt. Pepper's Lonely Hearts Club Band - the Beatles
+* The Velvet Underground & Nico - The Velvet Underground & Nico
 * Forever Changes - Love
 * Magical Mystery Tour - The Beatles 
 * The Doors - The Doors
@@ -352,6 +413,7 @@
 * The Beatles (The White Album) - The Beatles
 * Odessey and Oracle - The Zombies
 * White Light/White Heat - The Velvet Underground 
+* The Kinks are the Village Green Conservation Society - The Kinks
 * At Folsom Prison - Johnny Cash
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -379,6 +441,7 @@
 * There's A Riot Goin' On - Sly & The Family Stone
 * What's Goin On - Marvin Gaye
 * Fragile - Yes
+* Tago Mago - Can
 * Surf's Up - The Beach Boys
 * Who's Next - The Who
 * Ram - Paul McCartney
@@ -596,8 +659,9 @@ To Listen:
 -------------------------------------------------------------------------
 2001
 * Is This It - The Strokes
-* The Glow, Pt. 2 - The Microphones
 * Discovery - Daft Punk
+* The Glow, Pt. 2 - The Microphones
+
 * White Blood Cells - The White Stripes
 * The Blueprint - Jay-Z
 * Enjoy Your Rabbit - Sufjan Stevens
@@ -659,8 +723,9 @@ To Listen:
 -------------------------------------------------------------------------
 2007
 * Hissing Fauna, Are You the Destroyer? - Of Montreal
-* In Rainbows - Radiohead
 * Sound of Silver - LCD Soundsystem
+
+* In Rainbows - Radiohead
 * Person Pitch - Panda Bear
 * Strawberry Jam - Animal Collective
 * † - Justice
@@ -680,8 +745,9 @@ To Listen:
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-2009
+2009		--Summer of Chillwave--
 * Merriweather Post Pavilion - Animal Collective
+
 * Hospice - The Antlers
 * Bitte Orca - Dirty Projectors
 * Veckatimest - Grizzly Bear
@@ -693,6 +759,7 @@ To Listen:
 -------------------------------------------------------------------------
 2010
 * My Beautiful Dark Twisted Fantasy - Kanye West
+
 * New Amerykah Part Two: Return Of The Ankh - Erykah Badu
 * Teen Dream - Beach House
 * This is Happening - LCD Soundsystem
@@ -704,9 +771,13 @@ To Listen:
 * Crazy For You - Best Coast
 * Cosmogramma - Flying Lotus
 * Broken Bells - Broken Bells
+
+* Causers of This - Toro y Moi
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2011
+* The SMiLE Sessions
+
 * cults - cults
 * Kaputt - Destroyer
 * Bon Iver, Bon Iver - Bon Iver
@@ -758,6 +829,7 @@ To Listen:
 -------------------------------------------------------------------------
 2015
 * Currents - Tame Impala
+
 * To Pimp a Butterfly - Kendrick Lamar
 * No Pier Pressure - Brian Wilson
 * Carrie & Lowell - Sufjan Stevens

@@ -7,7 +7,7 @@
 -------------------------------------------------------------------------	
 -------------------------------------------------------------------------	
 
-	* Dota 2
+	* DotA 2
 	* Dark Souls
 	* Devil May Cry 3: Dante's Awakening
 	* Thief II: The Metal Age
@@ -46,6 +46,7 @@
 	* The Stanley Parable
 	* To the Moon
 	* Portal 2
+	* Braid
 	* Nier: Automata
 
 -------------------------------------------------------------------------
@@ -76,7 +77,7 @@
 
 ----------------------------------------------------------------
 
-00's
+2000's
 * Devil May Cry 3: Dante's Awakening
 * Thief II: The Metal Age
 * Kingdom Hearts II
@@ -100,12 +101,14 @@
 * Grand Theft Auto IV
 * Call of Duty: Modern Warfare 2
 * Assassin's Creed II
+* Bioshock
 
 * Batman: Arkham Asylum
 * Portal
 * TimeSplitters: Future Perfect
 * Serious Sam: The First Encounter
 * Metal Gear Solid 4: Guns of the Patriots
+* Braid
 * Devil May Cry
 * Star Wars Battlefront II
 * Grand Theft Auto: Vice City
@@ -114,7 +117,7 @@
 
 ----------------------------------------------------------------
 
-10's
+2010's
 * Dota 2
 * Dark Souls
 * Minecraft
