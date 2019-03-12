@@ -20,61 +20,89 @@
 	* Merriweather Post Pavillion
 	* Marquee Moon					
 
-	* Remain in Light
 	* The Velvet Underground & Nico
 	* Revolver
 	* Loveless
+	* To Be Kind
+	* Remain in Light
 	* Rubber Soul			
 	* Hissing Fauna, Are You the Destroyer? 	
-	* Highway 61 Revisited
-	* The Black Saint and the Sinner Lady	
-	* To Pimp a Butterfly	
-	* Daydream Nation				
-
+	* Highway 61 Revisited	
+	* Blackstar
+	* The Stone Roses
+	
+	* The Black Saint and the Sinner Lady		
+	* To Pimp a Butterfly		
+	* Daydream Nation					
 	* Is this It	
 	* Entertainment!
 	* IV
-	* Discovery
+	* Discovery		
 	* Closer
 	* Doolittle 	
 	* The Queen is Dead
-	* In the Aeroplane Over the Sea				
+
+	* In the Aeroplane Over the Sea					
 	* Blonde on Blonde
+	* Wide Awake!
+	* Double Nickels on the Dime		
 	* Siamese Dream	
-	
 	* Currents	
 	* Either/Or 
 	* Emergency & I	
+	* Kaputt
+	* Bon Iver, Bon Iver
+
 	* Settle	
 	* Ágætis Byrjun	
 	* Low
 	* There's A Riot Goin' On
-	* Disintegration	
+	* Led Zeppelin II
+	* Disintegration		
 	* Sound of Silver	
-	* Trans-Europe Express	
-	
+	* Trans-Europe Express		
 	* Sgt. Pepper's Lonely Hearts Club Band	
 	* Silent Shout		
+
+	* Isn't Anything	
 	* Chairs Missing 
 	* The Glow, Pt. 2 
 	* good kid, m.A.A.d city		
+	* New Amerykah Part Two: Return Of The Ankh
 	* London Calling	
 	* Ege Bamyasi	
-	* The Bends		
+	* The Bends			
 	* Souvlaki 
 	* Ladies and Gentlemen, We Are Floating in Space
 	
 -------------------------------------------------------------------------
 
-	* Led Zeppelin II - Led Zeppelin
+	* The Velvet Underground - The Velvet Underground 
+	* Abbey Road - The Beatles
+	* The Beatles (The White Album) - The Beatles
+	* In the Court of the Crimson King - King Crimson
+	* A Love Supreme - John Coltrane
+	* Forever Changes - Love
+	* Odessey and Oracle - The Zombies
 
 	* Unknown Pleasures - Joy Division
-	
-	* The Stone Roses - The Stone Roses
-	* Isn't Anything - My Bloody Valentine
-	* Remain in Light 
-	* Double Nickels on the Dime - Minutemen	
-	
+	* Blood on the Tracks - Bob Dylan
+	* Exile on Main Street - The Rolling Stones
+	* After the Goldrush - Neil Young
+	* Pink Moon - Nick Drake
+	* Metal Box - Public Image Ltd.
+	* Here Come the Warm Jets - Brian Eno
+	* Dark Side of the Moon - Pink Floyd
+	* Bitches Brew - Miles Davis
+	* Pink Flag - Wire
+	* Real Life - Magazine	
+
+	* Rain Dogs - Tom Waits
+	* Murmur - R.E.M.
+	* Brotherhood - New Order
+	* Paul's Boutique - Beastie Boys
+	* On Fire - Galaxie 500
+
 	* Heaven Or Las Vegas - Cocteau Twins
 	* Crooked Rain, Crooked Rain - Pavement
 	* The Soft Bulletin - The Flaming Lips
@@ -100,11 +128,7 @@
 	* For Emma, Forever Ago - Bon Iver
 	* Donuts - J Dilla
 
-	* New Amerykah Part Two: Return Of The Ankh - Erykah Badu
 	* A Moon-Shaped Pool - Radiohead
-	* Blackstar - David Bowie
-	* Kaputt - Destroyer
-	* Wide Awake! - Parquet Courts
 	* Yeezus - Kanye West
 	* A Seat at the Table - Solange	
 	* Blonde - Frank Ocean
@@ -117,7 +141,6 @@
 	* Channel Orange - Frank Ocean
 	* The Seer - Swans
 	* cults - cults
-	* Bon Iver, Bon Iver - Bon Iver
 	* This is Happening - LCD Soundsystem
 	* Halcyon Digest - Deerhunter
 	* Before Today - Ariel Pink's Haunted Graffiti
@@ -183,25 +206,22 @@
 * SMiLE - The Beach Boys
 -------------------------------------------------------------------------
 * Pet Sounds - The Beach Boys
+* The Velvet Underground & Nico - The Velvet Underground & Nico
+* Revolver - The Beatles
 * Rubber Soul - The Beatles
 * The Black Saint and the Sinner Lady - Charles Mingus
-* Revolver - The Beatles
 * Blonde on Blonde - Bob Dylan
 * Sgt. Pepper's Lonely Hearts Club Band - the Beatles
-
 * Led Zeppelin II - Led Zeppelin
-
-
 
 * The Velvet Underground - The Velvet Underground 
 * Abbey Road - The Beatles
-* The Velvet Underground & Nico - The Velvet Underground & Nico
 * The Beatles (The White Album) - The Beatles
-
 * In the Court of the Crimson King - King Crimson
 * A Love Supreme - John Coltrane
 * Forever Changes - Love
 * Odessey and Oracle - The Zombies
+
 * Magical Mystery Tour - The Beatles 
 * Led Zeppelin - Led Zeppelin
 * White Light/White Heat - The Velvet Underground 
@@ -213,13 +233,13 @@
 * IV - Led Zeppelin
 * Entertainment! - Gang of Four
 * There's A Riot Goin' On - Sly & The Family Stone
-* Ege Bamyasi - Can
-* Chairs Missing - Wire
-
-* Unknown Pleasures - Joy Division
-* London Calling - The Clash
-* Trans-Europe Express - Kraftwerk
 * Low - David Bowie
+* Ege Bamyasi - Can
+* Trans-Europe Express - Kraftwerk
+* Chairs Missing - Wire
+* London Calling - The Clash
+* Unknown Pleasures - Joy Division
+
 
 * Blood on the Tracks - Bob Dylan
 * Exile on Main Street - The Rolling Stones
@@ -237,7 +257,6 @@
 * Skylarking - XTC
 * Daydream Nation - Sonic Youth
 * Closer - Joy Division
-
 * The Stone Roses - The Stone Roses
 * Disintegration - The Cure
 * Isn't Anything - My Bloody Valentine
@@ -248,11 +267,11 @@
 
 * Only a Lad - Oingo Boingo
 * Thriller - Micheal Jackson
+* Burning From The Inside - Bauchus
+* The Smiths - The Smiths
 * Rain Dogs - Tom Waits
 * Murmur - R.E.M.
 * Brotherhood - New Order
-* Burning From The Inside - Bauchus
-* The Smiths - The Smiths
 * Paul's Boutique - Beastie Boys
 * On Fire - Galaxie 500
 * Hex Enducation Hour - The Fall
