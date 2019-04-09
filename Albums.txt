@@ -5,11 +5,8 @@
  Essentials :
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-
--------------------------------------------------------------------------
-	* SMiLE
--------------------------------------------------------------------------	
-	* Pet Sounds	
+SMiLE(10)
+	* Pet Sounds
 	* Kid A	
 	* Skylarking
 	* Yankee Hotel Foxtrot	
@@ -18,6 +15,7 @@
 	* OK Computer	
 	* Slanted And Enchanted
 	* Merriweather Post Pavillion
+(
 	* Marquee Moon					
 
 	* The Velvet Underground & Nico
@@ -25,20 +23,21 @@
 	* Loveless
 	* To Be Kind
 	* Remain in Light
+	* Closer	
 	* Rubber Soul			
 	* Hissing Fauna, Are You the Destroyer? 	
 	* Highway 61 Revisited	
 	* Blackstar
-	* The Stone Roses
-	
+)
+	* The Stone Roses	
 	* The Black Saint and the Sinner Lady		
 	* To Pimp a Butterfly		
 	* Daydream Nation					
+	* Surf's Up
 	* Is this It	
 	* Entertainment!
 	* IV
 	* Discovery		
-	* Closer
 	* Crooked Rain, Crooked Rain
 	* Ágætis Byrjun	
 
@@ -94,6 +93,7 @@
 	* The Beatles (The White Album) - The Beatles
 	* In the Court of the Crimson King - King Crimson
 
+	* Drums And Wires - XTC
 	* Blood on the Tracks - Bob Dylan
 	* Exile on Main Street - The Rolling Stones
 	* Metal Box - Public Image Ltd.
@@ -156,7 +156,6 @@
 -------------------------------------------------------------------------
 * Brian Wilson
 * Ludwig Van Beethoven
-
 * Pyotr Ilyich Tchaikovsky
 * Johann Sebastion Bach
 * Wolfgang Amadeus Mozart
@@ -186,7 +185,7 @@
 * Animal Collective
 * The Velvet Undergound
 * Led Zeppelin
-
+* XTC
 * Television
 * The Strokes
 * Gang of Four
@@ -241,7 +240,7 @@
 * London Calling - The Clash
 * Unknown Pleasures - Joy Division
 
-
+* Drums And Wires - XTC
 * Blood on the Tracks - Bob Dylan
 * Exile on Main Street - The Rolling Stones
 * After the Goldrush - Neil Young
@@ -251,6 +250,7 @@
 * Dark Side of the Moon - Pink Floyd
 * Bitches Brew - Miles Davis
 * Pink Flag - Wire
+
 * Real Life - Magazine
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -303,7 +303,7 @@
 * Ready to Die - The Notorious B.I.G.
 * Nowhere - Ride
 * Illmatic - Nas
-
+* Weezer - Weezer 
 * Selected Ambient Works 85-92 - Aphex Twin
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -378,6 +378,10 @@
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
+1957
+* Brilliant Corners - Thelonious Monk 
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 1959
 * Time Out - The Dave Brubeck Quartet
 -------------------------------------------------------------------------
@@ -402,6 +406,8 @@
 -------------------------------------------------------------------------
 1964
 * All Summer Long - The Beach Boys
+* Another Side Of - Bob Dylan
+* Presenting the Fabulous Ronettes Featuring Veronica - The Ronettes
 * A Hard Day's Night - the Beatles
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -421,8 +427,8 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1967
-* Sgt. Pepper's Lonely Hearts Club Band - the Beatles
 * The Velvet Underground & Nico - The Velvet Underground & Nico
+* Sgt. Pepper's Lonely Hearts Club Band - the Beatles
 * Forever Changes - Love
 * Magical Mystery Tour - The Beatles 
 * The Doors - The Doors
@@ -451,22 +457,22 @@
 -------------------------------------------------------------------------
 1970
 * After the Goldrush - Neil Young
-
 * Bitches Brew - Miles Davis
 * Plastic Ono Band - John Lennon
 * III - Led Zeppelin
 * Loaded - The Velvet Underground
 * Let It Be - The Beatles
+
+* Curtis - Curtis Mayfield
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1971
+* Surf's Up - The Beach Boys
 * IV - Led Zeppelin
 * There's A Riot Goin' On - Sly & The Family Stone
-
 * What's Goin On - Marvin Gaye
 * Fragile - Yes
 * Tago Mago - Can
-* Surf's Up - The Beach Boys
 * Who's Next - The Who
 * Ram - Paul McCartney
 -------------------------------------------------------------------------
@@ -474,10 +480,10 @@
 1972
 * Ege Bamyasi - Can
 * Pink Moon - Nick Drake
-
 * Exile on Main Street - The Rolling Stones
 * The Rise and Fall of Ziggy Stardust & The Spiders from Mars - David Bowie
 * Transformer - Lou Reed
+* A Wizard / A True Star
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1973
@@ -499,12 +505,11 @@ To Listen:
 * Blood on the Tracks - Bob Dylan
 * Wish You Were Here - Pink Floyd
 * Another Green World - Brian Eno
+
+* Still Crazy After All These Years - Paul Simon
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1976
-
-
-To Listen: 
 * The Modern Lovers - The Modern Lovers
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -512,7 +517,6 @@ To Listen:
 * Marquee Moon - Television
 * Trans-Europe Express - Kraftwerk
 * Low - David Bowie
-
 * Pink Flag - Wire
 * Never Mind The Bollocks, Here's The Sex Pistols - Sex Pistols
 -------------------------------------------------------------------------
@@ -520,6 +524,7 @@ To Listen:
 1978
 * Chairs Missing - Wire
 * Real Life - Magazine
+* Adventure - Television
 * Parallel Lines - Blondie
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -527,12 +532,11 @@ To Listen:
 * Entertainment! - Gang of Four
 * London Calling - The Clash
 * Unknown Pleasures - Joy Division
+* Drums And Wires - XTC
 * Metal Box - Public Image Ltd.
 * The Wall - Pink Floyd
+* 154 - Wire
 * Fear of Music - Talking Heads
-
-To Listen: 
-* Drums And Wires - XTC
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -544,15 +548,14 @@ To Listen:
 1981
 * Only a Lad - Oingo Boingo
 * La Folie - The Stranglers
+* Talk Talk Talk - The Psychedlic Furs
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1982
+* English Settlement - XTC
 * Nothing to Fear - Oingo Boingo
 * Thriller - Micheal Jackson
 * Hex Enducation Hour - The Fall
-
-To Listen: 
-* English Settlement - XTC
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1983
@@ -560,6 +563,8 @@ To Listen:
 * Burning From The Inside - Bauchus
 * Power, Corruption & Lies - New Order
 * Violent Femmes - Violent Femmes
+
+* Mummer - XTC
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1984
@@ -577,13 +582,14 @@ To Listen:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1986
-* The Queen is Dead - The Smiths
 * Skylarking - XTC
+* The Queen is Dead - The Smiths
 * Brotherhood - New Order
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1987
 * You're Living All Over Me - Dinosaur Jr.
+* Within The Realm Of A Dying Sun - Dead Can Dance
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1988
@@ -619,6 +625,7 @@ To Listen:
 -------------------------------------------------------------------------
 1992
 * Slanted & Enchanted - Pavement
+* Television - Television
 * Selected Ambient Works 85-92 - Aphex Twin
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -630,13 +637,13 @@ To Listen:
 1994
 * Souvlaki - Slowdive
 * Crooked Rain, Crooked Rain - Pavement
+* Weezer - Weezer
 * Ready to Die - The Notorious B.I.G.
 * Illmatic - Nas
 * Parklife - Blur
 * Loved - Cranes
 * Grace - Jeff Buckley
 * Selected Ambient Works Volume II - Aphex Twin
-* Weezer - Weezer
 * Dummy - Portishead
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -651,6 +658,8 @@ To Listen:
 * Fantastic Planet - Failure
 * Odelay - Beck
 * Being There - Wilco
+* Beat - Bowery Electric
+
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1997
@@ -660,6 +669,7 @@ To Listen:
 * Homogenic - Björk
 * Perfect From Now On - Built to Spill
 * I Can Hear the Heart Beating as One - Yo La Tengo
+* Songs from Northern Britain - Teenage Fanclub
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1998
@@ -743,7 +753,7 @@ To Listen:
 * Feels - Animal Collective
 * Demon Days - Gorillaz
 * God's Money - Gang Gang Dance
-
+* Tender Buttons - Broadcast
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2006
@@ -780,18 +790,17 @@ To Listen:
 * Saint Dymphna - Gang Gang Dance
 * Fleet Foxes - Fleet Foxes
 * Lookout Mountain, Lookout Sea - Silver Jews
+* Deathconsciousness - Have A Nice Life
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2009		--Summer of Chillwave--
 * Merriweather Post Pavilion - Animal Collective
-
 * Hospice - The Antlers
 * Bitte Orca - Dirty Projectors
-
 * Veckatimest - Grizzly Bear
 * Logos - Atlas Sound
-
+* You Will Never Know Why
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
@@ -816,12 +825,11 @@ To Listen:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2011
-* The SMiLE Sessions
+* The SMiLE Sessions - The Beach Boys
 * Kaputt - Destroyer
 * Bon Iver, Bon Iver - Bon Iver
 
 * cults - cults
-
 * Slave Ambient - The War on Drugs
 * Hurry Up, We're Dreaming - M83
 * Let England Shake - PJ Harvey
@@ -852,7 +860,6 @@ To Listen:
 * Settle - Disclosure
 
 * Yeezus - Kanye West
-
 * Modern Vampires of the City - Vampire Weekend
 * Random Access Memories - Daft Punk
 * mbv - My Bloody Valentine
@@ -887,17 +894,17 @@ To Listen:
 -------------------------------------------------------------------------
 2016
 * Blackstar - David Bowie
-
 * A Moon-Shaped Pool - Radiohead
 * A Seat at the Table - Solange
 * Blonde - Frank Ocean
-
 * Skeleton Tree - Nick Cave & The Bad Seeds
 * The Life of Pablo - Kanye West
 * 22, A Million - Bon Iver
 * untitled unmastered - Kendrick Lamar
 * HOPELESSNESS - ANOHNI
 * Wildflower - The Avalanches
+* Human Performance - Parquet Courts
+
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -908,6 +915,7 @@ To Listen:
 * Pure Comedy - Father John Misty
 * DAMN. - Kendrick Lamar
 * Drunk - Thundercat
+* Hang - Foxygen
 * Brutalism - IDLES
 * The OOZ - King Krule
 * Forget - Xiu Xiu
@@ -926,10 +934,9 @@ To Listen:
 -------------------------------------------------------------------------
 2018
 * Wide Awake! - Parquet Courts
-
 * White Is Relic/Irrealis Mood - of Montreal
 * Whack World - Tierra Whack
-
+* Joy as an Act of Resistence. - IDLES
 * The Time-Keepers - The Time-Keepers
 * You Won't Get What You Want - Daughters
 * Tranquility Base Hotel & Casino - Arctic Monkeys

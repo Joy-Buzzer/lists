@@ -1,7 +1,35 @@
  Films :
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
+-------------------------------------------------------------------------
+	
+10
+	* Magnolia	
+	* There Will Be Blood	
+	* Network
+	* 2001: A Space Odyssey
 
+	* love&mercy	
+	* 12 Angry Men
+
+-------------------------------------------------------------------------
+	
+	* Arrival
+	* Manchester by the Sea
+	* Nightcrawler
+	* Birdman or (The Unexpected Virtue of Ignorance)			
+	* Whiplash
+	* Eternal Sunshine of the Spotless Mind
+	* Crank
+	* Lolita
+	* Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+	* Harold and Maude
+	* The Rocky Horror Picture Show
+	* The Breakfast Club
+	* They Live
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
  Directors:
 -------------------------------------------------------------------------
@@ -42,10 +70,10 @@
 * Lolita
 * Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
 
-
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1970's
+* Network
 * Harold and Maude
 * The Rocky Horror Picture Show
 
@@ -59,6 +87,7 @@
 1990's
 * Magnolia
 * The Silence of the Lambs
+* Fear And Loathing In Las Vegas
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -66,6 +95,7 @@
 * There Will Be Blood
 * Eternal Sunshine of the Spotless Mind
 * Crank
+
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2010's
@@ -127,24 +157,25 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1975
-* The Rocky Horror Picture Show
 * The Passenger
+* The Rocky Horror Picture Show
 * Monty Python and the Holy Grail
 * Barry Lyndon
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1976
+* Network
 * Taxi Driver
 * Rocky
 
-To Watch:
-* Network
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1977
 * Annie Hall
 * Star Wars
 * Eraserhead
+
+* House
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1979
@@ -164,11 +195,13 @@ To Watch:
 * An American Werewolf in London
 * Raiders of the Lost Ark
 * The Evil Dead
+
+* Possession
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1982
-* The Thing
 * Blade Runner
+* The Thing
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1983
@@ -177,6 +210,8 @@ To Watch:
 -------------------------------------------------------------------------
 1984
 * Amadeus
+
+* Paris, Texas
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1985
@@ -206,8 +241,10 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1989
-* Dead Poets Society
 * The Little Mermaid
+* Dead Poets Society
+
+* Do the Right Thing
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1990
@@ -233,10 +270,10 @@ To Watch:
 -------------------------------------------------------------------------
 1994
 * War of the Buttons
-* Interview with the Vampire
-* The Shawshank Redemption
 * Pulp Fiction
 * The Legend of Drunken Master
+* Interview with the Vampire
+* The Shawshank Redemption
 * The Lion King
 * Forrest Gump
 * Shallow Grave
@@ -250,15 +287,16 @@ To Watch:
 
 -------------------------------------------------------------------------
 1996
-* Jerry Maguire
 * Fargo
+* Jerry Maguire
 * Trainspotting
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
 1997
-* Boogie Nights
+* Perfect Blue
 * Princess Mononoke
+* Boogie Nights
 * Con Air
 * Hercules
 * The Game
@@ -271,6 +309,7 @@ To Watch:
 
 -------------------------------------------------------------------------
 1998
+* Fear And Loathing In Las Vegas
 * Lock, Stock and Two Smoking Barrels
 * Mulan
 * A Bug's Life
@@ -290,12 +329,13 @@ To Watch:
 
 -------------------------------------------------------------------------
 2000 		
+* American Psycho
 * Gladiator
 * Joint Security Area		
 * Dancer in the Dark
-* American Psycho
 * Pitch Black
 * Unbreakable
+* Almost Famous
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -309,6 +349,7 @@ To Watch:
 * Freddy Got Fingered
 
 To Watch: 
+* Mulholland Drive
 * Donnie Darko
 * Mr. Bones
 -------------------------------------------------------------------------
@@ -358,6 +399,7 @@ To Watch:
 
 -------------------------------------------------------------------------
 2006 					
+* This is England
 * Crank
 * Pirates of the Caribbean Dead Man's Chest
 * Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
@@ -391,6 +433,7 @@ To Watch:
 * Ip Man
 * Slumdog Millionaire
 * Iron Man
+* The Wrecking Crew
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -446,6 +489,7 @@ To Watch:
 
 To Watch:
 * Cannes Shit
+* The Act of Killing
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -485,7 +529,8 @@ To Watch:
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
-2015 				
+2015 		
+* Sicario		
 * Spotlight
 * Mad Max: Fury Road
 * The Visit
@@ -503,8 +548,8 @@ To Watch:
 * Captain Fantastic
 * The Handmaiden
 * A Quiet Passion
-* Moonlight	
 * La La Land
+* Moonlight	
 * Moana		
 * Captain America: Civil War
 * Hail, Caesar!
@@ -537,12 +582,14 @@ To Watch:
 * Gangter in Morteni
 * First Reformed
 * Cannes Shit
+* The Killing of a Sacred Deer
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
 2018 	
 * Shoplifters
 * Dogman
+* Girl
 * Beautiful Boy 
 * Green Book
 * Sorry to Bother You
@@ -558,6 +605,7 @@ To Watch:
 To Watch:
 * The Idea of Manhood
 * Cannes Shit
+* Dominion
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------

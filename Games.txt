@@ -7,32 +7,35 @@
 -------------------------------------------------------------------------	
 -------------------------------------------------------------------------	
 
-	* Devil May Cry 5
 	* DotA 2
+	* Devil May Cry 5
 	* Dark Souls
+	* Sekiro: Shadows Die Twice
 	* Devil May Cry 3: Dante's Awakening
+	* Kingdom Hearts II Final Mix Critical
 	* Thief II: The Metal Age
-	* Kingdom Hearts II
 	* Minecraft
+	* Half-Life
+	* The Last of Us
 
--------------------------------------------------------------------------
+	* Grand Theft Auto: San Andreas	
+	* Batman: Arkham City
+
+-------------------------------------------------------------------------	
+-------------------------------------------------------------------------	
 
 	* Half-Life 2
 	* Metal Gear Solid 3: Snake Eater
-	* Half-Life
-	* The Last of Us
-	* Grand Theft Auto: San Andreas
-	* Batman: Arkham City
-	* God of War
-	* Dark Souls III
+	* God of War (BOI)
 	* The Talos Principle
 	* Hitman 2
+	* Dark Souls III
 	* Hitman
 	* Psychonauts
 	* The Beginner's Guide
 	* Metal Gear Solid
 
--------------------------------------------------------------------------
+-------------------------------------------------------------------------	
 
 	* Super Mario Galaxy
 	* Uncharted 2: Among Thieves
@@ -40,22 +43,51 @@
 	* Kingdom Hearts
 	* Ratchet & Clank
 	* Grand Theft Auto V
-	* Super Mario Galaxy 2
-	* Super Meat Boy
-	* God of War III
+	* Nier: Automata
 	* Brothers: A Tale of Two Sons
+	* Super Meat Boy	
+	* Bloodborne
+
+	* DOOM
+	* Super Mario Galaxy 2
 	* The Stanley Parable
+	* God of War III
 	* To the Moon
 	* Portal 2
+	* Bioshock
+	* Batman: Arkham Asylum
+	* Portal
+	* TimeSplitters: Future Perfect
+
+	* Serious Sam: The First Encounter
+	* Metal Gear Solid 4: Guns of the Patriots
 	* Braid
-	* Nier: Automata
+	* Devil May Cry
+	* Star Wars Battlefront II
+	* Grand Theft Auto: Vice City
+	* Yakuza 0
+	* God of War
+	* Red Dead Redemption 2
+	* To the Moon
+
+	* Cuphead
+	* Yakuza 
+	* Red Dead Redemption
+	* Call of Duty: Black Ops
+	* The Elder Scrolls V: Skyrim
+	* Undertale
+	* 
 
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------	
 -------------------------------------------------------------------------	
-	
-
+Developers	
+* Hideaki Itsuno
+* Hideo Kojima
+* Dan Marshall
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
 
  Decades:
@@ -64,15 +96,14 @@
 --------------THESE ARE PYRAMIDS!!!!!!!!!!-------------------------------
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-1990's
+1990's			Heroes and Worlds
 * Half-Life
 * Metal Gear Solid
-
 * Final Fantasy VII
 * Thief: The Dark Project
 * DOOM 
-* Super Mario 64
 
+* Super Mario 64
 * Chrono Trigger
 * Metal Gear 2: Solid Snake
 * Crash Bandicoot
@@ -80,22 +111,20 @@
 
 ----------------------------------------------------------------
 
-2000's
+2000's			Fantastical Ambition
 * Devil May Cry 3: Dante's Awakening
 * Thief II: The Metal Age
 * Kingdom Hearts II
-
 * Grand Theft Auto: San Andreas
 * Half-Life 2
 * Metal Gear Solid 3: Snake Eater
 * Psychonauts
-
 * Super Mario Galaxy
 * Uncharted 2: Among Thieves
 * Jak and Daxter: The Precursor Legacy
+
 * Kingdom Hearts
 * Ratchet & Clank
-
 * Hitman: Blood Money
 * Jak 3
 * Shadow of the Colossus
@@ -104,8 +133,8 @@
 * Grand Theft Auto IV
 * Call of Duty: Modern Warfare 2
 * Assassin's Creed II
-* Bioshock
 
+* Bioshock
 * Batman: Arkham Asylum
 * Portal
 * TimeSplitters: Future Perfect
@@ -115,36 +144,35 @@
 * Devil May Cry
 * Star Wars Battlefront II
 * Grand Theft Auto: Vice City
-* God of War
-* Yakuza 
 
 ----------------------------------------------------------------
 
-2010's
+2010's				Systems and Stories
+* DotA 2
 * Devil May Cry 5
-* Dota 2
 * Dark Souls
+* Sekiro: Shadows Die Twice
 * Minecraft
-
 * The Last of Us
 * Batman: Arkham City
 * God of War
-* Dark Souls III
 * The Talos Principle
+* Dark Souls III
+
+* Red Dead Redemption 2
 * Hitman 2
 * Hitman
 * The Beginner's Guide
-
 * Grand Theft Auto V
 * Super Mario Galaxy 2
 * Super Meat Boy
 * God of War III
 * Brothers: A Tale of Two Sons
 * The Stanley Parable
+
 * To the Moon
 * Portal 2
 * Nier: Automata
-
 * Cuphead
 * Yakuza 0
 * Red Dead Redemption
@@ -152,6 +180,12 @@
 * The Elder Scrolls V: Skyrim
 * Bloodborne
 * Undertale
+
+----------------------------------------------------------------
+
+2020's				?
+
+* 
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
@@ -575,6 +609,7 @@ To Play:
 * Ni no Kuni: Wrath of the White Witch
 * Serious Sam 3: BFE
 * Bastion
+* The Witcher 2: Assassins of Kings
 * L.A. Noire
 * Terraria
 * The Legend of Zelda: Skyward Sword
@@ -586,7 +621,6 @@ To Play:
 * LittleBigPlanet 2
 * Killzone 3
 * Bulletstorm
-* The Witcher 2: Assassins of Kings
 * Dragon Age II
 * Resistance 3
 * Rayman Origins
@@ -707,6 +741,7 @@ To Play:
 * Axiom Verge
 * Batman: Arkham Knight
 * Call of Duty: Black Ops III
+* Ronin
 * Evolve
 * Splatoon
 * Tower of Guns
@@ -809,20 +844,20 @@ To Play:
 
 ----------------------------------------------------------------
 2019
-* Apex Legends
-* Kingdom Hearts III
-
-To Play:
 * Devil May Cry 5
 * Sekiro: Shadows Die Twice
-* Psychonauts 2
-* The Last of Us Part II
+* Apex Legends
 * One Piece: World Seeker
+* Baba is You
+* Kingdom Hearts III
+
 ----------------------------------------------------------------
 
 
 ----------------------------------------------------------------
 Upcoming:
+* Psychonauts 2
+* The Last of Us Part II
 * The Elder Scrolls VI
 * Death Stranding
 * The Talos Principle 2
