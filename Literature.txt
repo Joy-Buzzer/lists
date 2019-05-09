@@ -152,6 +152,10 @@ essayists:
 1667
 * Paradise Lost - John Milton
 
+1752
+* Micromegas - Voltaire
+1764
+* Dictionnaire Philosophique - Voltaire
 1781
 * Critique of Pure Reason - Immanuel Kant
 1789

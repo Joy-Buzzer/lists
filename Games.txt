@@ -96,7 +96,7 @@ Developers
 --------------THESE ARE PYRAMIDS!!!!!!!!!!-------------------------------
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-1990's			Heroes and Worlds
+1990's			Heroes and Worlds		3-D
 * Half-Life
 * Metal Gear Solid
 * Final Fantasy VII
@@ -111,7 +111,7 @@ Developers
 
 ----------------------------------------------------------------
 
-2000's			Fantastical Ambition
+2000's			Fantastical Ambition	Ethos by Atmosphere
 * Devil May Cry 3: Dante's Awakening
 * Thief II: The Metal Age
 * Kingdom Hearts II
@@ -147,7 +147,7 @@ Developers
 
 ----------------------------------------------------------------
 
-2010's				Systems and Stories
+2010's				Systems and Stories		Zones of Zest
 * DotA 2
 * Devil May Cry 5
 * Dark Souls
@@ -824,6 +824,7 @@ To Play:
 * Hitman 2
 * Dragon Ball FighterZ
 * Red Dead Redemption 2
+* Assassin's Creed Odyssey
 * Call of Duty: Black Ops 4
 * Subnautica
 * Spider-Man
