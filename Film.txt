@@ -2,11 +2,11 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-	
-10
-	* Alphaville
-	* Magnolia	
+
 	* There Will Be Blood	
+	* Alphaville
+	* My Own Private Idaho
+	* Magnolia	
 	* Network
 	* King Lear
 	* 2001: A Space Odyssey
@@ -96,14 +96,16 @@
 * They Live
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-1990's
+1990's			Magnificence 
+* My Own Private Idaho
 * Magnolia
+* Good Will Hunting
 * The Silence of the Lambs
 * Fear And Loathing In Las Vegas
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-2000's
+2000's			Pure Commitment to Fascination
 * There Will Be Blood
 * Eternal Sunshine of the Spotless Mind
 * Milk
@@ -111,7 +113,7 @@
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-2010's
+2010's		moving in to moving on
 * love&mercy
 * Arrival
 * Manchester by the Sea
@@ -285,7 +287,8 @@ To Watch:
 * Goodfellas
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-1991
+1991			
+* My Own Private Idaho
 * The Silence of the Lambs
 * Beauty and the Beast
 -------------------------------------------------------------------------
@@ -330,6 +333,7 @@ To Watch:
 
 -------------------------------------------------------------------------
 1997
+* Good Will Hunting
 * Perfect Blue
 * Princess Mononoke
 * Boogie Nights
@@ -517,6 +521,7 @@ To Watch:
 * Cannes Shit
 -------------------------------------------------------------------------
 2012 	
+* Promised Land
 * Killing Them Softly	
 * Dredd
 * The Avengers		
@@ -525,7 +530,6 @@ To Watch:
 * Lincoln
 
 To Watch:
-* Promised Land
 * Cannes Shit
 * The Act of Killing
 -------------------------------------------------------------------------
@@ -625,6 +629,7 @@ To Watch:
 
 -------------------------------------------------------------------------
 2018 	
+* Avengers Infinity War	
 * Shoplifters
 * Dogman
 * Girl
@@ -632,8 +637,7 @@ To Watch:
 * Green Book
 * Sorry to Bother You
 * Boy Erased
-* The Favourite
-* Avengers Infinity War			
+* The Favourite		
 * Vice
 * Mary: Queen of Scots
 
@@ -648,7 +652,8 @@ To Watch:
 
 -------------------------------------------------------------------------
 2019
-* 
+* Avengers Endgame
+* John Wick Parabellum
 
 To Watch:
 * Cannes Shit
