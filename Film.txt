@@ -8,7 +8,7 @@
 	* My Own Private Idaho
 	* Magnolia	
 	* Network
-	* King Lear
+	* King Lear (Godard) 
 	* 2001: A Space Odyssey
 	* Breathless
 	* love&mercy	
@@ -75,7 +75,6 @@
 -------------------------------------------------------------------------
 1960's
 * Alphaville
-* King Lear
 * Breathless
 * 2001: A Space Oddysey
 * Lolita
@@ -92,6 +91,7 @@
 -------------------------------------------------------------------------
 1980's
 * Stir Crazy
+* King Lear
 * The Breakfast Club
 * They Live
 -------------------------------------------------------------------------
