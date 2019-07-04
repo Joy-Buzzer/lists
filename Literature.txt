@@ -2,7 +2,7 @@
 ----------------------------------------------------------------
 ----------------------------------------------------------------
 
-Canon: 
+Canon: (By Bloom)
 The Theocratic Age
 	
 The Aristocratic Age
@@ -79,7 +79,10 @@ essayists:
 * John Keats, 1795 - 1821
 
 1900's
-* 
+* The Lord of the Rings
+
+2000's
+* Educated
 ----------------------------------------------------------------
 ----------------------------------------------------------------
 1320 
@@ -195,3 +198,6 @@ essayists:
 * A People's History of the United States
 1982
 *  Kinds of Literature 
+
+2004
+* Der Schwarm

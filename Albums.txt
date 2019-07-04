@@ -15,9 +15,8 @@ SMiLE(10)
 	* OK Computer	
 	* Slanted And Enchanted
 	* Merriweather Post Pavillion
-(
 	* Marquee Moon					
-
+(9)
 	* The Velvet Underground & Nico
 	* Revolver
 	* Loveless
@@ -28,7 +27,7 @@ SMiLE(10)
 	* Hissing Fauna, Are You the Destroyer? 	
 	* Highway 61 Revisited	
 	* Blackstar
-)
+(9)
 	* The Stone Roses	
 	* The Black Saint and the Sinner Lady		
 	* To Pimp a Butterfly		
@@ -40,7 +39,7 @@ SMiLE(10)
 	* Discovery		
 	* Crooked Rain, Crooked Rain
 	* Ágætis Byrjun	
-
+(8)
 	* Doolittle 
 	* The Queen is Dead
 	* In the Aeroplane Over the Sea					
@@ -51,7 +50,7 @@ SMiLE(10)
 	* Either/Or 
 	* Kaputt
 	* Wide Awake!
-
+(8)
 	* Double Nickels on the Dime				
 	* Siamese Dream			
 	* Bon Iver, Bon Iver
@@ -62,7 +61,7 @@ SMiLE(10)
 	* Sound of Silver	
 	* Trans-Europe Express		
 	* Sgt. Pepper's Lonely Hearts Club Band	
-
+(8)
 	* Silent Shout		
 	* Isn't Anything	
 	* Forever Changes
@@ -73,7 +72,7 @@ SMiLE(10)
 	* Illinois
 	* Murmur
 	* Odessey and Oracle
-
+(8)
 	* New Amerykah Part Two: Return Of The Ankh	
 	* Brotherhood
 	* Ege Bamyasi	
@@ -87,12 +86,12 @@ SMiLE(10)
 
 
 -------------------------------------------------------------------------
-
+(7)
 	* The Velvet Underground - The Velvet Underground 
 	* Abbey Road - The Beatles
 	* The Beatles (The White Album) - The Beatles
 	* In the Court of the Crimson King - King Crimson
-
+(7)
 	* Drums And Wires - XTC
 	* Blood on the Tracks - Bob Dylan
 	* Exile on Main Street - The Rolling Stones
@@ -102,10 +101,10 @@ SMiLE(10)
 	* Bitches Brew - Miles Davis
 	* Pink Flag - Wire
 	* Real Life - Magazine	
-
+(7)
 	* Paul's Boutique - Beastie Boys
 	* Rain Dogs - Tom Waits
-	
+(7)	
 	* Heaven Or Las Vegas - Cocteau Twins
 	* The Soft Bulletin - The Flaming Lips
 	* Post - Björk
@@ -113,7 +112,7 @@ SMiLE(10)
 	* Ready to Die - The Notorious B.I.G.
 	* Nowhere - Ride
 	* Illmatic - Nas
-
+(7)
 	* Elephant - The White Stripes
 	* Dear Science - TV on the Radio
 	* Bitte Orca - Dirty Projectors
@@ -121,13 +120,13 @@ SMiLE(10)
 	* Hospice - The Antlers
 	* Since I Left You - The Avalanches
 	* Person Pitch - Panda Bear
-	
+(7)
 	* Funeral - Arcade Fire
 	* Strawberry Jam - Animal Collective
 	* † - Justice
 	* Graduation - Kanye West
 	* For Emma, Forever Ago - Bon Iver
-
+(7)
 	* A Moon-Shaped Pool - Radiohead
 	* Yeezus - Kanye West
 	* A Seat at the Table - Solange	
@@ -163,8 +162,8 @@ SMiLE(10)
 * Bob Dyan
 * Kendrick Lamar
 * Noah Lennox
-* Lou Reed
 * David Bowie
+* Lou Reed
 * John Lennon
 * Ian Curtis
 * Paul McCartney
@@ -625,6 +624,7 @@ To Listen:
 -------------------------------------------------------------------------
 1992
 * Slanted & Enchanted - Pavement
+* Nonsuch - XTC
 * Television - Television
 * Selected Ambient Works 85-92 - Aphex Twin
 -------------------------------------------------------------------------

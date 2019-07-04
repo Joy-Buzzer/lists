@@ -1,12 +1,10 @@
  Games :
 ----------------------------------------------------------------
 ----------------------------------------------------------------
-
  Essentials :
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------	
--------------------------------------------------------------------------	
-
+(10)
 	* DotA 2
 	* Devil May Cry 5
 	* Dark Souls
@@ -20,10 +18,9 @@
 
 	* Grand Theft Auto: San Andreas	
 	* Batman: Arkham City
-
 -------------------------------------------------------------------------	
 -------------------------------------------------------------------------	
-
+(10)
 	* Half-Life 2
 	* Metal Gear Solid 3: Snake Eater
 	* God of War (BOI)
@@ -36,7 +33,7 @@
 	* Metal Gear Solid
 
 -------------------------------------------------------------------------	
-
+(9)
 	* Super Mario Galaxy
 	* Uncharted 2: Among Thieves
 	* Jak and Daxter: The Precursor Legacy
@@ -47,7 +44,7 @@
 	* Brothers: A Tale of Two Sons
 	* Super Meat Boy	
 	* Bloodborne
-
+(9)
 	* DOOM
 	* Super Mario Galaxy 2
 	* The Stanley Parable
@@ -58,7 +55,7 @@
 	* Batman: Arkham Asylum
 	* Portal
 	* TimeSplitters: Future Perfect
-
+(8)
 	* Serious Sam: The First Encounter
 	* Metal Gear Solid 4: Guns of the Patriots
 	* Braid
@@ -69,7 +66,7 @@
 	* God of War
 	* Red Dead Redemption 2
 	* To the Moon
-
+(8)
 	* Cuphead
 	* Yakuza 
 	* Red Dead Redemption
@@ -97,6 +94,7 @@ Developers
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1990's			Heroes and Worlds		3-D
+----------------------------------------------------------------
 * Half-Life
 * Metal Gear Solid
 * Final Fantasy VII
@@ -110,8 +108,8 @@ Developers
 * Street Fighter II
 
 ----------------------------------------------------------------
-
 2000's			Fantastical Ambition	Ethos by Atmosphere
+----------------------------------------------------------------
 * Devil May Cry 3: Dante's Awakening
 * Thief II: The Metal Age
 * Kingdom Hearts II
@@ -146,8 +144,8 @@ Developers
 * Grand Theft Auto: Vice City
 
 ----------------------------------------------------------------
-
 2010's				Systems and Stories		Zones of Zest
+----------------------------------------------------------------
 * DotA 2
 * Devil May Cry 5
 * Dark Souls
@@ -183,9 +181,11 @@ Developers
 
 ----------------------------------------------------------------
 
-2020's				?
+2020's				Knowledge and Nature		Hallowed Hills
 
-* 
+? Devil May Cry 6
+? something Kojima
+? Kingdom Hearts (???)
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
@@ -342,6 +342,7 @@ To Play:
 * Grand Theft Auto III
 * Return to Castle Wolfenstein
 * Ico
+* Conker's Bad Fur Day
 
 To Play:
 * Silent Hill 2
