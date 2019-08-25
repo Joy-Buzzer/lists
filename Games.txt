@@ -279,6 +279,7 @@ To Play:
 * Metal Gear Solid
 * Thief: The Dark Project
 * Crash Bandicoot: Warped
+* Wild 9
 * Tenchu: Stealth Assassins
 * Spyro the Dragon
 
@@ -830,12 +831,12 @@ To Play:
 * Subnautica
 * Spider-Man
 * Celeste
+* Detroit: Become Human
 * A Way Out 
 
 To Play:
 * Dead Cells
 * Tetris Effect
-* Detroit: Become Human
 * Return of the Obra Dinn
 * Ni no Kuni II: Revenant Kingdom
 * Monster Hunter: World
