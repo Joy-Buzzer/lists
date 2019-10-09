@@ -2,18 +2,16 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-(10)
+
 	* There Will Be Blood	
 	* Magnolia	
 	* Network
 	* The Life of Brian
 	* 2001: A Space Odyssey
-	* The Sea of Trees
 	* Breathless
 	* The Holy Grail
 	* love&mercy	
--------------------------------------------------------------------------
-(10)
+
 	* Alphaville
 	* My Own Private Idaho
 	* 12 Angry Men
@@ -30,7 +28,7 @@
 	* Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
 	* Harold and Maude
 -------------------------------------------------------------------------
-(9)
+
 	* The Rocky Horror Picture Show
 	* The Breakfast Club
 	* They Live
@@ -69,6 +67,8 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1950's
+* Rio Bravo
+* The Searchers
 * the 400 blows
 * 12 Angry Men
 * Paths of Glory
@@ -97,7 +97,7 @@
 * They Live
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-1990's			Magnificence 
+1990's			 
 * My Own Private Idaho
 * Magnolia
 * Good Will Hunting
@@ -106,7 +106,7 @@
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-2000's			Pure Commitment to Fascination
+2000's			
 * There Will Be Blood
 * Eternal Sunshine of the Spotless Mind
 * Milk
@@ -114,7 +114,7 @@
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-2010's		moving in to moving on
+2010's		
 * love&mercy
 * Arrival
 * Manchester by the Sea
@@ -129,11 +129,18 @@
  Years:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-
+1920
+* The Cabinet of Dr. Caligari
 -------------------------------------------------------------------------
 1940
 -------------------------------------------------------------------------
 * The Grapes of Wrath
+* The Shop Around The Corner
+* The Great Dictator
+-------------------------------------------------------------------------
+1950
+-------------------------------------------------------------------------
+* Sunset Blvd.
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -149,9 +156,9 @@
 * Paths of Glory
 -------------------------------------------------------------------------
 1959
+* Rio Bravo
 * the 400 blows
--------------------------------------------------------------------------
-* Paths of Glory
+
 -------------------------------------------------------------------------
 1960
 -------------------------------------------------------------------------
@@ -173,6 +180,7 @@ To Watch:
 
 -------------------------------------------------------------------------
 1965
+* Chimes at Midnight
 * Alphaville
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -199,6 +207,8 @@ To Watch:
 * The Wicker Man
 * Enter the Dragon
 * The Long Goodbye
+
+* The Exorcist
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1975
@@ -279,6 +289,7 @@ To Watch:
 1987
 * Prince of Darkness 
 * Withnail and I
+* The Last Emperor
 * The Princess Bride
 * Full Metal Jacket
 
@@ -416,9 +427,10 @@ To Watch:
 
 -------------------------------------------------------------------------
 2002 		
+* 28 Days Later
 * The Bourne Identity	
 * The Lord of the Rings: The Two Towers
-* 28 Days Later
+* Punch-Drunk Love
 * Lilo and Stitch
 * The Pianist
 * Adaption
@@ -533,6 +545,7 @@ To Watch:
 2011 				
 * Tinker Tailor Soldier Spy
 * The Raid
+* We Need to Talk About Kevin
 * Haywire
 * The Artist
 * Rango
@@ -576,12 +589,13 @@ To Watch:
 
 -------------------------------------------------------------------------
 2014	
-* love&mercy
-* Nightcrawler
-* Birdman or (The Unexpected Virtue of Ignorance)			
 * Whiplash
+* Nightcrawler
+* love&mercy
+* Birdman or (The Unexpected Virtue of Ignorance)			
 * Boyhood
 * John Wick
+* The Babadook
 * What We Do in the Shadows
 * Edge of Tomorrow
 * Captain America: The Winter Soldier
@@ -597,6 +611,7 @@ To Watch:
 
 -------------------------------------------------------------------------
 2015 		
+* The Big Short
 * The Sea of Trees
 * Anomalisa
 * Sicario		
@@ -614,10 +629,10 @@ To Watch:
 2016 	
 * Arrival
 * Manchester by the Sea
+* La La Land
 * Captain Fantastic
 * The Handmaiden
 * A Quiet Passion
-* La La Land
 * Moonlight	
 * Moana		
 * Captain America: Civil War
@@ -658,7 +673,9 @@ To Watch:
 2018 	
 * Avengers Infinity War	
 * Don't Worry, He Won't Get Far on Foot
+* Hereditary
 * Shoplifters
+* Peterloo
 * Dogman
 * Girl
 * Beautiful Boy 
@@ -682,9 +699,13 @@ To Watch:
 -------------------------------------------------------------------------
 2019
 * Joker
+* Pain and Glory
 * Avengers Endgame
 * John Wick Parabellum
 * Birds of Passage
+* The Laundromat
+* The Goldfinch
+* The Farewell
 * Once Upon A Time in Hollywood
 
 To Watch:
