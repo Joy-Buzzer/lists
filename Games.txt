@@ -186,6 +186,8 @@ Developers
 ? Devil May Cry 6
 ? something Kojima
 ? Kingdom Hearts (???)
+? GTA VI
+? 
 
 ----------------------------------------------------------------
 ----------------------------------------------------------------
@@ -250,9 +252,9 @@ To Play:
 * Tomb Raider
 
 To Play:
+* The Elder Scrolls II: Daggerfall
 * Resident Evil
 * Quake
-* The Elder Scrolls II: Daggerfall
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
@@ -263,6 +265,8 @@ To Play:
 * GoldenEye 007
 
 To Play:
+* An Elder Scrolls Legend: Battlespire
+* An Elder Scrolls Adventure: Redguard
 * Mario Kart 64
 * Tekken 3
 * Fallout
@@ -301,6 +305,7 @@ To Play:
 
 ----------------------------------------------------------------
 1999
+* Ape Escape
 * Half-Life: Opposing Force
 * Toy Story 2: Buzz Lightyear to the Rescue
 * Spyro 2: Ripto's Rage!
@@ -573,12 +578,13 @@ To Play:
 * Call of Duty: Black Ops
 * Mass Effect 2
 * Civilization V
-* Fallout: New Vegas
 * Assassin's Creed: Brotherhood
+* Fallout: New Vegas
 * Heavy Rain
 * ModNation Racers
 * LIMBO
 * Skate 3
+* Dante's Inferno
 * Kingdom Hearts Birth by Sleep
 * Metal Gear Solid: Peace Walker
 * Dead Rising 2
@@ -616,6 +622,7 @@ To Play:
 * Terraria
 * The Legend of Zelda: Skyward Sword
 * Uncharted 3: Drake's Deception
+* The Cat and the Coup
 * inFamous 2
 * Hatoful Boyfriend
 
@@ -687,6 +694,7 @@ To Play:
 * Slender: The Arrival
 * Antichamber
 * DmC: Devil May Cry
+* The Plan
 
 To Play:
 * God of War: Ascension
@@ -737,6 +745,7 @@ To Play:
 2015 					
 * The Beginner's Guide
 * Bloodborne
+* Soma
 * Undertale
 * Metal Gear Solid V: The Phantom Pain
 * Grow Home
@@ -848,12 +857,28 @@ To Play:
 2019
 * Devil May Cry 5
 * Sekiro: Shadows Die Twice
+* Outer Wilds
+* Death Stranding
+* Jedi Fallen Order
+* Superliminal
 * Control
 * Apex Legends
-* One Piece: World Seeker
-* Baba is You
 * Kingdom Hearts III
+* One Piece: World Seeker
+* Marble Marcher
+* The Outer Worlds
+* Code Vein
+* A Plague Tale: Innocence
+* Man of Medan
+* Baba is You
 
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+2020
+* Half-Life: Alyx
+* DOOM Eternal
 ----------------------------------------------------------------
 
 
@@ -862,10 +887,8 @@ Upcoming:
 * Psychonauts 2
 * The Last of Us Part II
 * The Elder Scrolls VI
-* Death Stranding
 * The Talos Principle 2
 * Starfield
-* Doom Eternal
 * Cyberpunk 2077
 * Ghost of Tsushima
 * Beyond Good and Evil 2

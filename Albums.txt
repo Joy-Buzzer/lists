@@ -230,6 +230,7 @@ SMiLE(10)
 1970's
 * Marquee Moon - Television
 * IV - Led Zeppelin
+* Bitches Brew - Miles Davis
 * Entertainment! - Gang of Four
 * There's A Riot Goin' On - Sly & The Family Stone
 * Low - David Bowie
@@ -247,7 +248,6 @@ SMiLE(10)
 * Metal Box - Public Image Ltd.
 * Here Come the Warm Jets - Brian Eno
 * Dark Side of the Moon - Pink Floyd
-* Bitches Brew - Miles Davis
 * Pink Flag - Wire
 
 * Real Life - Magazine
@@ -350,11 +350,11 @@ SMiLE(10)
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2010's
-* My Beautiful Dark Twisted Fantasy - Kanye West
-* Blackstar - David Bowie
 * To Pimp a Butterfly - Kendrick Lamar
-* Settle - Disclosure
+* My Beautiful Dark Twisted Fantasy - Kanye West
 * Currents - Tame Impala
+* Blackstar - David Bowie
+* Settle - Disclosure
 * Kaputt - Destroyer
 * Wide Awake! - Parquet Courts
 * good kid, m.A.A.d city - Kendrick Lamar
@@ -362,10 +362,12 @@ SMiLE(10)
 
 * A Moon-Shaped Pool - Radiohead
 * Yeezus - Kanye West
-
+* Helplessness Blues - Fleet Foxes
 * A Seat at the Table - Solange
 
 -------------------------------------------------------------------------
+-------------------------------------------------------------------------
+2020's
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -533,6 +535,7 @@ To Listen:
 * Entertainment! - Gang of Four
 * London Calling - The Clash
 * Unknown Pleasures - Joy Division
+* Breakfast in America - Supertramp
 * Drums And Wires - XTC
 * Metal Box - Public Image Ltd.
 * The Wall - Pink Floyd
@@ -547,9 +550,9 @@ To Listen:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1981
+* Talk Talk Talk - The Psychedlic Furs
 * Only a Lad - Oingo Boingo
 * La Folie - The Stranglers
-* Talk Talk Talk - The Psychedlic Furs
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1982
@@ -598,6 +601,7 @@ To Listen:
 * Isn't Anything - My Bloody Valentine
 * All of This and Nothing - The Psychedelic Furs
 * Surfer Rosa - Pixies
+* Allegory & Self - Psychic TV
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1989
@@ -836,6 +840,7 @@ To Listen:
 * Kaputt - Destroyer
 * Bon Iver, Bon Iver - Bon Iver
 
+* Helplessness Blues - Fleet Foxes
 * cults - cults
 * Slave Ambient - The War on Drugs
 * Hurry Up, We're Dreaming - M83
@@ -888,7 +893,7 @@ To Listen:
 2015
 * Currents - Tame Impala
 * To Pimp a Butterfly - Kendrick Lamar
-
+* Vulnicura - Bjork
 * No Pier Pressure - Brian Wilson
 * Carrie & Lowell - Sufjan Stevens
 * Yours, Dreamily - The Arcs
@@ -896,6 +901,8 @@ To Listen:
 * Art Angels - Grimes
 * AT.LONG.LAST.A$AP - A$AP Rocky
 * Depression Cherry - Beach House
+
+* Moonlust - The Holydrug Couple
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -969,13 +976,18 @@ To Listen:
 
 -------------------------------------------------------------------------
 2019
+* Atlanta Millionaires Club - Faye Webster
 * Spanish Dance Troupe - Gorky's Zygotic Mynci
 * Tender Buttons - Broadcast
 * The Practise of Love - Jenny Hval
 * Closer to Grey - Chromatics
 * i,i - Bon Iver
 * Miami Memory - Alex Cameron
-* ? - Tame Impala
+* 2020 - Richard Dawson
 * I Also Want to Die in New Orleans - Sun Kil Moon
 * When I Get Home - Solange
 -------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+2020
+* Fetch the Bolt Cutters - Fiona Apple

@@ -2,51 +2,19 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-
-	* There Will Be Blood	
-	* Magnolia	
-	* Network
-	* The Life of Brian
-	* 2001: A Space Odyssey
-	* Breathless
-	* The Holy Grail
-	* love&mercy	
-
-	* Alphaville
-	* My Own Private Idaho
-	* 12 Angry Men
-	* King Lear (Godard) 
-	* Arrival
-	* Manchester by the Sea
-	* Stir Crazy
-	* Nightcrawler
-	* Birdman or (The Unexpected Virtue of Ignorance)			
-	* Whiplash
-	* Eternal Sunshine of the Spotless Mind
-	* Crank
-	* Lolita
-	* Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
-	* Harold and Maude
--------------------------------------------------------------------------
-
-	* The Rocky Horror Picture Show
-	* The Breakfast Club
-	* They Live
--------------------------------------------------------------------------
--------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
  Directors:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 * Jean-Luc Godard
+* Michelangelo Antonionni
+* David Lynch
 * Gus Van Sant
+* Lars Von Trier
 * Paul Thomas Anderson
 * Stanley Kubrik
 * Coen 
-* Antonionni
-* Lars Von Trier
-* David Lynch
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
@@ -56,9 +24,9 @@
 -------------------------------------------------------------------------
 * Daniel Day-Lewis
 * Joaquin Phoenix
+* Ryan Gosling
 * Paul Dano
 * Viggo Mortenson
-* Ryan Gosling
 * Liam Cunningham
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -75,8 +43,10 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1960's
+* L'eclisse
 * Alphaville
 * Breathless
+* Chimes of Midnight
 * 2001: A Space Oddysey
 * Lolita
 * Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
@@ -85,12 +55,18 @@
 -------------------------------------------------------------------------
 1970's
 * Network
+* Aquirre The Wrath of God
+* The Conformist
+* The Passenger
 * Harold and Maude
 * The Rocky Horror Picture Show
+* THe Holy Mountain
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1980's
+* Ran
+* Brazil
 * Stir Crazy
 * King Lear
 * The Breakfast Club
@@ -100,27 +76,31 @@
 1990's			 
 * My Own Private Idaho
 * Magnolia
+* Groundhog Day
 * Good Will Hunting
-* The Silence of the Lambs
-* Fear And Loathing In Las Vegas
-
+* The Matrix
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2000's			
 * There Will Be Blood
 * Eternal Sunshine of the Spotless Mind
-* Milk
-* Crank
-
+* Mulholland Drive
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2010's		
-* love&mercy
 * Arrival
 * Manchester by the Sea
 * Nightcrawler
+* Shadow
+* Parasite
+* Bladerunner 2049
+* Us
+* Peterloo
+* Uncut Gems
+* Joker
 * Birdman or (The Unexpected Virtue of Ignorance)			
 * Whiplash
+* love&mercy
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -131,6 +111,14 @@
 -------------------------------------------------------------------------
 1920
 * The Cabinet of Dr. Caligari
+-------------------------------------------------------------------------
+1927
+* The General
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+1932
+* The Blood of a Poet
+-------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1940
 -------------------------------------------------------------------------
@@ -159,25 +147,38 @@
 * Rio Bravo
 * the 400 blows
 
+* Les yeux sans visage
 -------------------------------------------------------------------------
 1960
 -------------------------------------------------------------------------
 * Breathless
 
 To Watch:
+* L'Avventura
 * Night and Fog in Japan
 -------------------------------------------------------------------------
+-------------------------------------------------------------------------
+1961
+* La notte
 
 -------------------------------------------------------------------------
+-------------------------------------------------------------------------
 1962
+* L'eclisse
+* Vivre Sa Vie
 * Lolita
 * Lawrence of Arabia
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+1963
+* The Servant
+
+* The Silence
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1964
 * Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
 -------------------------------------------------------------------------
-
 -------------------------------------------------------------------------
 1965
 * Chimes at Midnight
@@ -185,13 +186,16 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1967
-* King Lear
+
+* Accident
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1968
 * 2001: A Space Oddysey
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
+1970
+* The Conformist --------------------------------------------------------------------------------------------------------------------------------------------------
 1971
 * Harold and Maude
 * Willy Wonka & the Chocolate Factory 
@@ -199,11 +203,13 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1972
+* Aquirre The Wrath of God
 * The Godfather
 * The Way of the Dragon
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1973
+* The Holy Mountain
 * The Wicker Man
 * Enter the Dragon
 * The Long Goodbye
@@ -241,6 +247,7 @@ To Watch:
 -------------------------------------------------------------------------
 1980
 * Stir Crazy
+* The Elephant Man
 * The Empire Strikes Back
 * Raging Bull
 * Airplane!
@@ -263,8 +270,9 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1983
+* The Ballad of Narayama
 * Scarface
--------------------------------------------------------------------------
+----------------------------------------------------------- --------------
 -------------------------------------------------------------------------
 1984
 * Amadeus
@@ -273,10 +281,11 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1985
+* Ran
+* Brazil
 * The Breakfast Club 
 * Pee-Wee's Big Adventure
 
-* Brazil
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1986
@@ -287,13 +296,13 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1987
+* King Lear
 * Prince of Darkness 
 * Withnail and I
 * The Last Emperor
 * The Princess Bride
 * Full Metal Jacket
 
-* King Lear
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1988
@@ -322,6 +331,7 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1992
+* Groundhog Day
 * Hard Boiled
 * Porco Rosso
 * Reservoir Dogs
@@ -348,6 +358,7 @@ To Watch:
 -------------------------------------------------------------------------
 1995
 * Toy Story
+* Casino
 * Braveheart
 * Bushwhacked
 -------------------------------------------------------------------------
@@ -366,6 +377,7 @@ To Watch:
 * Princess Mononoke
 * Boogie Nights
 * Con Air
+* The Boxer
 * Hercules
 * A Taste of Cherry
 * The Game
@@ -416,6 +428,7 @@ To Watch:
 * Monsters, Inc.		
 * Spirited Away
 * The Lord of the Rings: The Fellowship of the Ring
+* A.I. Artificial Intelligence
 * Vanilla Sky
 * Zoolander
 * Freddy Got Fingered
@@ -451,6 +464,7 @@ To Watch:
 -------------------------------------------------------------------------
 2004 		
 * Eternal Sunshine of the Spotless Mind
+* Howl's Moving Castle
 * Downfall
 * Anchorman: The Legend of Ron Burgundy
 * Ocean's Twelve
@@ -459,7 +473,6 @@ To Watch:
 * Mean Girls
 * Napoleon Dynamite
 * Dodgeball: A True Underdog Story
-* Howl's Moving Castle
 * The Bourne Supremacy
 * The Village
 
@@ -471,9 +484,11 @@ To Watch:
 -------------------------------------------------------------------------
 2005 			
 * Brokeback Mountain
+* Walk the Line
 
 -------------------------------------------------------------------------
 2006 					
+* The Wind that Shakes the Barley
 * This is England
 * Crank
 * Pirates of the Caribbean Dead Man's Chest
@@ -517,6 +532,7 @@ To Watch:
 * A Serious Man
 * Thirst
 * District 9
+* Frequently Asked Questions About Time Travel
 * Watchmen
 * Inglourious Basterds
 
@@ -536,6 +552,7 @@ To Watch:
 * The King's Speech
 * Black Swan
 * Kick-Ass
+* I'm Still Here
 
 To Watch:
 * Cannes Shit
@@ -599,6 +616,7 @@ To Watch:
 * What We Do in the Shadows
 * Edge of Tomorrow
 * Captain America: The Winter Soldier
+
 * Guardians of the Galaxy
 * The Grand Budapest Hotel
 * The Imitation Game
@@ -632,12 +650,13 @@ To Watch:
 * La La Land
 * Captain Fantastic
 * The Handmaiden
+* Snowden
 * A Quiet Passion
 * Moonlight	
 * Moana		
 * Captain America: Civil War
-* Hail, Caesar!
 
+* Hail, Caesar!
 * Dr. Strange
 * Hell or High Water
 * Hidden Figures
@@ -650,6 +669,7 @@ To Watch:
 
 -------------------------------------------------------------------------
 2017 	
+* Blade Runner 2049
 * You Were Never Really Here
 * Phantom Thread
 * Call Me by Your Name	
@@ -671,23 +691,27 @@ To Watch:
 
 -------------------------------------------------------------------------
 2018 	
+* Shadow
+* Peterloo
 * Avengers Infinity War	
 * Don't Worry, He Won't Get Far on Foot
+* Under the Silver Lake
 * Hereditary
 * Shoplifters
-* Peterloo
+* Ash Is Purest White
 * Dogman
 * Girl
 * Beautiful Boy 
+
 * Green Book
 * Sorry to Bother You
 * Boy Erased
 * Mary Magdalene
-* The Favourite		
 * Vice
-* Mary: Queen of Scots
-
+* The Favourite		
 * Black Panther
+* Mary: Queen of Scots
+* Ready Player One
 * Ocean's Eight
 
 To Watch:
@@ -698,12 +722,24 @@ To Watch:
 
 -------------------------------------------------------------------------
 2019
+* Parasite
+* Uncut Gems
+* Us
 * Joker
-* Pain and Glory
-* Avengers Endgame
+* Monos
 * John Wick Parabellum
+* Pain and Glory
 * Birds of Passage
+* The Report
+* The Irishman
+
+* Marriage Story
+* 1917
+* Knives Out
+* The Two Popes
+* Avengers Endgame
 * The Laundromat
+* Midsommar
 * The Goldfinch
 * The Farewell
 * Once Upon A Time in Hollywood
@@ -714,5 +750,7 @@ To Watch:
 
 -------------------------------------------------------------------------
 2020
+* Bombshell
+
 * Bill & Ted Face the Music
 -------------------------------------------------------------------------
