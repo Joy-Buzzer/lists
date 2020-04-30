@@ -1,23 +1,55 @@
  Shows :
-------------------------------------
-------------------------------------
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
-	* The Wire
-	* Star Trek: The Next Generation
-	* Mad Men
-	* Star Gate SG-1	
-	* Band of Brothers
-	* Twin Peaks
-	* Civilisation
-	* Futurama
-	* The Sopranos
-	* Arrested Development
-	* The Simpsons
-	* Blackadder
-	* Malcolm in the Middle
-	* Buffy the Vampire Slayer
-	* Star Trek: Deep Space Nine
-	* Breaking Bad
-	* Star Trek
-	* Game of Thrones
-	* Father Ted
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+	Society
+
+* The Wire
+* Mad Men
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+	History
+
+* Band of Brothers
+* Civilisation
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+	Character Study
+
+* Love
+* The Midnight Gospel
+* The Sopranos
+* Breaking Bad
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+	Sci-Fi
+
+* Star Trek: The Next Generation
+* Star Gate: SG-1	
+* Star Trek
+* Black Mirror
+* Star Trek: Discovery
+* Star Trek: Deep Space Nine
+* Star Gate: Atlantis
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+	Comedy
+
+* Blackadder
+* The Simpsons
+* Arrested Development
+* Futurama
+* Community
+* Malcolm in the Middle
+* Father Ted
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+	Fantasy
+
+* Adventure Time
+* Twin Peaks
+* Game of Thrones
+* Buffy the Vampire Slayer
+-------------------------------------------------------------------------
