@@ -24,18 +24,16 @@
 	* Half-Life 2
 	* Metal Gear Solid 3: Snake Eater
 	* God of War (BOI)
-	* The Talos Principle
 	* Hitman 2
 	* Dark Souls III
 	* Hitman
 	* Psychonauts
-	* The Beginner's Guide
 	* Metal Gear Solid
+	* Super Mario Galaxy
+	* Uncharted 2: Among Thieves
 
 -------------------------------------------------------------------------	
 (9)
-	* Super Mario Galaxy
-	* Uncharted 2: Among Thieves
 	* Jak and Daxter: The Precursor Legacy
 	* Kingdom Hearts
 	* Ratchet & Clank
@@ -43,6 +41,7 @@
 	* Nier: Automata
 	* Brothers: A Tale of Two Sons
 	* Super Meat Boy	
+	* The Talos Principle
 	* Bloodborne
 (9)
 	* DOOM
@@ -56,6 +55,7 @@
 	* Portal
 	* TimeSplitters: Future Perfect
 (8)
+	* The Beginner's Guide
 	* Serious Sam: The First Encounter
 	* Metal Gear Solid 4: Guns of the Patriots
 	* Braid
@@ -73,7 +73,6 @@
 	* Call of Duty: Black Ops
 	* The Elder Scrolls V: Skyrim
 	* Undertale
-	* 
 
 -------------------------------------------------------------------------
 
@@ -90,16 +89,16 @@ Developers
  Decades:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
---------------THESE ARE PYRAMIDS!!!!!!!!!!-------------------------------
+<1990's				Subjects & Objects				Chaos
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-1990's			Heroes and Worlds		3-D
+1990's				Heroes & Worlds					Myth
 ----------------------------------------------------------------
 * Half-Life
 * Metal Gear Solid
 * Final Fantasy VII
-* Thief: The Dark Project
 * DOOM 
+* Thief: The Dark Project
 
 * Super Mario 64
 * Chrono Trigger
@@ -108,12 +107,12 @@ Developers
 * Street Fighter II
 
 ----------------------------------------------------------------
-2000's			Fantastical Ambition	Ethos by Atmosphere
+2000's				Citizens & States				God
 ----------------------------------------------------------------
 * Devil May Cry 3: Dante's Awakening
+* Grand Theft Auto: San Andreas
 * Thief II: The Metal Age
 * Kingdom Hearts II
-* Grand Theft Auto: San Andreas
 * Half-Life 2
 * Metal Gear Solid 3: Snake Eater
 * Psychonauts
@@ -144,28 +143,28 @@ Developers
 * Grand Theft Auto: Vice City
 
 ----------------------------------------------------------------
-2010's				Systems and Stories		Zones of Zest
+2010's				Stories & Systems				Ideology
 ----------------------------------------------------------------
 * DotA 2
-* Devil May Cry 5
 * Dark Souls
 * Sekiro: Shadows Die Twice
 * Minecraft
+* Devil May Cry 5
 * The Last of Us
-* Batman: Arkham City
 * God of War
-* The Talos Principle
+* Batman: Arkham City
+* Hitman 2
 * Dark Souls III
 
-* Red Dead Redemption 2
-* Hitman 2
-* Hitman
-* The Beginner's Guide
 * Grand Theft Auto V
 * Super Mario Galaxy 2
+* Red Dead Redemption 2
+* Hitman
 * Super Meat Boy
-* God of War III
+* The Talos Principle
+* The Beginner's Guide
 * Brothers: A Tale of Two Sons
+* God of War III
 * The Stanley Parable
 
 * To the Moon
@@ -180,9 +179,9 @@ Developers
 * Undertale
 
 ----------------------------------------------------------------
-
-2020's				Knowledge and Nature		Hallowed Hills
-
+2020's				Knowledge & Nature				Soul
+----------------------------------------------------------------
+* Half-Life: Alyx
 ? Devil May Cry 6
 ? something Kojima
 ? Kingdom Hearts (???)
@@ -346,6 +345,7 @@ To Play:
 * Metal Gear Solid 2: Sons of Liberty
 * Serious Sam: The First Encounter
 * Grand Theft Auto III
+
 * Return to Castle Wolfenstein
 * Ico
 * Conker's Bad Fur Day
@@ -366,6 +366,7 @@ To Play:
 * Kingdom Hearts
 * Ratchet & Clank
 * Grand Theft Auto: Vice City
+
 * TimeSplitters 2
 * Tony Hawk's Pro Skater 4
 * Hitman 2: Silent Assassin
@@ -388,6 +389,7 @@ To Play:
 * The Simpsons: Hit & Run
 * Prince of Persia: The Sands of Time
 * Ratchet & Clank: Going Commando
+
 * Star Wars: Knights of the Old Republic
 * The Lord of the Rings: The Return of the King
 * Jak II
@@ -408,6 +410,7 @@ To Play:
 * Half-Life 2
 * Metal Gear Solid 3: Snake Eater
 * Jak 3
+
 * Sly 2: Band of Thieves
 * Ratchet & Clank: Up Your Arsenal
 * Spider-Man 2
@@ -432,12 +435,14 @@ To Play:
 * Kingdom Hearts II
 * Psychonauts
 * Shadow of the Colossus
+
 * Yakuza 
 * God of War
 * TimeSplitters: Future Perfect
 * Star Wars Battlefront II
 * Sly 3: Honor Among Thieves
 * The Incredible Hulk: Ultimate Destruction
+* Legend of Kay
 * Destroy All Humans!
 * Jak X: Combat Racing
 * The Matrix: Path of Neo
@@ -478,6 +483,7 @@ To Play:
 * BioShock
 * Call of Duty 4: Modern Warfare
 * Portal
+
 * God of War II
 * Kingdom Hearts Re:Chain of Memories
 * Ratchet & Clank Future: Tools of Destruction
@@ -504,6 +510,7 @@ To Play:
 2008 					
 * Grand Theft Auto IV
 * Metal Gear Solid 4: Guns of the Patriots
+
 * Devil May Cry 4
 * Fallout 3
 * Call of Duty: World at War
@@ -537,6 +544,7 @@ To Play:
 * Call of Duty: Modern Warfare 2
 * Assassin's Creed II
 * Batman: Arkham Asylum
+
 * Ratchet & Clank Future: A Crack in Time
 * Demon's Souls
 * Brütal Legend
@@ -552,6 +560,7 @@ To Play:
 * Rag Doll Kung Fu: Fists of Plastic
 
 To Play:
+* Dragon Age: Origins
 * Wolfenstein
 * Street Fighter IV
 * BlazBlue: Continuum Shift
@@ -561,7 +570,6 @@ To Play:
 * Marvel: Ultimate Alliance 2
 * Grand Theft Auto: Chinatown Wars
 * Borderlands
-* Dragon Age: Origins
 * Jak and Daxter: The Lost Frontier
 * Eufloria
 ----------------------------------------------------------------
@@ -581,6 +589,7 @@ To Play:
 * Assassin's Creed: Brotherhood
 * Fallout: New Vegas
 * Heavy Rain
+
 * ModNation Racers
 * LIMBO
 * Skate 3
@@ -590,12 +599,12 @@ To Play:
 * Dead Rising 2
 * Plants vs. Zombies
 * Just Cause 2
+* Dante's Inferno
 
 To Play:
 * Resonance of Fate
 * Bayonetta
 * Darksiders
-* Dante's Inferno
 * Battlefield: Bad Company 2
 * Yakuza 3
 * Nier
@@ -615,6 +624,7 @@ To Play:
 * Portal 2
 * To the Moon
 * Ni no Kuni: Wrath of the White Witch
+
 * Serious Sam 3: BFE
 * Bastion
 * The Witcher 2: Assassins of Kings
@@ -641,6 +651,7 @@ To Play:
 2012 					
 * Mark of the Ninja
 * Journey
+
 * Dust: An Elysian Tail
 * Spec Ops: The Line
 * The Walking Dead
@@ -683,6 +694,7 @@ To Play:
 * Grand Theft Auto V
 * The Stanley Parable
 * Brothers: A Tale of Two Sons
+
 * Bit.Trip Presents... Runner2: Future Legend of Rhythm Alien
 * Rayman Legends
 * Batman: Arkham Origins
@@ -714,12 +726,13 @@ To Play:
 2014					
 * The Talos Principle
 * Scrolls
-* A Bird Story
+
 * Jazzpunk
 * Metal Gear Solid V: Ground Zeroes
 * Transistor 
 * Styx: Master of Shadows
 * Goat Simulator
+* A Bird Story
 * This War of Mine
 * Hearthstone: Heroes of Warcraft
 * Dark Souls II
@@ -745,15 +758,16 @@ To Play:
 2015 					
 * The Beginner's Guide
 * Bloodborne
-* Soma
 * Undertale
+
 * Metal Gear Solid V: The Phantom Pain
 * Grow Home
-* Axiom Verge
-* Batman: Arkham Knight
+* Soma
 * Call of Duty: Black Ops III
-* Ronin
+* Axiom Verge
 * Evolve
+* Batman: Arkham Knight
+* Ronin
 * Splatoon
 * Tower of Guns
 * Life Is Strange
@@ -780,12 +794,16 @@ To Play:
 * DOOM
 * Overwatch
 * Uncharted 4: A Thief's End
+
+* Titanfall 2
 * Thumper
 * The Witness
-* Devil Daggers
-* Superhot
-* Rocket League
 * SpeedRunners
+* Superhot
+* Furi
+* Devil Daggers
+* Rocket League
+* Human: Fall Flat
 * That Dragon, Cancer
 * Ratchet & Clank
 * Pony Island
@@ -801,8 +819,6 @@ To Play:
 * Yakuza 6: The Song of Life
 * Owlboy
 * XCOM 2
-* Furi
-* Titanfall 2
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
@@ -810,6 +826,7 @@ To Play:
 * Nier: Automata
 * Cuphead
 * Yakuza 0
+
 * Nioh
 * A Hat in Time
 * Getting Over It with Bennett Foddy
@@ -837,6 +854,7 @@ To Play:
 * Dragon Ball FighterZ
 * Assassin's Creed Odyssey
 * Call of Duty: Black Ops 4
+
 * Subnautica
 * Spider-Man
 * Celeste
@@ -860,7 +878,9 @@ To Play:
 * Outer Wilds
 * Death Stranding
 * Jedi Fallen Order
+
 * Superliminal
+* A Plague Tale: Innocence
 * Control
 * Apex Legends
 * Kingdom Hearts III
@@ -868,7 +888,6 @@ To Play:
 * Marble Marcher
 * The Outer Worlds
 * Code Vein
-* A Plague Tale: Innocence
 * Man of Medan
 * Baba is You
 

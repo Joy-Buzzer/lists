@@ -44,9 +44,10 @@
 -------------------------------------------------------------------------
 1960's
 * L'eclisse
+* Persona
 * Alphaville
 * Breathless
-* Chimes of Midnight
+* Chimes at Midnight
 * 2001: A Space Oddysey
 * Lolita
 * Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
@@ -89,9 +90,9 @@
 -------------------------------------------------------------------------
 2010's		
 * Arrival
+* Shadow
 * Manchester by the Sea
 * Nightcrawler
-* Shadow
 * Parasite
 * Bladerunner 2049
 * Us
@@ -113,11 +114,20 @@
 * The Cabinet of Dr. Caligari
 -------------------------------------------------------------------------
 1927
+* Metropolis
 * The General
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1932
 * The Blood of a Poet
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+1933
+* King Kong
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+1937
+* La Grand Illusion
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1940
@@ -159,30 +169,39 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1961
-* La notte
 
+* La notte
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1962
 * L'eclisse
 * Vivre Sa Vie
 * Lolita
+* Dr. No
+
 * Lawrence of Arabia
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1963
 * The Servant
+* From Russia With Love
 
 * The Silence
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1964
 * Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+* Goldfinger
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1965
 * Chimes at Midnight
 * Alphaville
+* Thunderball
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+1966
+* Persona
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1967
@@ -192,6 +211,10 @@ To Watch:
 -------------------------------------------------------------------------
 1968
 * 2001: A Space Oddysey
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+1969
+* On Her Majesty's Secret Service
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1970
@@ -213,8 +236,12 @@ To Watch:
 * The Wicker Man
 * Enter the Dragon
 * The Long Goodbye
-
+* Live and Let Die
 * The Exorcist
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+1974
+* The Man with the Golden Gun
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1975
@@ -234,15 +261,17 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1977
-* Annie Hall
 * Star Wars
 * Eraserhead
+ * House
+* The Spy Who Loved Me
 
-* House
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1979
+* Monty Python's Life of Brian
 * Apocalypse Now
+* Moonraker
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1980
@@ -265,6 +294,7 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1982
+* Pink Floyd: The Wall
 * Blade Runner
 * The Thing
 -------------------------------------------------------------------------
@@ -272,6 +302,7 @@ To Watch:
 1983
 * The Ballad of Narayama
 * Scarface
+* Octopussy
 ----------------------------------------------------------- --------------
 -------------------------------------------------------------------------
 1984
@@ -302,7 +333,7 @@ To Watch:
 * The Last Emperor
 * The Princess Bride
 * Full Metal Jacket
-
+* The Living Daylights
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1988
@@ -316,6 +347,7 @@ To Watch:
 * Drugstore Cowboy
 * The Little Mermaid
 * Dead Poets Society
+* License to Kill
 
 * Do the Right Thing
 -------------------------------------------------------------------------
@@ -381,6 +413,7 @@ To Watch:
 * Hercules
 * A Taste of Cherry
 * The Game
+* Tomorrow Never Dies
 * Jackie Brown
 * The Full Monty
 
@@ -411,6 +444,7 @@ To Watch:
 
 -------------------------------------------------------------------------
 2000 		
+* Memento
 * American Psycho
 * The Replacements
 * Gladiator
@@ -424,9 +458,10 @@ To Watch:
 -------------------------------------------------------------------------
 2001 		
 * Mulholland Drive
+* Spirited Away
+* Hardball
 * Ocean's Eleven
 * Monsters, Inc.		
-* Spirited Away
 * The Lord of the Rings: The Fellowship of the Ring
 * A.I. Artificial Intelligence
 * Vanilla Sky
@@ -467,9 +502,9 @@ To Watch:
 * Howl's Moving Castle
 * Downfall
 * Anchorman: The Legend of Ron Burgundy
-* Ocean's Twelve
 * The Incredibles		
 * Kung Fu Hustle
+* Ocean's Twelve
 * Mean Girls
 * Napoleon Dynamite
 * Dodgeball: A True Underdog Story
@@ -488,13 +523,15 @@ To Watch:
 
 -------------------------------------------------------------------------
 2006 					
-* The Wind that Shakes the Barley
+* The Prestige
 * This is England
+* Casino Royale
 * Crank
 * Pirates of the Caribbean Dead Man's Chest
+* The Departed
+* The Wind that Shakes the Barley
 * Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
 * I'm a Cyborg, But That's OK
-* The Departed
 * A Scanner Darkly
 -------------------------------------------------------------------------
 
@@ -575,13 +612,14 @@ To Watch:
 -------------------------------------------------------------------------
 2012 	
 * Promised Land
+* Skyfall
 * The Master
-* Killing Them Softly	
-* Dredd
 * The Avengers		
+* Killing Them Softly	
 * Wreck-it Ralph
-* Argo
+* Dredd
 * Lincoln
+* Argo
 
 To Watch:
 * Cannes Shit
@@ -631,11 +669,11 @@ To Watch:
 2015 		
 * The Big Short
 * The Sea of Trees
-* Anomalisa
-* Sicario		
 * Spotlight
 * Mad Max: Fury Road
+* Anomalisa
 * The Visit
+* Sicario		
 
 To Watch:
 * Memoirs of a Broken Mind 
@@ -707,12 +745,11 @@ To Watch:
 * Sorry to Bother You
 * Boy Erased
 * Mary Magdalene
-* Vice
-* The Favourite		
 * Black Panther
+* The Favourite		
 * Mary: Queen of Scots
 * Ready Player One
-* Ocean's Eight
+* Vice
 
 To Watch:
 * The Idea of Manhood
@@ -726,10 +763,10 @@ To Watch:
 * Uncut Gems
 * Us
 * Joker
-* Monos
 * John Wick Parabellum
 * Pain and Glory
 * Birds of Passage
+* Monos
 * The Report
 * The Irishman
 

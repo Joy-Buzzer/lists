@@ -6,8 +6,8 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 SMiLE(10)
-	* Pet Sounds
 	* Kid A	
+	* Pet Sounds
 	* Skylarking
 	* Yankee Hotel Foxtrot	
 	* The SMiLE Sessions		
@@ -255,28 +255,29 @@ SMiLE(10)
 -------------------------------------------------------------------------
 1980's
 * Skylarking - XTC
-* Daydream Nation - Sonic Youth
 * Closer - Joy Division
+* Daydream Nation - Sonic Youth
 * The Stone Roses - The Stone Roses
 * Disintegration - The Cure
+* All of This and Nothing - The Psychadelic Furs
 * Isn't Anything - My Bloody Valentine
 * The Queen is Dead - The Smiths
 * Doolittle - Pixies
 * Remain in Light - Talking Heads
+
 * Double Nickels on the Dime - Minutemen
-
 * Rain Dogs - Tom Waits
-
-* Only a Lad - Oingo Boingo
-* Thriller - Micheal Jackson
-* Burning From The Inside - Bauchus
-* The Smiths - The Smiths
-* Murmur - R.E.M.
-* Brotherhood - New Order
 * Paul's Boutique - Beastie Boys
+* Brotherhood - New Order
+
 * On Fire - Galaxie 500
-* Hex Enducation Hour - The Fall
+* Only a Lad - Oingo Boingo
 * Power, Corruption & Lies - New Order
+* Thriller - Micheal Jackson
+* Murmur - R.E.M.
+* The Smiths - The Smiths
+* Burning From The Inside - Bauchus
+* Hex Enducation Hour - The Fall
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1990's
@@ -287,7 +288,7 @@ SMiLE(10)
 
 * Ágætis Byrjun - Sigur Rós
 * Loveless - My Bloody Valentine
-* Emergency & I - the Dismemberment Plan
+* Emergency & I - The Dismemberment Plan
 * Siamese Dream - Smashing Pumpkins
 * In the Aeroplane Over the Sea - Neutral Milk Hotel
 
@@ -477,6 +478,7 @@ SMiLE(10)
 * Tago Mago - Can
 * Who's Next - The Who
 * Ram - Paul McCartney
+* Meddle - Pink Floyd
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1972
@@ -597,9 +599,9 @@ To Listen:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1988
-* Daydream Nation - Sonic Youth
-* Isn't Anything - My Bloody Valentine
 * All of This and Nothing - The Psychedelic Furs
+* Isn't Anything - My Bloody Valentine
+* Daydream Nation - Sonic Youth
 * Surfer Rosa - Pixies
 * Allegory & Self - Psychic TV
 -------------------------------------------------------------------------
@@ -676,9 +678,9 @@ To Listen:
 * OK Computer - Radiohead
 * Either/Or - Elliott Smith
 * Ladies and Gentlemen, We Are Floating in Space - Spiritualized
+* I Can Hear the Heart Beating as One - Yo La Tengo
 * Homogenic - Björk
 * Perfect From Now On - Built to Spill
-* I Can Hear the Heart Beating as One - Yo La Tengo
 * Songs from Northern Britain - Teenage Fanclub
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -700,11 +702,11 @@ To Listen:
 -------------------------------------------------------------------------
 2000
 * Kid A - Radiohead
-
 * Since I Left You - The Avalanches
-
 * The Moon & Antarctica - Modest Mouse
 * Voodoo - D'Angelo
+
+* And Then Nothing Turned Itself Inside-Out - Yo La Tengo
 * Supreme Clientelle - Ghostface Killah
 * Spirit They're Gone, Spirit They've Vanished - Animal Collective
 * The Sickness - Disturbed
@@ -920,6 +922,7 @@ To Listen:
 * HOPELESSNESS - ANOHNI
 * Wildflower - The Avalanches
 * Human Performance - Parquet Courts
+* Masterpiece - Big Thief
 
 -------------------------------------------------------------------------
 
