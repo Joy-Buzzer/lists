@@ -3,7 +3,6 @@
 	Prophet			seering gaze
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-* William Shakespeare
 * John Milton
 * Leonardo da Vinci
 * Michelangelo Buonarotti
@@ -21,6 +20,7 @@
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
+? William Shakespeare
 ? Homer
 ? Giotto 
 ? Johann Sebastion Bach
@@ -36,6 +36,7 @@
 * Dante Algheri
 * Emily Dickinson
 * Vincent Van Gogh
+* Sigmund Freud
 * Brian Wilson
 * David Lynch
 * Bob Dylan
@@ -48,7 +49,8 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 					
-
+* The Oddyssey
+* The Illiad
 * Don Quiote 
 * Hamlet
 * King Lear
