@@ -262,9 +262,10 @@ SMiLE(10)
 	* All of This and Nothing
 	* Isn't Anything
 	* The Queen is Dead
+	* Purple Rain
 	* Doolittle
-	* Remain in Light
 	
+	* Remain in Light
 	* Double Nickels on the Dime
 	* Rain Dogs
 	* Paul's Boutique
@@ -274,16 +275,16 @@ SMiLE(10)
 	* Strange Times
 	* Power, Corruption & Lies 
 	* Thriller
-	* Murmur
 
+	* Murmur
 	* The Smiths
 	* Burning From The Inside
 	* Hex Enducation Hour
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1990's
-	* OK Computer
 	* Slanted & Enchanted
+	* OK Computer
 	* Either/Or
 	* Souvlaki
 	* Ágætis Byrjun
@@ -362,17 +363,16 @@ SMiLE(10)
 	* Kaputt
 	* Settle
 	
-	* Melodrama
 	* A Moon-Shaped Pool
 	* Helplessness Blues
 	* Slowdive
-	* Yeezus
 	* A Seat at the Table
 	* Be the Cowboy
+	* Yeezus
+	* Melodrama
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2020's
-	* Fetch the Bolt Cutters
 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -384,11 +384,17 @@ SMiLE(10)
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
+1956
+* Three Ragas - Ravi Shankar
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 1957
 * Brilliant Corners - Thelonious Monk 
+* The Sounds Of India - Ravi Shankar
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1959
+* Ah Um - Charles Mingus
 * Time Out - The Dave Brubeck Quartet
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -430,6 +436,7 @@ SMiLE(10)
 * Pet Sounds - The Beach Boys
 * Revolver - The Beatles
 * Blonde on Blonde - Bob Dylan
+* Aftermath - The Rolling Stones
 * The Psychadelic Sounds of the 13th Floor Elevators - The 13th Floor Elevators
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -439,6 +446,7 @@ SMiLE(10)
 * Sgt. Pepper's Lonely Hearts Club Band - the Beatles
 * Magical Mystery Tour - The Beatles 
 * The Doors - The Doors
+* Between The Buttons - The Rolling Stones
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1968
@@ -488,6 +496,9 @@ SMiLE(10)
 * Who's Next - The Who
 * Ram - Paul McCartney
 * Meddle - Pink Floyd
+
+?
+* Maggot Brain - Funkadelic
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1972
@@ -506,6 +517,8 @@ SMiLE(10)
 * Faust IV - Faust
 * Aladdin Sane - David Bowie
 
+?
+* Innervisions - Steivie Wonder
 * Berlin - Lou Reed
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -549,10 +562,10 @@ To Listen:
 * Entertainment! - Gang of Four
 * London Calling - The Clash
 * Unknown Pleasures - Joy Division
+* The Wall - Pink Floyd
 * Breakfast in America - Supertramp
 * Drums And Wires - XTC
 * Metal Box - Public Image Ltd.
-* The Wall - Pink Floyd
 * 154 - Wire
 * Fear of Music - Talking Heads
 -------------------------------------------------------------------------
@@ -567,6 +580,7 @@ To Listen:
 * Talk Talk Talk - The Psychedlic Furs
 * Only a Lad - Oingo Boingo
 * La Folie - The Stranglers
+* Juju - Siouxsie and the Banshees
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1982
@@ -576,6 +590,7 @@ To Listen:
 * Hex Enducation Hour - The Fall
 
 ?
+* Beautiful Vision - Van Morrison
 * Rip It Up - Orange Juice
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -589,6 +604,7 @@ To Listen:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1984
+* Purple Rain - Prince
 * Double Nickels on the Dime - Minutemen
 * The Smiths - The Smiths
 -------------------------------------------------------------------------
@@ -645,6 +661,7 @@ To Listen:
 1991
 * Loveless - My Bloody Valentine
 * Nevermind - Nirvana
+* 2Pacalypse Now - 2Pac
 * Blue Lines - Massive Attack
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -658,6 +675,7 @@ To Listen:
 1993
 * Siamese Dream - Smashing Pumpkins
 * Painful - Yo La Tengo
+* Last Splash - The Breeders
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1994
@@ -715,6 +733,7 @@ To Listen:
 * Ágætis Byrjun - Sigur Rós
 * Emergency & I - the Dismemberment Plan
 * The Soft Bulletin - The Flaming Lips
+* 13 - Blur
 * American Football - American Football
 -------------------------------------------------------------------------
 
@@ -782,6 +801,8 @@ To Listen:
 * Demon Days - Gorillaz
 * God's Money - Gang Gang Dance
 * Tender Buttons - Broadcast
+* The Woods - Sleater-Kinney
+
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2006
@@ -803,6 +824,7 @@ To Listen:
 * † - Justice
 * Graduation - Kanye West
 * For Emma, Forever Ago - Bon Iver
+* The Bird Of Music - Au Revoir Simone
 * Night Falls Over Kortedala - Jens Lekman
 * Album - Girls
 
@@ -811,6 +833,7 @@ To Listen:
 2008
 * Dear Science - TV on the Radio
 * Alas, I Cannot Swim - Laura Marling
+* Microcastle - Deerhunter
 * Twenty One - Mystery Jets
 * Saint Dymphna - Gang Gang Dance
 * Fleet Foxes - Fleet Foxes
@@ -867,16 +890,17 @@ To Listen:
 -------------------------------------------------------------------------
 2012
 * good kid, m.A.A.d city - Kendrick Lamar
-* Lonerism - Tame Impala
 * Channel Orange - Frank Ocean
 * The Seer - Swans
+* An Awesome Wave - alt-J
+* Lonerism - Tame Impala
 * Bloom - Beach House
 * The Money Store - Death Grips
 * The Idler Wheel... - Fiona Apple
 * Kill for Love - Chromatics
 * Shields - Grizzly Bear
-* Mature Themes - Ariel Pink's Haunted Graffiti
 
+* Mature Themes - Ariel Pink's Haunted Graffiti
 * Visions - Grimes
 * Gossamer - Passion Pit
 * That's Why God Made the Radio - The Beach Boys
@@ -918,6 +942,7 @@ To Listen:
 * Yours, Dreamily - The Arcs
 * Depression Cherry - Beach House
 * No Pier Pressure - Brian Wilson
+* What The World Needs Now... - Public Image Ltd.
 
 ?
 * AT.LONG.LAST.A$AP - A$AP Rocky
@@ -935,15 +960,16 @@ To Listen:
 * 22, A Million - Bon Iver
 * untitled unmastered - Kendrick Lamar
 * Skeleton Tree - Nick Cave & The Bad Seeds
-* HOPELESSNESS - ANOHNI
+* HOPELESSNESS - ANOHNI.
 * Wildflower - The Avalanches
-* Human Performance - Parquet Courts
+* Human Performance - Parquet Courts54
 * Masterpiece - Big Thief
 
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
-2017
+2017											\ somersaulT 1230 | 2021 .
+* Somersault - Beach Fossils 
 * Petite Afrique - Somi
 * Slowdive - Slowdive
 * DAMN. - Kendrick Lamar
@@ -953,9 +979,9 @@ To Listen:
 * Hang - Foxygen
 * Brutalism - IDLES
 * The OOZ - King Krule
+
 * Forget - Xiu Xiu
 * 1992 Deluxe - Princess Nokia
-
 * Black Origami - Jlin
 * SATURATION III - Brockhampton
 * The Weather - Pond
@@ -989,6 +1015,7 @@ To Listen:
 * KIDS SEE GHOSTS - KIDS SEE GHOSTS
 
 ?
+* Kiss Yr Frenemies - illuminati hotties
 * Golden Hour - Kacey Musgraves
 * Negro Swan - Blood Orange
 * Tangerine Reef - Animal Collective
@@ -1009,29 +1036,39 @@ To Listen:
 * Miami Memory - Alex Cameron
 * 2020 - Richard Dawson
 * I Also Want to Die in New Orleans - Sun Kil Moon
+* Athena - Sudan Archives
+
+* Titanic Rising - Weyes Blood
 * When I Get Home - Solange
 * Beware of the Dogs - Stella Donnelly
 
 ?
 * !000 gecs - 100 gecs
-* Athena - Sudan Archives
-* Titanic Rising - Weyes Blood
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
 2020
-* Fetch the Bolt Cutters - Fiona Apple
 * Set My Heart On Fire Immediately  - Perfume Genius
+* Fetch the Bolt Cutters - Fiona Apple
+* The New Abnormal - The Strokes
+* The Main Thing - Real Estate
+* Punisher - Phoebe Bridgers
 * Miss Antropocene - Grimes
-* Suite for Max Brown - Jeff Parker
 * RTJ4 - Run The Jewels
+* Suite for Max Brown - Jeff Parker
 * Which Way is Forward? - Obongjayar
+* WHAT WE DREW - Yaeji
+
 * Shall We Go On Sinning So That Grace May Increase? - The Soft Pink Truth
+* A Hero's Death - Fontaines D.C.
 * TO LOVE IS TO LIVE - Jehnny Beth
 * Aporia - Sufjan Stevens, Lowell Brams
 * Rough and Rowdy Ways - Bob Dylan
-
 * The Long Goodbye - Riz Ahmed
 
 ? 
+* Shore - Fleet Foxes
+* Éons - Neptunian Maximalism
+* Archaeopteryx - Monolake
+* Earth Crisis - Dirty Projectors
 -------------------------------------------------------------------------

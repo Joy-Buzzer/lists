@@ -11,14 +11,17 @@
 * Yasujirō Ozu
 * Michelangelo Antonionni
 * Orson Welles
-* Alfred Hitchcock
-* Akira Kurosawa
+* Andrei Tarkovsky
 * Gus Van Sant
 * David Lynch
-* Carl Theodor Dreyer
+* Akira Kurosawa
 * Lars Von Trier
+* Carl Theodor Dreyer
+
+* Alfred Hitchcock
+* Ingmar Bergman
 * Paul Thomas Anderson
-* Stanley Kubrik
+* Stanley Kubrick
 * Coen 
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -28,6 +31,7 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 * Daniel Day-Lewis
+* Keanu Reeves
 * Joaquin Phoenix
 * Ryan Gosling
 * Viggo Mortenson
@@ -37,7 +41,15 @@
  Decades:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
+1920's
+* The Man Who Laughs
+* Battleship Potemkin
+* The General
+* Metropolis
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 1930's
+* Modern Times
 * La Grand Illusion
 * King Kong
 -------------------------------------------------------------------------
@@ -45,6 +57,7 @@
 1940's
 * Citizen Kane
 * To Be or Not to Be
+* Henry V
 * Adam's Rib
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -52,50 +65,79 @@
 * Early Summer
 * Ordet
 * Tokyo Story
-* Seven Samurai
+* Sansho the Bailiff
+* Pickpocket
 * Vertigo
+* The Seventh Seal
+* Rio Bravo
+* The Searchers
+* Seven Samurai
+
 * Sunset Blvd.
 * Throne of Blood
+* North by Northwest
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1960's
-* A Bout De Souffle
+* À bout de souffle
 * L'eclisse
 * The Trial
+* Andrei Rublev
 * Persona
 * Alphaville
+* L'Avventura
 * Chimes at Midnight
+* Le Mepris
+* Psycho
+
 * 2001: A Space Oddysey
+* (These are) The Damned
+* Week-end
+* Vivre sa Vie
 * Lolita
 * Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+* Pierrot Le Fou
+* The Servant
+* Les Carabiniers
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1970's
+* Stalker
+* Solaris
 * Network
-* Aquirre The Wrath of God
 * The Passenger
-* La Planete Sauvage
+* Aquirre The Wrath of God
 * The Conformist
+* Badlands
+* Monty Python's Life of Brian
 * Harold and Maude
 * The Holy Mountain
-* Monty Python's Life of Brian
+
+* La Planete Sauvage
 * Willy Wonka & the Chocolate Factory
 * Star Wars
-
+* Eraserhead
 * The Rocky Horror Picture Show
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1980's
-* Ran
+* Possession
+* Withnail & I
+* Britannia Hospital
 * The Last Emperor
-* Drugstore Cowboy
 * Brazil
-* Akira
 * Pink Floyd: The Wall
+* Ran
+* Akira
+* They Live
+* Drugstore Cowboy
+
+* A Summer at Grandpa's
+* Zelig
 * Stir Crazy
 * The Breakfast Club
-* They Live
 * The Empire Strikes Back
+* Blade Runner
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1990's			 
@@ -104,25 +146,31 @@
 * Magnolia
 * Starship Troopers
 * Groundhog Day
+* The Wind Will Carry Us
 * Good Will Hunting
 * The Matrix
+* Naked
 * Slacker
+
 * The Big Lebowski
 * Fear and Loathing in Las Vegas
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2000's			
 * Mulholland Dr.
-* Devils on the Doorstep
-* There Will Be Blood
 * Eternal Sunshine of the Spotless Mind
-* Spirited Away
+* There Will Be Blood
+* Synecdoche, New York
 * Russian Ark
+* Devils on the Doorstep
+* Spirited Away
 * Eloge de Amour
 * O Brother, Where Art Thou?
+* The Navigators
+
+* The New World
 * Pirates of the Caribbean Curse of the Black Pearl
 * Anchorman: The Legend of Ron Burgundy
-
 * No Country for Old Men
 * Brokeback Mountain
 * Thirst
@@ -132,20 +180,30 @@
 * Embrace of the Serpent
 * Birds of Passage
 * Clouds of Sils Maria
-* Arrival
-* Bladerunner 2049
-* Shadow
 * Parasite
+* Shadow
+* Bladerunner 2049
+* Arrival
 * Nightcrawler
-* Manchester by the Sea
 * Us
+* Manchester by the Sea
 
 * Peterloo
 * Uncut Gems
+* Burning
+* The Lighthouse
+* Phantom Thread
 * Whiplash
+* Hail, Caesar!
+* Don't Worry, He Won't Get Far on Foot
 * John Wick
-* Snowpiercer
 * Birdman or (The Unexpected Virtue of Ignorance)			
+
+* Harry Potter and the Deathly Hallows Part 2
+* Harry Potter and the Deathly Hallows Part 1
+* Shoplifters
+* The Master
+* Snowpiercer
 * Joker
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -193,9 +251,9 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1925
+* Battleship Potemkin
 
 To Watch:
-* Battleship Potemkin
 * Gold Rush
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -216,6 +274,7 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1928
+* The Man Who Laughs
 
 To Watch:
 * The Passion of Joan of Arc
@@ -224,6 +283,7 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1929
+* Un Chien Andalou
 
 To Watch:
 * Man with a Movie Camera
@@ -242,6 +302,7 @@ To Watch:
 
 To Watch:
 * City Lights
+* M
 * Die Dreigroschenoper
 * Kameradschaft
 * The Public Enemy
@@ -272,6 +333,7 @@ To Watch:
 1934
 
 To Watch:
+* The Lost Patrol
 * The Goddess
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -284,6 +346,7 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1936
+* Modern Times
 
 To Watch:
 * Une partie de campagne
@@ -327,10 +390,12 @@ To Watch:
 * Citizen Kane
 
 To Watch:
+* Maltese Falcon
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1942
 * To Be or Not to Be
+* Casablanca
 
 To Watch:
 * The Magnificent Ambersons
@@ -343,9 +408,9 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1944
+* Henry V
 
 To Watch:
-* Henry V
 * Double Indemnity
 * Ivan The Terrible, Part I
 -------------------------------------------------------------------------
@@ -359,6 +424,7 @@ To Watch:
 1946
 
 To Watch:
+* Notorious
 * Ivan The Terrible, Part II: The Boyars' Plot
 * Great Expectations
 -------------------------------------------------------------------------
@@ -392,6 +458,7 @@ To Watch:
 * Sunset Blvd.
 
 To Watch:
+* Rashomon
 * Gun Crazy
 * All About Eve
 * Francesco, giullare di Dio
@@ -399,6 +466,7 @@ To Watch:
 -------------------------------------------------------------------------
 1951
 * Early Summer
+* The Man In The White Suit
 
 To Watch:
 * An American in Paris
@@ -417,11 +485,14 @@ To Watch:
 * Tokyo Story
 
 To Watch:
+* The Night of the Hunter
 * Ugetsu Monogatari
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1954
+* Sansho the Bailiff
 * Seven Samurai
+* Rear Window
 
 To Watch:
 * Journey to Italy
@@ -434,6 +505,7 @@ To Watch:
 * Ordet
 
 To Watch:
+* Les Diaboliques
 * Pather Panchali
 * All That Heaven Allows
 -------------------------------------------------------------------------
@@ -450,13 +522,15 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1957
+* The Seventh Seal
 * Throne of Blood
 * 12 Angry Men
 * Paths of Glory
 
 To Watch:
-* The Seventh Seal
+* Sweet Smell of Success
 * Mother India
+* Wild Strawberries
 * Nights of Cabiria
 -------------------------------------------------------------------------
 1958
@@ -471,8 +545,8 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1959
-* Rio Bravo
 * Pickpocket
+* Rio Bravo
 * North by Northwest
 
 To Watch:
@@ -485,7 +559,7 @@ To Watch:
 
 -------------------------------------------------------------------------
 1960
-* À Bout De Souffle
+* À bout de souffle
 * L'Avventura
 * Psycho
 
@@ -499,8 +573,10 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1961
+* (These are) The Damned
 
 To Watch:
+* Last Year at Marienbad
 * Havoc in Heaven
 * La notte
 * Viridiana
@@ -515,13 +591,17 @@ To Watch:
 * Dr. No
 
 To Watch:
+* To Kill a Mockingbird
 * The Man Who Shot Liberty Valance
 * Lawrence of Arabia
 * Cléo from 5 to 7
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1963
+* Le Mepris
 * The Servant
+* Les Carabiniers 
+* The Silence
 * From Russia With Love
 
 To Watch:
@@ -529,7 +609,6 @@ To Watch:
 * 8½
 * The Insect Woman
 * Barren Lives
-* The Silence
 * Winter Light
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -539,6 +618,7 @@ To Watch:
 * Goldfinger
 
 To Watch:
+* Band of Outsiders
 * Bande à Part
 * Une femme mariée
 * Two Stage Sisters
@@ -549,8 +629,9 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1965
-* Chimes at Midnight
 * Alphaville
+* Chimes at Midnight
+* Pierrot le Fou
 * For a Few Dollars More
 * Thunderball
 
@@ -560,22 +641,28 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1966
+* Andrei Rublev
 * Persona
+* Masculin, Féminin
 * The Good, the Bad and the Ugly
 
 To Watch:
+* Who's Afraid of Virgina
+* Patriotism
+* Faster, Pussycat! Kill! Kill!
 * Daisies
-* Andrei Rublev
 * Blowup
 * Black Girl
 * Au hasard Balthazar
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1967
+* Week-end
 
 To Watch:
-* Weekend
+* Le Samouraï
 * Accident
+* La Chinoise
 * Bonnie and Clyde
 * The Graduate
 * The Fireman's Ball
@@ -583,9 +670,12 @@ To Watch:
 -------------------------------------------------------------------------
 1968
 * 2001: A Space Oddysey
+* If....
 * Planet of the Apes
 
 To Watch:
+* Hour of the Wolf
+* The Colour of Pomegranates
 * The Hour of the Furnaces
 * The Red and the White
 * Once Upon a Time in the West
@@ -630,36 +720,46 @@ To Watch:
 -------------------------------------------------------------------------
 1972
 * Aquirre, The Wrath of God
+* Solaris
 * The Godfather
 * The Way of the Dragon
+* The Mattei Affair
 
 To Watch:
+* The Discreet Charm of the Bourgeoisie
 * The Bitter Tears of Petra von Kant
 * Chung Kuo, Cina
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1973
-* Fantastic Planet
-* The Holy Mountain
+* F for Fake
 * Badlands
-* Mean Streets
+* The Holy Mountain
+* Fantastic Planet
 * The Long Goodbye
+* Mean Streets
 * Enter the Dragon
 * The Wicker Man
 * Live and Let Die
+
 * The Exorcist
 
 To Watch:
+* Serpico
 * Pat Garrett and Billy the Kid
+* Touki Bouki
 * Zanjeer
 * Distant Thunder
 * La Maman et la Putain
-* The Conversation
 * The Age of Cosimo De Medici
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1974
+* The Conversation
+* Young Frankenstein
+* The Godfather: Part II
 * The Man with the Golden Gun
+* Blazing Saddles
 
 To Watch:
 * Ali: Fear Eats the Soul
@@ -677,6 +777,9 @@ To Watch:
 * The Adventure of Sherlock Holmes' Smarter Brother
 
 To Watch:
+* Salò, or the 120 Days of Sodom 
+* Dog Day Afternoon
+* Deep Red
 * Sholay
 * Mausam
 * The Battle of Chile
@@ -702,6 +805,7 @@ To Watch:
 1977
 * Star Wars
 * Eraserhead
+* Night Over Chile
 * House
 * The Spy Who Loved Me
 
@@ -713,19 +817,21 @@ To Watch:
 1978
 
 To Watch:
-* Killer of Sleep
 * Days of Heaven
+* The Last Waltz
+* Killer of Sleep
 * The Second Awakening of Christa Klages
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1979
+* Stalker
 * Monty Python's Life of Brian
-* Apocalypse Now
 * Star Trek: The Motion Picture
 * Moonraker
 
 To Watch:
-* Stalker
+* Apocalypse Now
+* The Castle of Cagliostro
 * Manhattan
 * Christ Stopped at Eboli
 -------------------------------------------------------------------------
@@ -740,30 +846,33 @@ To Watch:
 * The Fog
 
 To Watch:
+* My American Uncle
 * Raging Bull
 * The Constant Factor
 * Return of the Secaucus 7
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1981
-* Escape from New York
-* An American Werewolf in London
+* Possession
 * Raiders of the Lost Ark
+* An American Werewolf in London
 * The Evil Dead
+* Escape from New York
 
 To Watch:
-* Possession
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1982
-* Pink Floyd: The Wall
 * Britannia Hospital
+* Pink Floyd: The Wall
 * Blade Runner
 * The Thing
 * Star Trek II: The Wrath of Khan
 
 To Watch:
+* Fanny and Alexander
 * Labyrinth of Passion
+* Fitzcarraldo
 * Burden of Dreams
 * Yol
 * Identification of a Woman
@@ -782,11 +891,14 @@ To Watch:
 ----------------------------------------------------------- --------------
 -------------------------------------------------------------------------
 1984
+* A Summer at Grandpa's
 * Dune
 * Amadeus
 
 To Watch:
+* Blood Simple
 * Repentence
+* Repo Man
 * Once Upon a Time in America
 * Paris, Texas
 * The Home and the World
@@ -795,18 +907,21 @@ To Watch:
 1985
 * Ran
 * Brazil
+* A Time to Live, A Time to Die
 * The Breakfast Club 
 * Pee-Wee's Big Adventure
 
 To Watch:
+* After Hours
 * Come and See
 * Subway
+* Shoah
 * My Beautiful Laundrette
 * Yellow Earth
-* A Time to Live, A Time to Die
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1986
+* Stand by Me
 * Star Trek IV: The Voyage Home
 * Top Gun
 
@@ -819,15 +934,17 @@ To Watch:
 -------------------------------------------------------------------------
 1987
 * The Last Emperor
+* Withnail & I
 * Prince of Darkness 
 * The Princess Bride
 * King Lear
-* Withnail and I
 * Full Metal Jacket
 * Robocop
+* Wall Street
 * The Living Daylights
 
 To Watch:
+* Evil Dead II
 * City on Fire
 * Yeelen
 * Epidemic
@@ -855,12 +972,16 @@ To Watch:
 1989
 * Drugstore Cowboy
 * The Little Mermaid
+* See No Evil, Hear No Evil
 * Dead Poets Society
 * License to Kill
 * Bill & Ted's Excellent Adventure
 
 To Watch:
+* The Seventh Continent
 * Do the Right Thing
+* Sex, Lies & Videotapes
+* Crimes and Misdemenours
 * A City of Sadness
 * Images of the World and the Inscription of War
 * Jesus of Montreal
@@ -888,6 +1009,10 @@ To Watch:
 * Terminator 2: Judgment Day
 
 To Watch:
+* The Double Life of Véronique
+* La Belle Noiseuse
+* Boyz n the Hood
+* Barton Fink
 * Raise the Red Lantern
 * Les Amants du Pont-Neuf
 * Europa
@@ -898,11 +1023,13 @@ To Watch:
 * Groundhog Day
 * Hard Boiled
 * Porco Rosso
+* Bram Stoker's Dracula
 * Reservoir Dogs
 * Aladdin
 
 To Watch:
 * Hyènes
+* Wayne's World
 * Light Sleeper
 * Don Quijote
 -------------------------------------------------------------------------
@@ -911,14 +1038,18 @@ To Watch:
 * Naked
 * Bleu
 * The Nightmare Before Christmas
+* Demolition Man
 * Jurassic Park
 
 To Watch:
+* d'Est
+* Shortcuts
+* Little Buddha
+* Dazed and Confused
 * The Puppetmaster
 * Schindler's List
 * Iron Monkey
 * The Piano
-* d'Est
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1994
@@ -932,17 +1063,26 @@ To Watch:
 * Forrest Gump
 
 To Watch:
+* Red
+* Heavens ??
+* Four Weddings and a Funeral
+* Serial Mom
+* Chungking Express
+* Hoop Dreams
 * The Hudsucker Proxy
 * Natural Born Killers	
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1995
 * Toy Story
+* Johnny Mnemonic
 * Casino
 * Braveheart
 * Bushwhacked
 
 To Watch:
+* La Haine
+* Before Sunrise
 * Good Men, Good Women
 * Beyond the Clouds
 * Heat
@@ -956,6 +1096,7 @@ To Watch:
 * Jerry Maguire
 
 To Watch:
+* Hamlet
 * Crash
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -972,9 +1113,9 @@ To Watch:
 * The Boxer
 
 * Hercules
+* Jackie Brown
 * The Game
 * Tomorrow Never Dies
-* Jackie Brown
 * The Full Monty
 * Titanic
 
@@ -989,27 +1130,32 @@ To Watch:
 * Fear And Loathing In Las Vegas
 * The Big Lebowski
 * Mulan
+* The Truman Show
 * Lock, Stock and Two Smoking Barrels
 * A Bug's Life
 * Shakespeare in Love
 
 To Watch:
+* Rushmore
 * Flowers of Shanghai
+* Psycho
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1999
 * The Wind Will Carry Us
-* American Beauty
 * Magnolia
 * The Matrix
 * Toy Story 2
+* American Beauty
 * Tarzan
 * Fight Club
 * Being John Malkovich
 * Ghost Dog: Way of the Samurai
+* The Sixth Sense
 
 To Watch:
 * The Iron Giant
+* Eyes Wide Shut
 * The Blair Witch Project
 -------------------------------------------------------------------------
 
@@ -1017,17 +1163,20 @@ To Watch:
 2000 		
 * Devils on the Doorstep
 * O Brother, Where Art Thou?
-* Memento
 * American Psycho
+* Memento
 * The Replacements
 * Dancer in the Dark
 * Gladiator
 * Joint Security Area		
 * Pitch Black
 * Unbreakable
+
 * Dude, Where's My Car?
 
 To Watch:
+* Yi Yi
+* Battle Royale
 * La Commune (Paris 1871)
 * Requim for Dream
 * Songs from the Second Floor
@@ -1037,18 +1186,22 @@ To Watch:
 * Mulholland Dr.
 * Spirited Away
 * Eloge de Amour
+* The Navigators
+* Monsters, Inc.		
 * Hardball
 * Ocean's Eleven
-* Monsters, Inc.		
 * The Lord of the Rings: The Fellowship of the Ring
 * A.I. Artificial Intelligence
 * Vanilla Sky
-* Zoolander
 
+* Zoolander
 * Harry Potter and the Philosopher's Stone
 * Freddy Got Fingered
 
 To Watch: 
+* À ma sœur!
+* Waking Life
+* The Piano Teacher
 * Moulin Rouge!
 * Donnie Darko
 * Mr. Bones
@@ -1060,13 +1213,14 @@ To Watch:
 * The Bourne Identity	
 * The Lord of the Rings: The Two Towers
 * Minority Report
+* The Pianist
 * Harry Potter and the Chamber of Secrets
 * Punch-Drunk Love
 * Lilo and Stitch
-* The Pianist
-* Adaption
+* Adaptation
 
 To Watch:
+* Irréversible
 * Shadow Kill
 * Rules of Attraction
 * Supplement
@@ -1079,12 +1233,13 @@ To Watch:
 * The Lord of the Rings: The Return of the King		
 * Oldboy	
 * Finding Nemo
-* Lost in Translation
 * The Matrix Revolutions
+* Kill Bill: Vol. 1
 * The Matrix Reloaded
 * Intolerable Cruelty
 
 To Watch:
+* Lost in Translation
 * Five Long Takes Dedicated to Yasujiro Ozu
 * Dogville
 * Elephant
@@ -1109,6 +1264,8 @@ To Watch:
 * The Village
 
 To Watch: 
+* Miracle
+* Before Sunset
 * Moolaadé
 * Darwin's Nightmare
 * Tropical Malady
@@ -1117,26 +1274,35 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2005 			
+* The New World
 * Brokeback Mountain
 * Walk the Line
 * Harry Potter and the Goblet of Fire
 
 To Watch: 
+* Caché
+* Linda Linda Linda
 * The Death of Mr. Lazarescu
-* The New World
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2006 					
 * The Prestige
 * This is England
+* The Science of Sleep
 * The Wind that Shakes the Barley
 * Casino Royale
 * Crank
 * Pirates of the Caribbean Dead Man's Chest
 * The Departed
-* Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
-* I'm a Cyborg, But That's OK
 * A Scanner Darkly
+* Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
+
+* I'm a Cyborg, But That's OK
+
+To Watch: 
+* Children of Men
+* Pan's Labyrinth
+* An Unreasonable Man
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2007 	
@@ -1150,28 +1316,35 @@ To Watch:
 * Control
 * Blades of Glory
 * Harry Potter and the Order of the Phoenix
+
+* Zodiac
 * Ocean's Thirteen
 * Eastern Promises
 * Sunshine
 
 To Watch:
+* Beowolf
+* The Assassination of Jesse James by the Coward Robert Ford
 * The Walker
 * Aleksandra
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2008 	
+* Synecdoche New York
 * Milk
 * Burn After Reading
-* Tropic Thunder
 * WALL-E		
 * The Dark Knight
+* Tropic Thunder
 * In Bruges
 * Ip Man
 * Slumdog Millionaire
 * Iron Man
-* The Wrecking Crew
 
 To Watch:
+* Still Walking
+* The Wrecking Crew!
+* The Wrestler
 * The Headless Woman
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -1186,6 +1359,11 @@ To Watch:
 * Inglourious Basterds
 
 To Watch: 
+* The White Ribbon
+* A Prophet
+* Enter the Void
+* Dogtooth
+* Knowing
 * Mr. Nobody
 * Exam
 -------------------------------------------------------------------------
@@ -1194,14 +1372,16 @@ To Watch:
 -------------------------------------------------------------------------
 2010 	
 * Inception			
+* Harry Potter and the Deathly Hallows – Part 1
 * Film Socialisme
+* Ip Man 2
 * Toy Story 3
 * Scott Pilgrim vs. the World
-* Harry Potter and the Deathly Hallows – Part 1
 * 127 Hours
 * The King's Speech
 * Black Swan
 * Kick-Ass
+
 * I'm Still Here
 
 To Watch:
@@ -1209,25 +1389,31 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2011 				
+* Harry Potter and the Deathly Hallows – Part 2
+* Melancholia
 * Tinker Tailor Soldier Spy
+* Drive
 * The Raid
 * We Need to Talk About Kevin
 * Haywire
 * The Artist
 * Rango
 * Winnie the Pooh
+
 * Moneyball
 * Captain America: The First Avenger
-* Harry Potter and the Deathly Hallows – Part 2
 
 To Watch:
+* Images of a Lost City
+* The Tree of Life
 * Cannes Shit
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2012 	
+* Holy Motors
+* The Master
 * Promised Land
 * Skyfall
-* The Master
 * The Avengers		
 * Killing Them Softly	
 * Wreck-it Ralph
@@ -1236,6 +1422,7 @@ To Watch:
 * Argo
 
 To Watch:
+* Amour
 * Cannes Shit
 * The Act of Killing
 -------------------------------------------------------------------------
@@ -1253,6 +1440,8 @@ To Watch:
 * 12 Years a Slave
 
 To Watch:
+* The Great Beauty
+* Before Midnight
 * Cannes Shit
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -1260,40 +1449,57 @@ To Watch:
 * Clouds of Sils Maria
 * Nightcrawler
 * Whiplash
+* Force Majeure
 * John Wick
 * Birdman or (The Unexpected Virtue of Ignorance)			
 * Mr. Turner
 * Boyhood
 * Edge of Tomorrow
 * Captain America: The Winter Soldier
+
 * The Babadook
 * What We Do in the Shadows
 * love&mercy
-
+* Interstellar
 * Guardians of the Galaxy
 * The Grand Budapest Hotel
 * The Imitation Game
 * Gone Girl
 
 To Watch:
+* Goodbye to Language
+* Mommy
+* Phoenix
+* The Look of Silence
+* It Follows
 * Stalemate
 * Cannes Shit
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2015 		
 * Embrace of the Serpent
+* Ip Man 3
+* The Invitation
+* The Sea of Trees
 * The Big Short
 * Wolf Warrior
-* Spotlight
 * The Assassin
+* Spotlight
+* Inside Out
+* Star Wars: The Force Awakens
+
 * Mad Max: Fury Road
 * Anomalisa
+* The Lobster
 * The Visit
 * Sicario		
+* Ex Machina
 
 To Watch:
+* Love
+* The Witch
+* Queen of Earth
 * Monkey King, Hero is Back
-* The Sea of Trees
 * Memoirs of a Broken Mind 
 * Grizzly Man
 * Cannes Shit
@@ -1302,15 +1508,17 @@ To Watch:
 2016 	
 * Arrival
 * Manchester by the Sea
+* Hail, Caesar!
 * La La Land
-* Captain Fantastic
 * The Handmaiden
+* Captain Fantastic
+* Swiss Army Man
 * Sing Street
 * Moana		
-* Moonlight	
-* Hail, Caesar!
-* Captain America: Civil War
+* Your Name
 
+* Moonlight	
+* Captain America: Civil War
 * Snowden
 * A Quiet Passion
 * Dr. Strange
@@ -1319,6 +1527,7 @@ To Watch:
 * The Great Wall
 
 To Watch:
+* The Neon Demon
 * Into the Inferno
 * Cannes Shit
 * Imperium
@@ -1327,22 +1536,36 @@ To Watch:
 2017 	
 * Blade Runner 2049
 * Phantom Thread
-* Wolf Warrior II
-* Call Me by Your Name	
+* The Square
+* Get Out
 * You Were Never Really Here
+* Good Time
+* Call Me by Your Name	
+* Wolf Warrior II
 * Okja
-* Three Billboards Outside Ebbing, Missouri	
-* Lady Bird	
 * Loving Vincent
-* Dunkirk
 
+* Logan
+* Dunkirk
+* Lady Bird	
+* It
+* Baby Driver
+* Three Billboards Outside Ebbing, Missouri	
 * Thor Ragnarok
 * American Made
+* I, Tonya
+* The Death of Stalin
+
 * The Shape of Water
 * I Don't Feel at Home in This World Anymore
 * Spider-Man Homecoming
 
 To Watch:
+* Personal Shopper
+* It Comes at Night
+* A Ghost Story
+* The Florida Project
+* mother!
 * Gangter in Morteni
 * First Reformed
 * Cannes Shit
@@ -1353,31 +1576,40 @@ To Watch:
 * Birds of Passage
 * Shadow
 * Peterloo
+* Burning
 * Don't Worry, He Won't Get Far on Foot
 * Shoplifters
 * Sorry to Bother You
+* Black '47
 * Avengers Infinity War	
 * The House That Jack Built
+
 * Ash Is Purest White
 * Hereditary
 * Under the Silver Lake
-
 * Mission Impossible: Fallout
 * Dogman
 * Girl
 * Green Book
 * BlacKkKlansman
-* Beautiful Boy 
 * Mary Magdalene
-* Boy Erased
-* Black Panther
-* The Favourite		
+* Beautiful Boy 
 
+* Spider-Man: Into the Spider-Verse
+* Black Panther
+* Boy Erased
+* The Favourite		
 * Mary: Queen of Scots
 * Ready Player One
 * Vice
 
 To Watch:
+* The Image Book
+* The Game Changers
+* Eighth Grade
+* Roma
+* Climax
+* Suspiria
 * The Idea of Manhood
 * Cannes Shit
 * Dominion
@@ -1386,40 +1618,49 @@ To Watch:
 2019
 * Parasite
 * Uncut Gems
-* Us
-* Joker
+* The Lighthouse
 * John Wick Parabellum
+* Us
+* Ip Man 4: The Finale
+* Waiting for the Barabrians
+* Joker
 * Pain and Glory
 * Monos
+
 * The Irishman
 * A Beautiful Day in the Neighbourhood
 * The Report
-
 * 1917
 * The Farewell
 * Knives Out
 * Marriage Story
 * The Two Popes
-* Avengers Endgame
-* The Laundromat
 * Midsommar
+* Avengers Endgame
+
+* The Laundromat
+* Triple Threat
 * The Goldfinch
 * Once Upon A Time in Hollywood
 
 To Watch:
 * White Snake
+* Portrait of a Lady on Fire
 * Ne Zha
-* Waiting for the Barabrians
 * Cannes Shit
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
 2020
-* Waiting for the Barbarians
+* I'm Thinking of Ending Things
+* Mank
+* Borat Subsequent Moviefilm
 * The Wasp Network
+* Enola Holmes
 * Bill & Ted Face the Music
 * The Gentlemen
 * Bombshell
 
 To Watch:
+* The Hunt
 -------------------------------------------------------------------------

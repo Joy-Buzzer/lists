@@ -35,16 +35,22 @@ The Chaotic Age
 ----------------------------------------------------------------
 essayists: 
 
+	* James Joyce
 	* Dr Samual Johnson
 	* Nietzsche 
 	* Aristophanes
 	* Oscar Wilde 
 	* William Hazlitt
 	* Tolstoy - What is Art?
-	*
 	
 ----------------------------------------------------------------
 ----------------------------------------------------------------
+	Timeline of Timelessness
+----------------------------------------------------------------
+----------------------------------------------------------------
+
+
+				the ids of Old
 
  J
 
@@ -58,33 +64,66 @@ essayists:
 
  Beowolf
 
-1300's
+500'sB		Lao Tzu or Laozi
+				(theWay)
+------				Absolute Entanglement
+
+1300's			the Ego traverses the Cascade
 * Dante
 	* Divine Comedy
 
-1600's
+1600's					Bardoltry
 * William Shakespeare
+* Milton
+* Don Quixote
 
 1700's		 Sensibility, Sentimentality, and the Sublime
 
-1800's		‘Big Six’ Romantic
+1800's		
+	‘Big Six’ Romantic poets
 * William Blake, 1757 - 1827
 	* The Marriage of Heaven and Hell
 * William Wordsworth 1770 - 1850
-	* 
 	* A Complaint
 * Samuel Taylor Coleridge, 1772 - 1834
 * Percy Bysshe Shelley, 1792 - 1822
 * Byron, 1788 - 1824
 * John Keats, 1795 - 1821
 
-1900's
+
+1808			Modernity & Literature
+* Faust, Part One - Johann Wolfgang von Goethe
+1832
+* Faust, Part Two - Johann Wolfgang von Goethe
+1851
+* Moby Dick - Herman Melville
+1869
+* War and Peace - Leo Tolstoy
+1882
+* The Gay Science - Friedrich Nietzsche
+1886
+* Beyond Good and Evil - Friedrich Nietzsche
+1892
+* The Adventures of Sherlock Holmes - Arthur Conan Doyle
+
+
+1900's						Chaos
+* The Portrait of An Artist as a Young Man
+* 										  Ulysses
+( 								 In Search of Lost Time
+														FinnegansWake
 * The Lord of the Rings
 
-2000's
+
+
+2000's					Matriarchy Or Extinction
+				_____
+				Will&Freedom
+				Patternicity, Superintuition & Control 					 {Racecraft, State & Economics}
+				Data, Capital, Godot, _____
 * Educated
-----------------------------------------------------------------
-----------------------------------------------------------------
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
 1320 
 * Divine Comedy - Dante Alighieri
 1387
@@ -167,6 +206,8 @@ essayists:
 1793
 * The Marriage of Heaven and Hell - William Blake
 
+**Lyric Poetry - William Wordsworth
+
 1808
 * Faust, Part One - Johann Wolfgang von Goethe
 1832
@@ -174,7 +215,7 @@ essayists:
 1851
 * Moby Dick - Herman Melville
 1869
-* War and Peace - Leo Tolstoy
+* War and Peace - Leo Tolstoys
 1882
 * The Gay Science - Friedrich Nietzsche
 1886
@@ -192,6 +233,10 @@ essayists:
 1943
 * She Came to Stay - Simone de Beauvoir
 * The Figure of Beatrice
+
+'33-'42
+* The Man Without Qualities - Robert Musil
+
 1963
 *  The Ulysses Theme 
 1980
