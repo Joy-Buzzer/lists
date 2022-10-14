@@ -50,7 +50,7 @@ Artists:
 
 Works: 
 ----------------------------------------------------------------
-	Renaissance 
+	Renaíssance 
 1400 - 1550
 
 	Mannerism
@@ -79,7 +79,9 @@ Works:
 * Tiger in a Tropical Storm (Surprised!)
 	
 	Realism
-	
+*blah
+*blah
+*blaaah
 	
 ----------------------------------------------------------------
 1900's

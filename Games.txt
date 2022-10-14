@@ -6,8 +6,8 @@
 	* Kingdom Hearts II 
 	* Devil May Cry 3: Dante's Awakening
 	* Thief II: The Metal Age
-	* Kingdom Hearts
 	* Dark Souls
+	* Kingdom Hearts
 	* The Last of Us Part II
 	* Halo: Combat Evolved
 	* Half-Life
@@ -24,10 +24,12 @@
 	* Grand Theft Auto V
 	* Uncharted 2: Among Thieves
 
-	* Halo 3
+	* The Elder Scrolls IV: Oblivion
 	* Resident Evil 4
-	* Cyberpunk 2077
+	* Halo 3
 	* Half-Life: Alyx
+	* Super Mario Galaxy
+	* Half-Life 2
 	* Metal Gear Solid
 	* The Last of Us
 -------------------------------------------------------------------------	
@@ -88,7 +90,7 @@
  Decades:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-<1990's				Subjects & Objects				Chaos
+<1990's				Súbj_ct & ObJex					Chaos
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1990's				Heroes & Worlds					Myth
@@ -163,7 +165,7 @@
 * Metal Gear Solid 2: Sons of Liberty
 * Prince of Persia: The Sands of Time
 -------------------------------------------------------------------------
-2010's				Stories & Systems				Ideology
+2010's				Stories & Systems				IdéológY
 -------------------------------------------------------------------------
 * DotA 2
 * Dark Souls
@@ -178,7 +180,6 @@
 
 * Dark Souls III
 * Return of the Obra Dinn
-* Super Mario Galaxy 2
 * Nier: Automata
 * Red Dead Redemption
 * Uncharted 4: A Thief's End
@@ -186,8 +187,8 @@
 * Super Meat Boy
 * Red Dead Redemption 2
 * Cuphead
+* Trials Evolution
 
-* Tekken 7
 * The Stanley Parable
 * The Elder Scrolls V: Skyrim
 * Brothers: A Tale of Two Sons
@@ -195,10 +196,11 @@
 * Hitman
 * Portal 2
 * Ni no Kuni: Wrath of the White Witch
-* Mass Effect 2
-* Middle-Earth: Shadow of War
-
 * Death Stranding
+* Mass Effect 2
+* Tekken 7
+
+* Middle-Earth: Shadow of War
 * The Beginner's Guide
 * The Talos Principle
 * God of War III
@@ -207,21 +209,28 @@
 * Vanquish
 * To the Moon
 -------------------------------------------------------------------------
-2020's				Knowledge & Nature				Soul
+2020's				Knowledge & Nature				SouL
 -------------------------------------------------------------------------
 * The Last of Us Part II
 * Cyberpunk 2077
 * Half-Life: Alyx
 * Ghost of Tsushima
 
+? Scary Kojíma
+? Yoko Taro on Acid
 ? Devil May Cry VI
-? scary Kojima
 ? Kingdom Hearts (???)
 ? GTA VI
-? Yoko Taro on Acid
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
+-------------------------------------------------------------------------
+2030's				Civil-SocieT & StáT				YggDrasiL
+
+
+
+
+-------------------------------------------------------------------------
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
  Years:
@@ -350,6 +359,7 @@ To Play:
 * Bugdom
 
 To Play:
+* Homeworld
 * Final Fantasy VIII
 * Shenmue
 * Legacy of Kain: Soul Reaver
@@ -459,16 +469,16 @@ To Play:
 * Sly 2: Band of Thieves
 * Ratchet & Clank: Up Your Arsenal
 * Spider-Man 2
+* Ninja Gaiden
 * Harry Potter and the Prisoner of Azkaban
-* Garry's Mod
 
+* Garry's Mod
 * Thief: Deadly Shadows
 
 To Play:
-* Ninja Gaiden
+* Burnout 3: Takedown
 * Tekken 5
 * Doom 3
-* Burnout 3: Takedown
 * Katamari Damacy
 * Tony Hawk's Underground 2
 * KotOR II
@@ -494,8 +504,10 @@ To Play:
 * Jak X: Combat Racing
 * The Matrix: Path of Neo
 * Ratchet: Deadlocked
+* Midnight Club 3: Dub Edition
 
 To Play:
+* killer7
 * Ultimate Spider-Man
 * Sid Meier's Civilization IV
 * Prince of Persia: The Two Thrones
@@ -562,9 +574,10 @@ To Play:
 * Call of Duty: World at War
 * Braid
 * Prince of Persia
+* Ninja Gaiden II
 * Mirror's Edge
-* Soul Calibur IV
 
+* Soul Calibur IV
 * Lego Batman: The Video Game
 * Dead Space
 * Spider-Man: Web of Shadows
@@ -575,7 +588,6 @@ To Play:
 
 To Play:
 * Left 4 Dead
-* Ninja Gaiden II
 * BlazBlue: Calamity Trigger
 * Far Cry 2
 * Fable II
@@ -588,8 +600,8 @@ To Play:
 * Uncharted 2: Among Thieves
 * Batman: Arkham Asylum
 * Assassin's Creed II
-* Call of Duty: Modern Warfare 2
 * Ratchet & Clank Future: A Crack in Time
+* Call of Duty: Modern Warfare 2
 * Demon's Souls
 * Brütal Legend
 * inFamous
@@ -637,6 +649,7 @@ To Play:
 * Fallout: New Vegas
 * Heavy Rain
 
+* Super Mario Galaxy 2
 * Enslaved: Odyssey to the West
 * Halo: Reach
 * Bayonetta
@@ -646,13 +659,12 @@ To Play:
 * Kingdom Hearts Birth by Sleep
 * Metal Gear Solid: Peace Walker
 * Dead Rising 2
-* Plants vs. Zombies
 
+* Plants vs. Zombies
 * Just Cause 2
 * Dante's Inferno
 
 To Play:
-* Super Mario Galaxy 2
 * Nier
 * Yakuza 4
 * Battlefield: Bad Company 2
@@ -700,36 +712,38 @@ To Play:
 
 -------------------------------------------------------------------------
 2012 					
+* Ninja Gaiden 3
+* Trials Evolution
 * Mark of the Ninja
 * Journey
+* Mass Effect 3
 * Sleeping Dogs
 * Halo 4
 * Dust: An Elysian Tail
 * Borderlands 2
-* Spec Ops: The Line
 * The Walking Dead
+
+* Spec Ops: The Line
 * Thomas Was Alone
 * Guild Wars 2
-
+* Dragons Dogma
 * FTL: Faster Than Light
 * Hotline Miami
 * Slender: The Eight Pages
 * Fez
 * Dishonored
 * Quantum Conundrum
+
 * Max Payne 3
 * PlayStation All-Stars Battle Royale
 * Dear Esther
 * Kingdom Hearts 3D: Dream Drop Distance
 
 To Play:
-* Dragons Dogma
-* Mass Effect 3
 * Yakuza 5
 * NeverDead
 * The Darkness II
 * Alan Wake
-* Ninja Gaiden 3
 * Xenoblade Chronicles
 * Gravity Rush
 * Spelunky
@@ -781,14 +795,16 @@ To Play:
 * The Talos Principle
 * Middle-earth: Shadow of Mordor
 * Scrolls
+* BattleBlock Theater
 * Jazzpunk
 * Metal Gear Solid V: Ground Zeroes
 * Transistor 
 * Styx: Master of Shadows
+* Shovel Knight
 * Goat Simulator
+
 * A Bird Story
 * This War of Mine
-
 * Hearthstone: Heroes of Warcraft
 * Dark Souls II
 * Smite
@@ -798,7 +814,6 @@ To Play:
 To Play:
 * Alien: Isolation
 * Wolfenstein: The New Order
-* Shovel Knight
 * Titanfall
 * Child of Light
 * The Swapper
@@ -844,16 +859,17 @@ To Play:
 -------------------------------------------------------------------------
 2016 					
 * Dark Souls III
-* DOOM
 * Uncharted 4: A Thief's End
+* Sid Meier's Civilization VI
+* DOOM
 * INSIDE
 * HITMAN
 * Overwatch
 * The Witness
 * Thumper
 * The Last Guardian
-* Superhot
 
+* Superhot
 * SpeedRunners
 * Furi
 * Devil Daggers
@@ -863,9 +879,11 @@ To Play:
 * Clustertruck
 * That Dragon, Cancer
 * Ratchet & Clank
+
 * Pony Island
 
 To Play:
+* XCOM 2
 * Yakuza 6: The Song of Life
 * Firewatch
 * Oxenfree
@@ -874,7 +892,6 @@ To Play:
 * Song of the Deep
 * Dishonored 2
 * Owlboy
-* XCOM 2
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -886,10 +903,11 @@ To Play:
 * Hellblade: Senua's Sacrifice
 * Finding Paradise
 * A Hat in Time
+* Horizon Zero Dawn
 * Getting Over It with Bennett Foddy
 * What Remains of Edith Finch
-* Resident Evil 7: Biohazard
 
+* Resident Evil 7: Biohazard
 * Yooka-Laylee
 * Kingdom Hearts 0.2: Birth by Sleep – A Fragmentary Passage
 
@@ -935,18 +953,19 @@ To Play:
 
 -------------------------------------------------------------------------
 2019
-* Devil May Cry 5
-* Sekiro: Shadows Die Twice
-* Outer Wilds
 * Death Stranding
+* Sekiro: Shadows Die Twice
+* Devil May Cry 5
+* Outer Wilds
+* Jedi Fallen Order
 * AMID EVIL
 * Mortal Kombat 11
-* Jedi Fallen Order
 * Control
+* Trine 4: The Nightmare Prince
+* Need for Speed Heat
+
 * Superliminal
 * A Plague Tale: Innocence
-
-* Apex Legends
 * Kingdom Hearts III
 * One Piece: World Seeker
 * Tetris Effect
@@ -957,6 +976,7 @@ To Play:
 * Man of Medan
 
 To Play: 
+* Apex Legends
 * Baba is You
 -------------------------------------------------------------------------
 
@@ -967,29 +987,46 @@ To Play:
 * Half-Life: Alyx
 * Ghost of Tsushima
 * DOOM Eternal
+* Hades
+* Spider-Man: Miles Morales
+* Assassin's Creed Valhalla
 * Cyberpunk 2077
+* Crash Bandicoot 4: It's About Time
 * Call of Duty Black Ops Cold War
 
 To Play: 
-* 
-* Assassin's Creed Valhalla
 * Yakuza: Like a Dragon
 * Serious Sam 4
+* Risk of Rain 2
+* Final Fantasy 7 Remake
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
 2021
+* Returnal
+* HITMAN 3
+* Psychonauts 2
+* Ratchet & Clank Rift Apart
 
 ?
-* HITMAN 3
 * Nier Replicant
 * Reflect
 * Scarlet Nexus
 * Evil West
 
 -------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+2022
+* Elden Ring
+* Horizon: Forbidden West
+
+
+?
+* God of War: Ragnarok
+
+-------------------------------------------------------------------------
 Upcoming:
-* Psychonauts 2
 * The Elder Scrolls VI
 * The Talos Principle 2
 * Starfield

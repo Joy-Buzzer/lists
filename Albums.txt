@@ -230,9 +230,9 @@ SMiLE(10)
 	* Marquee Moon 
 	* [Led Zeppelin IV] 
 	* Bitches Brew 
+	* Low 
 	* Entertainment! 
 	* There's A Riot Goin' On 
-	* Low 
 	* Ege Bamyasi 
 	* Trans-Europe Express 
 	* Chairs Missing 
@@ -270,12 +270,13 @@ SMiLE(10)
 	* Rain Dogs
 	* Paul's Boutique
 	* Brotherhood
+	* English Settlement
 	* On Fire
 	* Only a Lad
 	* Strange Times
 	* Power, Corruption & Lies 
-	* Thriller
 
+	* Thriller
 	* Murmur
 	* The Smiths
 	* Burning From The Inside
@@ -304,7 +305,7 @@ SMiLE(10)
 	* Ready to Die
 	* Nowhere
 	* Illmatic
-
+ 
 	* Weezer 
 	* Selected Ambient Works 85-92
 -------------------------------------------------------------------------
@@ -447,6 +448,9 @@ SMiLE(10)
 * Magical Mystery Tour - The Beatles 
 * The Doors - The Doors
 * Between The Buttons - The Rolling Stones
+
+?
+* Surrealistic Pillow - Jefferson Airplane
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1968
@@ -458,6 +462,7 @@ SMiLE(10)
 * White Light/White Heat - The Velvet Underground 
 * The Kinks are the Village Green Conservation Society - The Kinks
 * Beggars Banquet - The Rolling Stones
+* A Saucerful Of Secrets - Pink Floyd
 * At Folsom Prison - Johnny Cash
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -481,7 +486,7 @@ SMiLE(10)
 * III - Led Zeppelin
 * Loaded - The Velvet Underground
 * Let It Be - The Beatles
-
+* Atom Heart Mother - Pink Floyd
 * Curtis - Curtis Mayfield
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -512,17 +517,20 @@ SMiLE(10)
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1973
-* Here Come the Warm Jets - Brian Eno
 * Dark Side of the Moon - Pink Floyd
 * Faust IV - Faust
 * Aladdin Sane - David Bowie
+* Future Days - Can
 
 ?
 * Innervisions - Steivie Wonder
 * Berlin - Lou Reed
+* Paris 1919 - John Cale
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1974
+* Here Come the Warm Jets - Brian Eno
+* Fear - John Cale
 
 To Listen: 
 * Radio City - Big Star
@@ -532,7 +540,9 @@ To Listen:
 * Blood on the Tracks - Bob Dylan
 * Wish You Were Here - Pink Floyd
 * Another Green World - Brian Eno
+* Native Dancer - Wayne Shorter
 
+?
 * Still Crazy After All These Years - Paul Simon
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -549,63 +559,84 @@ To Listen:
 * The Idiot - Iggy Pop
 
 ?
+* New Age Of Earth - Ashra
 -------------------------------------------------------------------------
--------------------------------------------------------------------------
+--------------------------------------------------- ----------------------
 1978
 * Chairs Missing - Wire
 * Real Life - Magazine
 * Adventure - Television
+* Hemispheres - Rush
 * Parallel Lines - Blondie
+* Easter - Patti Smith
+* Go 2 - XTC
+* White Music - XTC
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1979
 * Entertainment! - Gang of Four
 * London Calling - The Clash
-* Unknown Pleasures - Joy Division
 * The Wall - Pink Floyd
-* Breakfast in America - Supertramp
-* Drums And Wires - XTC
-* Metal Box - Public Image Ltd.
 * 154 - Wire
+* Unknown Pleasures - Joy Division
+* Drums And Wires - XTC
+* Breakfast in America - Supertramp
+* Metal Box - Public Image Ltd.
 * Fear of Music - Talking Heads
+* Wave - Patti Smith
+
+* The Flying Lizards - The Flying Lizards
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
 1980
 * Closer - Joy Division
-* Remain in Light - Talking Head
+* Remain in Light - Talking Heads
+* Sandinista! - The Clash
+* Permanent Waves - Rush
+* Back In Black - AC/DC
+* Scary Monsters (And Super Creeps) - David Bowie
+* Zenyatta Mondatta - The Police
+* Making Movies - Dire Straits
+* Seventeen Seconds - The Cure
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1981
 * Talk Talk Talk - The Psychedlic Furs
 * Only a Lad - Oingo Boingo
+* Wilder - The Teardrop Explodes
 * La Folie - The Stranglers
 * Juju - Siouxsie and the Banshees
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1982
 * English Settlement - XTC
+* Combat Rock - The Clash
 * Nothing to Fear - Oingo Boingo
 * Thriller - Micheal Jackson
+* Rip It Up - Orange Juice
 * Hex Enducation Hour - The Fall
+* Forever Now - The Psychadelic Furs
 
 ?
+* You Can't Hide Your Love Forever - Orange Juice
 * Beautiful Vision - Van Morrison
-* Rip It Up - Orange Juice
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1983
+* Mummer - XTC
 * Murmur - R.E.M.
 * Burning From The Inside - Bauchus
 * Power, Corruption & Lies - New Order
 * Violent Femmes - Violent Femmes
 
-* Mummer - XTC
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1984
 * Purple Rain - Prince
 * Double Nickels on the Dime - Minutemen
+* Treasure - Cocteau Twins
+* Mirror Moves - The Psychadelic Furs
 * The Smiths - The Smiths
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -623,6 +654,8 @@ To Listen:
 * The Queen is Dead - The Smiths
 * Brotherhood - New Order
 * Strange Times - The Chameleons
+* Evol - Sonic Youth
+* The Pink Opaque - Cocteau Twins
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1987
@@ -655,13 +688,16 @@ To Listen:
 * Goo - Sonic Youth
 * Wrong Way Up - Brian Eno & John Cale
 * Songs for Drella  - Lou Reed & John Cale
-
+* She Hangs Brightly - Mazzy Star
+* Fakebook - Yo La Tengo
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1991
 * Loveless - My Bloody Valentine
 * Nevermind - Nirvana
+* 712 - Shonen Knife
 * 2Pacalypse Now - 2Pac
+* Gish - Smashing Pumpkins
 * Blue Lines - Massive Attack
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -683,12 +719,17 @@ To Listen:
 * Crooked Rain, Crooked Rain - Pavement
 * Ready to Die - The Notorious B.I.G.
 * Bee Thousand - Guided By Voices
-* Weezer - Weezer
 * Illmatic - Nas
+* Weezer - Weezer
 * Parklife - Blur
-* Loved - Cranes
-* Grace - Jeff Buckley
+* If I Were A Carpenter - various
 * Selected Ambient Works Volume II - Aphex Twin
+* Loved - Cranes
+
+
+?
+* Holiday - The Magnetic Fields
+* Grace - Jeff Buckley
 * Dummy - Portishead
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -696,6 +737,7 @@ To Listen:
 * The Bends - Radiohead
 * Post - Björk
 * Different Class - Pulp
+* Pulse - Pink Floyd
 
 ?
 * To Bring You My Love - PJ Harvey
@@ -719,6 +761,7 @@ To Listen:
 * Homogenic - Björk
 * Perfect From Now On - Built to Spill
 * Songs from Northern Britain - Teenage Fanclub
+* Black Unity - Pharoah Sanders
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1998
@@ -727,6 +770,7 @@ To Listen:
 * I See a Darkness - Bonnie "Prince" Billy
 * Music Has the Right to Children - Boards of Canada
 * American Water - Silver Jews
+* Is This Desire? - PJ Harvey
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1999
@@ -742,12 +786,14 @@ To Listen:
 * Kid A - Radiohead
 * Since I Left You - The Avalanches
 * The Moon & Antarctica - Modest Mouse
-* Voodoo - D'Angelo
-
 * And Then Nothing Turned Itself Inside-Out - Yo La Tengo
-* Supreme Clientelle - Ghostface Killah
 * Spirit They're Gone, Spirit They've Vanished - Animal Collective
+* Stories From The City, Stories From The Sea - PJ Harvey
 * The Sickness - Disturbed
+
+?
+* Voodoo - D'Angelo
+* Supreme Clientelle - Ghostface Killah
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2001
@@ -823,9 +869,11 @@ To Listen:
 * Person Pitch - Panda Bear
 * Strawberry Jam - Animal Collective
 * † - Justice
+* Electronical - Many
 * Graduation - Kanye West
 * For Emma, Forever Ago - Bon Iver
 * The Bird Of Music - Au Revoir Simone
+
 * Night Falls Over Kortedala - Jens Lekman
 * Album - Girls
 
@@ -850,7 +898,7 @@ To Listen:
 * Bitte Orca - Dirty Projectors
 * Veckatimest - Grizzly Bear
 * Logos - Atlas Sound
-* You Will Never Know Why
+* You Will Never Know Why - Sweet Trip
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
@@ -870,6 +918,7 @@ To Listen:
 * Cosmogramma - Flying Lotus
 * Broken Bells - Broken Bells
 * Causers of This - Toro y Moi
+* Transference - Spoon
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2011
@@ -884,9 +933,12 @@ To Listen:
 * Angles - The Strokes
 * Let England Shake - PJ Harvey
 
+* Unlimited Edition - CAN
 * Days - Real Estate
-* James Blake - James Blake
 * Eye Contact - Gang Gang Dance
+* Audio, Video, Disco. - Justice
+* James Blake - James Blake
+* The Outside Room - Weyes Blood
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2012
@@ -898,17 +950,18 @@ To Listen:
 * Bloom - Beach House
 * The Money Store - Death Grips
 * The Idler Wheel... - Fiona Apple
+* Fear Fun - Father John Misty
 * Kill for Love - Chromatics
-* Shields - Grizzly Bear
 
+* Shields - Grizzly Bear
 * Mature Themes - Ariel Pink's Haunted Graffiti
 * Visions - Grimes
 * Gossamer - Passion Pit
 * That's Why God Made the Radio - The Beach Boys
+* Half Way Home - Angel Olsen
 * Centipede Hz - Animal Collective
 
 ?
-* Fear Fun - Father John Misty
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2013
@@ -921,6 +974,9 @@ To Listen:
 * Reflektor - Arcade Fire
 * Back to Land - Wooden Ships
 * Static - cults
+* Wriggle Out the Restless - This Is The Kit
+
+* Clash the Truth - Beach Fossils
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2014
@@ -929,6 +985,7 @@ To Listen:
 * Black Messiah - D'Angelo And The Vanguard
 * Lost in the Dream - The War on Drugs
 * This Is All Yours - alt-J
+* Cassette - Preoccupations
 
 ?
 * French Exit - TV Girl
@@ -937,8 +994,8 @@ To Listen:
 
 -------------------------------------------------------------------------
 2015
-* Currents - Tame Impala
 * To Pimp a Butterfly - Kendrick Lamar
+* Currents - Tame Impala
 * Carrie & Lowell - Sufjan Stevens
 * In Colour - Jamie xx
 * Vulnicura - Bjork
@@ -949,6 +1006,7 @@ To Listen:
 * What The World Needs Now... - Public Image Ltd.
 
 ?
+* I Love You, Honeybear - Father John Misty
 * AT.LONG.LAST.A$AP - A$AP Rocky
 * Moonlust - The Holydrug Couple
 -------------------------------------------------------------------------
@@ -965,37 +1023,44 @@ To Listen:
 * untitled unmastered - Kendrick Lamar
 * Skeleton Tree - Nick Cave & The Bad Seeds
 * HOPELESSNESS - ANOHNI.
+
 * Wildflower - The Avalanches
-* Human Performance - Parquet Courts54
+* Human Performance - Parquet Courts
 * Masterpiece - Big Thief
-
+* Jumping the Shark - Alex Cameron 
+* Front Row Seat to Earth - Weyes Blood
+* Woman - Justice
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
-2017											\ somersaulT 1230 | 2021 .
-* Somersault - Beach Fossils 
-* Petite Afrique - Somi
-* Slowdive - Slowdive
-* DAMN. - Kendrick Lamar
+2017											\ 2021 .
 * Pure Comedy - Father John Misty
+* Petite Afrique - Somi
+* DAMN. - Kendrick Lamar
+* Slowdive - Slowdive
+* Somersault - Beach Fossils 
 * Melodrama - Lorde
 * Drunk - Thundercat
+* Forced Witness - Alex Cameron
 * Hang - Foxygen
 * Brutalism - IDLES
-* The OOZ - King Krule
 
 * Forget - Xiu Xiu
-* 1992 Deluxe - Princess Nokia
+* The OOZ - King Krule
 * Black Origami - Jlin
 * SATURATION III - Brockhampton
 * The Weather - Pond
 * Arca - Arca
 * Crack-Up - Fleet Foxes
-* Painted Ruins - Grizzly Bear
-* Forced Witness - Alex Cameron
-* Utopia - Bjork
+* Stranger in the Alps - Phoebe Bridgers
 
 ?
+* Pleasure - Feist
+* Soft Sounds from Another Planet - Japanese Breakfast
+* Phases - Angel Olsen
+* Painted Ruins - Grizzly Bear
+* Utopia - Bjork
+* 1992 Deluxe - Princess Nokia
 * Belladonna of Sadness - Alexandra Savior
 -------------------------------------------------------------------------
 
@@ -1012,6 +1077,7 @@ To Listen:
 * A Laughing Death in Meatspace - Tropical Fuck Storm
 * Tranquility Base Hotel & Casino - Arctic Monkeys
 
+* Ordinary Corrupt Human Love - Deafheaven
 * The Time-Keepers - The Time-Keepers
 * Safe In The Hands of Love - Yves Tumor
 * Daytona - Pusha T
@@ -1019,6 +1085,8 @@ To Listen:
 * KIDS SEE GHOSTS - KIDS SEE GHOSTS
 
 ?
+* Space Happy - Håvard Volden
+* God's Favorite Customer - Father John Misty
 * Kiss Yr Frenemies - illuminati hotties
 * Golden Hour - Kacey Musgraves
 * Negro Swan - Blood Orange
@@ -1031,23 +1099,24 @@ To Listen:
 
 -------------------------------------------------------------------------
 2019
+* Miami Memory - Alex Cameron
+* The Practise of Love - Jenny Hval
+* Titanic Rising - Weyes Blood
 * Atlanta Millionaires Club - Faye Webster
 * Spanish Dance Troupe - Gorky's Zygotic Mynci
 * Tender Buttons - Broadcast
-* The Practise of Love - Jenny Hval
+* The Age Of Immunology - Vanishing Twin
 * Closer to Grey - Chromatics
 * i,i - Bon Iver
-* Miami Memory - Alex Cameron
-* 2020 - Richard Dawson
+* Start Clanging Cymbals - Voka Gentle
+
 * I Also Want to Die in New Orleans - Sun Kil Moon
 * Athena - Sudan Archives
-
-* Titanic Rising - Weyes Blood
+* 2020 - Richard Dawson
 * When I Get Home - Solange
 * Beware of the Dogs - Stella Donnelly
 
 ?
-* The Age Of Immunology - Vanishing Twin
 * Schlagenheim - black midi
 * !000 gecs - 100 gecs
 -------------------------------------------------------------------------
@@ -1063,9 +1132,12 @@ To Listen:
 * RTJ4 - Run The Jewels
 * Suite for Max Brown - Jeff Parker
 * Which Way is Forward? - Obongjayar
-* WHAT WE DREW - Yaeji
+* Sixteen Oceans - Four Tet
 
+* WHAT WE DREW - Yaeji
+* Made of Rain - The Psychadelic Furs
 * Shall We Go On Sinning So That Grace May Increase? - The Soft Pink Truth
+* Archaeopteryx - Monolake
 * A Hero's Death - Fontaines D.C.
 * TO LOVE IS TO LIVE - Jehnny Beth
 * Aporia - Sufjan Stevens, Lowell Brams
@@ -1073,8 +1145,30 @@ To Listen:
 * The Long Goodbye - Riz Ahmed
 
 ? 
+* color theory - Soccer Mommy
 * Shore - Fleet Foxes
 * Éons - Neptunian Maximalism
-* Archaeopteryx - Monolake
 * Earth Crisis - Dirty Projectors
 -------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+2021
+* Donda - Kanye West
+* Cavalcade - black midi
+* Seeking New Gods - Gruff Rhys
+* Afrique Victime - Mdou Moctar
+* New Long Leg - Dry Cleaning
+* Menneskekollektivet - Lost Girls
+* Flock - Jane Weaver
+
+?
+* For Those I Love - For Those I Love
+* Vulture Prince - Arooj Aftab
+-------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+2022
+* Mr. Morale & The Big Steppers
+
+-------------------------------------------------------------------------
+

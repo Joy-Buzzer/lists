@@ -62,7 +62,7 @@ essayists:
 
  Lucretius
 
- Beowolf
+ Béowolf
 
 500'sB		Lao Tzu or Laozi
 				(theWay)
@@ -70,7 +70,7 @@ essayists:
 
 1300's			the Ego traverses the Cascade
 * Dante
-	* Divine Comedy
+	* Divine Comédy
 
 1600's					Bardoltry
 * William Shakespeare
@@ -215,21 +215,22 @@ essayists:
 1851
 * Moby Dick - Herman Melville
 1869
-* War and Peace - Leo Tolstoys
+* War and Peace - Leo Tolstoy
 1882
 * The Gay Science - Friedrich Nietzsche
 1886
 * Beyond Good and Evil - Friedrich Nietzsche
 1892
 * The Adventures of Sherlock Holmes - Arthur Conan Doyle
+1900
+* The Interpretation of Dreams - Sigmund Freud
 1910
 * Three Philosophical Poets
 
 1918
-* Ulysses
+* Ulyssés
 1922
-* Finnegans Wake
-^ (Fin-Again)'s Wake <-wake up to cicular logic
+* FinnAgain's Wake
 1943
 * She Came to Stay - Simone de Beauvoir
 * The Figure of Beatrice
@@ -238,7 +239,7 @@ essayists:
 * The Man Without Qualities - Robert Musil
 
 1963
-*  The Ulysses Theme 
+*  The Ulyssés Theme 
 1980
 * A People's History of the United States
 1982

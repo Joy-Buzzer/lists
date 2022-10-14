@@ -33,8 +33,8 @@
 * Star Trek
 * Star Trek: Deep Space Nine
 * Black Mirror
-* Star Trek: Discovery
 * Star Gate: Atlantis
+* Star Trek: Discovery
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 	Comedy
@@ -50,8 +50,15 @@
 -------------------------------------------------------------------------
 	Fantasy
 
-* Adventure Time
 * Twin Peaks
-* Game of Thrones
 * Buffy the Vampire Slayer
+* Adventure Time
+* Game of Thrones
 -------------------------------------------------------------------------
+
+* Tokyo Vice
+* Fleebag 
+* Atlanta 
+* This way 
+* I will destroy you
+* Severnece
