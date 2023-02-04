@@ -2,36 +2,45 @@
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------	
-	* Grand Theft Auto: San Andreas	
-	* Kingdom Hearts II 
-	* Devil May Cry 3: Dante's Awakening
-	* Thief II: The Metal Age
 	* Dark Souls
-	* Kingdom Hearts
-	* The Last of Us Part II
-	* Halo: Combat Evolved
-	* Half-Life
-	* Devil May Cry 5
-
+	* Grand Theft Auto: San Andreas	
+	* Devil May Cry 3: Dante's Awakening
+	* Kingdom Hearts II 
+	* Thief II: The Metal Age
+	* Devil May Cry V
 	* Sekiro: Shadows Die Twice
 	* DotA 2	
+	* The Last of Us Part II
+	* Halo: Combat Evolved
+
 	* Minecraft
-	* God of War (BOI)
+	* Half-Life
 	* Batman: Arkham City
 	* Metal Gear Solid 3: Snake Eater
+	* Kingdom Hearts
 	* Psychonauts
 	* Ratchet & Clank
+	* Elden Ring
 	* Grand Theft Auto V
 	* Uncharted 2: Among Thieves
 
 	* The Elder Scrolls IV: Oblivion
 	* Resident Evil 4
 	* Halo 3
-	* Half-Life: Alyx
-	* Super Mario Galaxy
-	* Half-Life 2
 	* Metal Gear Solid
 	* The Last of Us
+	* Super Mario Galaxy
+	* Death Stranding
+	* Ratchet & Clank 2
+	* Half-Life: Alyx
+	* God of War (BOI)
+	
+	* Half-Life 2
+	* Red Dead Redemption
+	* Jak 3
+	* Nier: Automata		
+	* Dark Souls 3
+	* Shadow of the Colossus
 -------------------------------------------------------------------------	
 -------------------------------------------------------------------------	
 -------------------------------------------------------------------------
@@ -46,7 +55,7 @@
 -------------------------------------------------------------------------
 	Mechanical Depth:
 * DotA 2
-* Devil May Cry 5
+* Devil May Cry V
 * Devil May Cry 3: Dante's Awakening
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
@@ -78,9 +87,9 @@
 -------------------------------------------------------------------------	
 -------------------------------------------------------------------------	
  Developers:	
+	* From Software
 	* Naughty Dog
 	* Valve
-	* From Software
 	* Insomniac
 	* Rockstar
 -------------------------------------------------------------------------
@@ -169,13 +178,13 @@
 -------------------------------------------------------------------------
 * DotA 2
 * Dark Souls
-* God of War
 * Devil May Cry V
 * Sekiro: Shadows Die Twice
 * The Last of Us
 * Minecraft
 * Batman: Arkham City
 * Grand Theft Auto V
+* God of War
 * Hitman 2
 
 * Dark Souls III
@@ -212,8 +221,10 @@
 2020's				Knowledge & Nature				SouL
 -------------------------------------------------------------------------
 * The Last of Us Part II
-* Cyberpunk 2077
+* Elden Ring
 * Half-Life: Alyx
+* God of War: Ragnarok
+* Cyberpunk 2077
 * Ghost of Tsushima
 
 ? Scary Kojíma
@@ -767,9 +778,10 @@ To Play:
 * Guacamelee!
 * The Wolf Among Us
 
-* Far Cry 3: Blood Dragon
 * BioShock Infinite
 * Saints Row IV
+* Far Cry 3: Blood Dragon
+* Metal Gear Rising: Revengeance
 * Injustice: Gods Among Us
 * DmC: Devil May Cry
 * Antichamber
@@ -786,7 +798,6 @@ To Play:
 * Super Mario 3D World
 * Fire Emblem: Awakening
 * The Legend of Zelda: A Link Between Worlds
-* Metal Gear Rising: Revengeance
 * Total War: Rome II
 -------------------------------------------------------------------------
 
@@ -953,9 +964,9 @@ To Play:
 
 -------------------------------------------------------------------------
 2019
-* Death Stranding
+* Devil May Cry V
 * Sekiro: Shadows Die Twice
-* Devil May Cry 5
+* Death Stranding
 * Outer Wilds
 * Jedi Fallen Order
 * AMID EVIL
@@ -1019,12 +1030,12 @@ To Play:
 -------------------------------------------------------------------------
 2022
 * Elden Ring
+* God of War: Ragnarok
+* Vampire Survivors
+* Neon White 
 * Horizon: Forbidden West
 
-
 ?
-* God of War: Ragnarok
-
 -------------------------------------------------------------------------
 Upcoming:
 * The Elder Scrolls VI

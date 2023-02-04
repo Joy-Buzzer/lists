@@ -120,9 +120,9 @@
 * Harold and Maude
 
 * The Holy Mountain
+* Star Wars
 * La Planete Sauvage
 * Willy Wonka & the Chocolate Factory
-* Star Wars
 * Eraserhead
 * Rocky
 * The Rocky Horror Picture Show
@@ -364,13 +364,13 @@ To Watch:
 1935
 
 To Watch:
-* The Crime of Monsieur Lange
 * New Women
 * Triumph of the Will
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1936
 * Modern Times
+* The Crime of Monsieur Lange
 
 To Watch:
 * Une partie de campagne
@@ -404,6 +404,7 @@ To Watch:
 * The Grapes of Wrath
 * The Shop Around The Corner
 * The Great Dictator
+* His Girl Friday
 * Pinocchio
 
 To Watch:
@@ -551,6 +552,7 @@ To Watch:
 1957
 * The Seventh Seal
 * Throne of Blood
+* Wild Strawberries
 * 12 Angry Men
 * Paths of Glory
 
@@ -975,9 +977,11 @@ To Watch:
 -------------------------------------------------------------------------
 1986
 * River's Edge
+* The Mosquito Coast
 * Dust in the Wind
 * Big Trouble in Little China
 * Stand by Me
+* Aliens
 * Star Trek IV: The Voyage Home
 * Top Gun
 
@@ -985,7 +989,6 @@ To Watch:
 * Blue Velvet
 * A Better Tomorrow
 * Horse Thief
-* The Mosquito Coast
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 1987
@@ -1085,10 +1088,11 @@ To Watch:
 * Groundhog Day
 * Hard Boiled
 * Porco Rosso
+* Deep Cover
 * Malcolm X
 * Bram Stoker's Dracula
-* Reservoir Dogs
 * Aladdin
+* Reservoir Dogs
 
 To Watch:
 * Hyènes
@@ -1263,12 +1267,13 @@ To Watch:
 * Eloge de Amour
 * The Navigators
 * Monsters, Inc.		
+* Love the Hard Way
 * Hardball
 * Ocean's Eleven
 * The Lord of the Rings: The Fellowship of the Ring
 * Millenium Mambo
-* Shaolin Soccer
 
+* Shaolin Soccer
 * A.I. Artificial Intelligence
 * Vanilla Sky
 * Zoolander
@@ -1677,6 +1682,7 @@ To Watch:
 * Avengers Infinity War	
 * The House That Jack Built
 
+* Roma
 * Creed II
 * Ash Is Purest White
 * Hereditary
@@ -1686,8 +1692,8 @@ To Watch:
 * Girl
 * Green Book
 * BlacKkKlansman
-* Mary Magdalene
 
+* Mary Magdalene
 * Beautiful Boy 
 * Spider-Man: Into the Spider-Verse
 * Black Panther
@@ -1701,7 +1707,6 @@ To Watch:
 * The Image Book
 * The Game Changers
 * Eighth Grade
-* Roma
 * Climax
 * Suspiria
 * The Idea of Manhood
@@ -1717,10 +1722,11 @@ To Watch:
 * Us
 * Ip Man 4: The Finale
 * Waiting for the Barabrians
+* The Wandering Earth
 * Pain and Glory
 * Joker
-* Monos
 
+* Monos
 * The Irishman
 * A Beautiful Day in the Neighbourhood
 * Avengers Endgame
@@ -1730,8 +1736,8 @@ To Watch:
 * The Farewell
 * Knives Out
 * Hellboy
-* Marriage Story
 
+* Marriage Story
 * The Two Popes
 * The Laundromat
 * Midsommar
@@ -1796,7 +1802,12 @@ To Watch:
 
 -------------------------------------------------------------------------
 2022
+* Avatar: The Way of Water
+* Funny Pages
+* The Gray Man
+* White Noise
 * An Cailín Ciúin
+* Pinocchio
 * Doctor Strange in the Multiverse of Madness
 * Uncharted
 
