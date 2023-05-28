@@ -1374,6 +1374,7 @@ To Watch:
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 2006 					
+* Inland Empire
 * The Prestige
 * This is England
 * The Wind that Shakes the Barley
@@ -1383,8 +1384,8 @@ To Watch:
 * Crank
 * Rocky Balboa
 * Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
-* A Scanner Darkly
 
+* A Scanner Darkly
 * The Departed
 * I'm a Cyborg, But That's OK
 
@@ -1805,6 +1806,7 @@ To Watch:
 2022
 * Tár
 * Avatar: The Way of Water
+* The Whale
 * Funny Pages
 * The Gray Man
 * White Noise
@@ -1817,6 +1819,6 @@ To Watch:
 
 -------------------------------------------------------------------------
 2023
-
+* Ant-Man and the Wasp: Quantumania
 
 -------------------------------------------------------------------------

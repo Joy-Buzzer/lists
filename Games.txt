@@ -727,13 +727,14 @@ To Play:
 * Trials Evolution
 * Mark of the Ninja
 * Journey
+* Prototype 2
 * Mass Effect 3
 * Sleeping Dogs
 * Halo 4
 * Dust: An Elysian Tail
 * Borderlands 2
-* The Walking Dead
 
+* The Walking Dead
 * Spec Ops: The Line
 * Thomas Was Alone
 * Guild Wars 2
@@ -743,8 +744,8 @@ To Play:
 * Slender: The Eight Pages
 * Fez
 * Dishonored
-* Quantum Conundrum
 
+* Quantum Conundrum
 * Max Payne 3
 * PlayStation All-Stars Battle Royale
 * Dear Esther
@@ -1040,7 +1041,9 @@ To Play:
 
 -------------------------------------------------------------------------
 2023
-
+* Star Wars Jedi Survivor
+* Hogwarts Legacy
+* Forspoken
 
 -------------------------------------------------------------------------
 
