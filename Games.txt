@@ -137,14 +137,14 @@
 
 * Ratchet & Clank
 * Resident Evil 4
+* The Elder Scrolls IV: Oblivion
+* Grand Theft Auto IV
 * Half-Life 2
 * Super Mario Galaxy
-* The Elder Scrolls IV: Oblivion
 * Shadow of the Colossus
 * Jak and Daxter: The Precursor Legacy
 * Hitman: Blood Money
 * Jak 3
-* Grand Theft Auto IV
 
 * Assassin's Creed II
 * Yakuza
@@ -178,16 +178,16 @@
 -------------------------------------------------------------------------
 * DotA 2
 * Dark Souls
-* Devil May Cry V
 * Sekiro: Shadows Die Twice
 * The Last of Us
 * Minecraft
 * Batman: Arkham City
+* Devil May Cry V
+* Dark Souls III
 * Grand Theft Auto V
 * God of War
-* Hitman 2
 
-* Dark Souls III
+* Hitman 2
 * Return of the Obra Dinn
 * Nier: Automata
 * Red Dead Redemption
@@ -196,10 +196,10 @@
 * Super Meat Boy
 * Red Dead Redemption 2
 * Cuphead
-* Trials Evolution
-
-* The Stanley Parable
 * The Elder Scrolls V: Skyrim
+
+* Trials Evolution
+* The Stanley Parable
 * Brothers: A Tale of Two Sons
 * INSIDE
 * Hitman
@@ -438,6 +438,7 @@ To Play:
 * Fatal Frame
 
 * Harry Potter and the Chamber of Secrets
+* Mafia
 * The Lord of the Rings: The Two Towers
 * Ty the Tasmanian Tiger
 
@@ -528,8 +529,8 @@ To Play:
 2006 					
 * The Elder Scrolls IV: Oblivion
 * Hitman: Blood Money
-* Yakuza 2
 * God Hand
+* Yakuza 2
 * Okami
 * Destroy All Humans! 2
 * Marvel: Ultimate Alliance
@@ -538,6 +539,7 @@ To Play:
 * Superman Returns
 
 To Play:
+* Dark Messiah of Might and Magic
 * Gears of War
 * Viva Piñata
 * Bully
@@ -613,19 +615,19 @@ To Play:
 * Assassin's Creed II
 * Ratchet & Clank Future: A Crack in Time
 * Call of Duty: Modern Warfare 2
+* inFamous
 * Demon's Souls
 * Brütal Legend
-* inFamous
-* Flower
-* Skate 2
-
 * X-Men Origins: Wolverine
 * The Lord of the Rings: Conquest
+
 * Ghostbusters: The Video Game
+* Skate 2
+* Prototype
+* Flower
 * Halo 3: ODST
 * Kingdom Hearts 358/2 Days
 * League of Legends
-* Prototype
 * Rag Doll Kung Fu: Fists of Plastic
 
 To Play:
@@ -674,12 +676,13 @@ To Play:
 * Plants vs. Zombies
 * Just Cause 2
 * Dante's Inferno
+* Darksiders
 
 To Play:
+* Mafia II
 * Nier
 * Yakuza 4
 * Battlefield: Bad Company 2
-* Darksiders
 * Amnesia: The Dark Descent
 * Resonance of Fate
 * Crackdown 2
@@ -752,6 +755,7 @@ To Play:
 * Kingdom Hearts 3D: Dream Drop Distance
 
 To Play:
+* Darksiders II
 * Yakuza 5
 * NeverDead
 * The Darkness II
@@ -790,6 +794,7 @@ To Play:
 * The Plan
 
 To Play:
+* Remember Me
 * God of War: Ascension
 * Ratchet & Clank: Full Frontal Assault
 * Papers, Please
@@ -838,18 +843,18 @@ To Play:
 
 -------------------------------------------------------------------------
 2015 					
-* Yakuza 0
-* The Beginner's Guide
 * Bloodborne
-* Undertale
-* Metal Gear Solid V: The Phantom Pain
+* Yakuza 0
 * Call of Duty: Black Ops III
-* Grow Home
+* The Beginner's Guide
+* Metal Gear Solid V: The Phantom Pain
+* Batman: Arkham Knight
+* Undertale
 * Axiom Verge
-* Soma
+* Grow Home
 * Evolve
 
-* Batman: Arkham Knight
+* Soma
 * Ronin
 * Splatoon
 * Tower of Guns
@@ -876,11 +881,12 @@ To Play:
 * DOOM
 * INSIDE
 * HITMAN
+* Final Fantasy XV
 * Overwatch
 * The Witness
 * Thumper
-* The Last Guardian
 
+* The Last Guardian
 * Superhot
 * SpeedRunners
 * Furi
@@ -890,11 +896,12 @@ To Play:
 * Human: Fall Flat
 * Clustertruck
 * That Dragon, Cancer
-* Ratchet & Clank
 
+* Ratchet & Clank
 * Pony Island
 
 To Play:
+* Mafia III
 * XCOM 2
 * Yakuza 6: The Song of Life
 * Firewatch
@@ -954,13 +961,13 @@ To Play:
 * A Way Out 
 
 To Play:
+* Darksiders III
 * Subnautica
 * Dead Cells
 * Tetris Effect
 * Ni no Kuni II: Revenant Kingdom
 * Monster Hunter: World
 * Guacamelee! 2
-* Darksiders III
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
@@ -1017,6 +1024,7 @@ To Play:
 2021
 * Returnal
 * HITMAN 3
+* Marvel's Guardians of the Galaxy
 * Psychonauts 2
 * Ratchet & Clank Rift Apart
 
@@ -1037,14 +1045,20 @@ To Play:
 * Horizon: Forbidden West
 
 ?
+* Metal: Hellsinger
 -------------------------------------------------------------------------
 
 -------------------------------------------------------------------------
 2023
+* Final Fantasy XVI
+* HI-FI RUSH
 * Star Wars Jedi Survivor
 * Hogwarts Legacy
 * Forspoken
 
+?
+* Armored Core VI: Fires of Rubicon
+* Turbo Overkill
 -------------------------------------------------------------------------
 
 Upcoming:
